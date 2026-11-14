@@ -1,0 +1,200 @@
+addExtra({
+  grammar:[
+    {lv:1, j:"在 + kata kerja (sedang ...)", pola:"S + 在 + V (+ O) (+ 呢)", d:"在 di depan kata kerja menandakan tindakan sedang berlangsung. 呢 di akhir kalimat boleh ditambahkan agar terdengar lebih alami. Bentuk negatif: 沒在 + V.", c:[
+      ["我在吃飯，等我一下。","Wǒ zài chī fàn, děng wǒ yíxià.","Saya sedang makan, tunggu saya sebentar."],
+      ["媽媽在房間睡覺。","Māma zài fángjiān shuìjiào.","Ibu sedang tidur di kamar."],
+      ["弟弟在看書呢。","Dìdi zài kàn shū ne.","Adik laki-laki sedang membaca buku."]]},
+    {lv:1, j:"V + 一下 (sebentar / coba)", pola:"V + 一下 (+ O)", d:"一下 setelah kata kerja membuat tindakan terdengar singkat dan santai: 'sebentar', 'coba'. Sering dipakai untuk permintaan yang sopan.", c:[
+      ["請你在這裡等一下。","Qǐng nǐ zài zhèlǐ děng yíxià.","Tolong tunggu sebentar di sini."],
+      ["我先看一下菜單。","Wǒ xiān kàn yíxià càidān.","Saya lihat menunya sebentar dulu."],
+      ["你試一下這件衣服。","Nǐ shì yíxià zhè jiàn yīfú.","Coba pakai baju ini sebentar."]]}
+  ],
+  dialogs:[
+    {lv:1, j:"Membeli sepatu kets", s:"Seorang pembeli mencoba sepatu di toko sepatu.", b:[
+      ["Pelayan","你好！你想看什麼鞋？","Nǐ hǎo! Nǐ xiǎng kàn shénme xié?","Halo! Mau lihat sepatu apa?"],
+      ["Pembeli","我想買球鞋。","Wǒ xiǎng mǎi qiúxié.","Saya mau beli sepatu kets."],
+      ["Pelayan","你穿幾號？","Nǐ chuān jǐ hào?","Kamu pakai nomor berapa?"],
+      ["Pembeli","二十五號。我可以試一下嗎？","Èrshíwǔ hào. Wǒ kěyǐ shì yíxià ma?","Nomor dua puluh lima. Boleh saya coba?"],
+      ["Pelayan","可以，這是新的。","Kěyǐ, zhè shì xīn de.","Boleh, ini yang baru."],
+      ["Pembeli","有一點小，有大一號的嗎？","Yǒu yìdiǎn xiǎo, yǒu dà yí hào de ma?","Agak kecil, ada yang satu nomor lebih besar?"]]},
+    {lv:1, j:"Naik kereta ke kebun binatang", s:"Seorang anak dan ayahnya berangkat ke kebun binatang.", b:[
+      ["Anak","爸爸，我們坐火車去嗎？","Bàba, wǒmen zuò huǒchē qù ma?","Ayah, kita pergi naik kereta?"],
+      ["Ayah","對，坐火車很快。","Duì, zuò huǒchē hěn kuài.","Iya, naik kereta cepat."],
+      ["Anak","要坐多久？","Yào zuò duōjiǔ?","Berapa lama perjalanannya?"],
+      ["Ayah","半個小時就到了。","Bàn ge xiǎoshí jiù dào le.","Setengah jam sudah sampai."],
+      ["Anak","我想看很多動物！","Wǒ xiǎng kàn hěn duō dòngwù!","Aku mau lihat banyak hewan!"],
+      ["Ayah","好，下車我們先去吃飯。","Hǎo, xià chē wǒmen xiān qù chī fàn.","Oke, turun kereta kita makan dulu."]]},
+    {lv:1, j:"Mencari ponsel", s:"Seorang anak mencari ponselnya di rumah.", b:[
+      ["Ibu","你在找什麼？","Nǐ zài zhǎo shénme?","Kamu sedang cari apa?"],
+      ["Anak","我在找我的手機。","Wǒ zài zhǎo wǒ de shǒujī.","Aku sedang mencari ponselku."],
+      ["Ibu","你看一下桌子上面。","Nǐ kàn yíxià zhuōzi shàngmiàn.","Coba lihat di atas meja."],
+      ["Anak","沒有。媽媽，你看見了嗎？","Méiyǒu. Māma, nǐ kànjiàn le ma?","Tidak ada. Ibu, Ibu lihat?"],
+      ["Ibu","在你的床上！","Zài nǐ de chuáng shàng!","Di atas tempat tidurmu!"],
+      ["Anak","真的！謝謝媽媽。","Zhēn de! Xièxie māma.","Benar! Terima kasih, Bu."]]},
+    {lv:1, j:"Di toko buku", s:"Seorang murid mencari buku di toko buku.", b:[
+      ["Murid","請問，有沒有中文書？","Qǐngwèn, yǒu méiyǒu Zhōngwén shū?","Permisi, ada buku bahasa Mandarin?"],
+      ["Pelayan","有，在二樓。","Yǒu, zài èr lóu.","Ada, di lantai dua."],
+      ["Murid","我想買一本好看的書。","Wǒ xiǎng mǎi yì běn hǎokàn de shū.","Saya mau beli buku yang bagus."],
+      ["Pelayan","這本很好看，你看一下。","Zhè běn hěn hǎokàn, nǐ kàn yíxià.","Yang ini bagus, coba lihat."],
+      ["Murid","這本多少錢？","Zhè běn duōshǎo qián?","Yang ini berapa?"],
+      ["Pelayan","三百五十塊。","Sānbǎi wǔshí kuài.","Tiga ratus lima puluh dolar."]]},
+    {lv:1, j:"Pelajaran menari pertama", s:"Seorang guru mengajar murid yang baru belajar menari.", b:[
+      ["Guru","你第一天學跳舞嗎？","Nǐ dì yī tiān xué tiàowǔ ma?","Ini hari pertama kamu belajar menari?"],
+      ["Murid","對，我有一點怕。","Duì, wǒ yǒu yìdiǎn pà.","Iya, saya agak takut."],
+      ["Guru","別怕，我在你旁邊。","Bié pà, wǒ zài nǐ pángbiān.","Jangan takut, saya di sebelahmu."],
+      ["Murid","老師，我的腳要怎麼動？","Lǎoshī, wǒ de jiǎo yào zěnme dòng?","Bu, kaki saya harus bergerak bagaimana?"],
+      ["Guru","你看一下，像這樣。","Nǐ kàn yíxià, xiàng zhèyàng.","Coba lihat, seperti ini."],
+      ["Murid","好，我試試看。","Hǎo, wǒ shìshì kàn.","Baik, saya coba."]]},
+    {lv:1, j:"Minum teh susu bersama teman", s:"Dua teman membeli teh susu sepulang sekolah.", b:[
+      ["Xiǎoměi","我們去喝奶茶吧！","Wǒmen qù hē nǎichá ba!","Ayo kita minum teh susu!"],
+      ["Wénwen","好，今天我請你喝。","Hǎo, jīntiān wǒ qǐng nǐ hē.","Boleh, hari ini aku traktir."],
+      ["Xiǎoměi","真的嗎？你人真好！","Zhēn de ma? Nǐ rén zhēn hǎo!","Serius? Kamu baik sekali!"],
+      ["Penjual","你們要大杯還是小杯？","Nǐmen yào dà bēi háishì xiǎo bēi?","Kalian mau gelas besar atau kecil?"],
+      ["Wénwen","兩杯大杯的，要冰的。","Liǎng bēi dà bēi de, yào bīng de.","Dua gelas besar, yang dingin."],
+      ["Penjual","好，一共一百二十塊。","Hǎo, yígòng yìbǎi èrshí kuài.","Baik, semuanya seratus dua puluh dolar."]]},
+    {lv:1, j:"Sakit, tidak masuk sekolah", s:"Pagi hari, ibu melihat anaknya masih di tempat tidur.", b:[
+      ["Ibu","你怎麼還在床上？","Nǐ zěnme hái zài chuáng shàng?","Kenapa kamu masih di tempat tidur?"],
+      ["Anak","媽，我頭很痛。","Mā, wǒ tóu hěn tòng.","Bu, kepalaku sakit sekali."],
+      ["Ibu","你感冒了嗎？我看一下。","Nǐ gǎnmào le ma? Wǒ kàn yíxià.","Kamu flu? Ibu periksa sebentar."],
+      ["Anak","我好熱，也不想吃東西。","Wǒ hǎo rè, yě bù xiǎng chī dōngxi.","Aku panas sekali, juga tidak mau makan."],
+      ["Ibu","今天在家休息吧。","Jīntiān zài jiā xiūxí ba.","Hari ini istirahat di rumah saja."],
+      ["Anak","你可以給老師打電話嗎？","Nǐ kěyǐ gěi lǎoshī dǎ diànhuà ma?","Ibu bisa menelepon guru?"]]},
+    {lv:1, j:"Membeli buah", s:"Seorang pembeli membeli buah di toko buah.", b:[
+      ["Pembeli","先生，這個水果甜不甜？","Xiānshēng, zhè ge shuǐguǒ tián bu tián?","Pak, buah ini manis tidak?"],
+      ["Penjual","很甜，你吃一點看看。","Hěn tián, nǐ chī yìdiǎn kànkan.","Manis sekali, coba cicipi sedikit."],
+      ["Pembeli","真的很甜！多少錢？","Zhēn de hěn tián! Duōshǎo qián?","Benar-benar manis! Berapa?"],
+      ["Penjual","一個二十塊。","Yí ge èrshí kuài.","Satu dua puluh dolar."],
+      ["Pembeli","給我五個。","Gěi wǒ wǔ ge.","Saya mau lima."],
+      ["Penjual","好，一共一百塊。","Hǎo, yígòng yìbǎi kuài.","Baik, semuanya seratus dolar."]]},
+    {lv:1, j:"Membuatkan mi untuk adik", s:"Kakak membuatkan mi untuk adiknya yang lapar.", b:[
+      ["Adik","哥哥，我好餓。","Gēge, wǒ hǎo è.","Kak, aku lapar sekali."],
+      ["Kakak","我給你做一碗麵吧。","Wǒ gěi nǐ zuò yì wǎn miàn ba.","Kakak buatkan semangkuk mi, ya."],
+      ["Adik","好！裡面有蛋嗎？","Hǎo! Lǐmiàn yǒu dàn ma?","Asyik! Ada telurnya?"],
+      ["Kakak","有一個蛋，還有一點肉。","Yǒu yí ge dàn, hái yǒu yìdiǎn ròu.","Ada satu telur, juga sedikit daging."],
+      ["Adik","要等多久？","Yào děng duōjiǔ?","Harus tunggu berapa lama?"],
+      ["Kakak","十分鐘就好了，等一下。","Shí fēnzhōng jiù hǎo le, děng yíxià.","Sepuluh menit sudah jadi, tunggu sebentar."]]},
+    {lv:1, j:"Makan malam bersama keluarga", s:"Satu keluarga duduk bersama untuk makan malam.", b:[
+      ["Ibu","吃飯了！大家快來。","Chī fàn le! Dàjiā kuài lái.","Makan malam siap! Semua cepat ke sini."],
+      ["Ayah","今天的菜好多！","Jīntiān de cài hǎo duō!","Hari ini lauknya banyak sekali!"],
+      ["Anak","媽媽，這是什麼湯？","Māma, zhè shì shénme tāng?","Bu, ini sup apa?"],
+      ["Ibu","這是雞湯，你多喝一點。","Zhè shì jītāng, nǐ duō hē yìdiǎn.","Ini sup ayam, minum yang banyak."],
+      ["Anak","爸爸，給你一塊魚。","Bàba, gěi nǐ yí kuài yú.","Ayah, ini sepotong ikan untuk Ayah."],
+      ["Ayah","謝謝！你也多吃一點。","Xièxie! Nǐ yě duō chī yìdiǎn.","Terima kasih! Kamu juga makan yang banyak."]]},
+    {lv:1, j:"Menunggu bus saat hujan", s:"Dua teman menunggu bus di halte ketika hujan deras.", b:[
+      ["Wénwen","雨好大，公車怎麼還沒來？","Yǔ hǎo dà, gōngchē zěnme hái méi lái?","Hujannya deras sekali, kok busnya belum datang?"],
+      ["Dàwén","我看一下，還要十分鐘。","Wǒ kàn yíxià, hái yào shí fēnzhōng.","Aku cek sebentar, masih sepuluh menit lagi."],
+      ["Wénwen","好冷，我們去店裡等吧。","Hǎo lěng, wǒmen qù diàn lǐ děng ba.","Dingin sekali, kita tunggu di dalam toko saja."],
+      ["Dàwén","好，那家咖啡店很不錯。","Hǎo, nà jiā kāfēi diàn hěn búcuò.","Oke, kedai kopi itu lumayan bagus."],
+      ["Wénwen","你看，公車來了！快走！","Nǐ kàn, gōngchē lái le! Kuài zǒu!","Lihat, busnya datang! Cepat jalan!"]]},
+    {lv:1, j:"Bertemu guru di jalan", s:"Seorang anak bertemu gurunya di jalan pada hari Minggu.", b:[
+      ["Anak","高老師好！你去哪裡？","Gāo lǎoshī hǎo! Nǐ qù nǎlǐ?","Halo, Bu Gao! Ibu mau ke mana?"],
+      ["Guru","我去書店買書。你呢？","Wǒ qù shūdiàn mǎi shū. Nǐ ne?","Saya mau ke toko buku beli buku. Kamu?"],
+      ["Anak","我去公園玩。","Wǒ qù gōngyuán wán.","Saya mau main ke taman."],
+      ["Guru","你一個人去嗎？","Nǐ yí ge rén qù ma?","Kamu pergi sendirian?"],
+      ["Anak","不是，我和哥哥一起去。","Bú shì, wǒ hé gēge yìqǐ qù.","Bukan, saya pergi bersama kakak."],
+      ["Guru","好，晚上早一點回家。","Hǎo, wǎnshàng zǎo yìdiǎn huí jiā.","Baik, malam nanti pulang lebih awal ya."]]}
+  ],
+  qa:[
+    [1,"你現在在做什麼？","Nǐ xiànzài zài zuò shénme?","Sekarang kamu sedang apa?","我在寫功課。","Wǒ zài xiě gōngkè.","Saya sedang mengerjakan PR.","我是學生。","Wǒ shì xuéshēng.","房間很大。","Fángjiān hěn dà."],
+    [1,"你穿幾號的鞋子？","Nǐ chuān jǐ hào de xiézi?","Kamu pakai sepatu nomor berapa?","我穿二十四號。","Wǒ chuān èrshísì hào.","Saya pakai nomor dua puluh empat.","我買了兩件。","Wǒ mǎi le liǎng jiàn.","鞋子在門口。","Xiézi zài ménkǒu."],
+    [1,"這個電腦多少錢？","Zhè ge diànnǎo duōshǎo qián?","Komputer ini berapa harganya?","兩萬五千塊。","Liǎngwàn wǔqiān kuài.","Dua puluh lima ribu dolar.","是我的。","Shì wǒ de.","在三樓買的。","Zài sān lóu mǎi de."],
+    [1,"你們怎麼去動物園？","Nǐmen zěnme qù dòngwùyuán?","Kalian ke kebun binatang naik apa?","我們坐火車去。","Wǒmen zuò huǒchē qù.","Kami naik kereta.","我們早上去。","Wǒmen zǎoshàng qù.","動物園很大。","Dòngwùyuán hěn dà."],
+    [1,"你最喜歡什麼動物？","Nǐ zuì xǐhuān shénme dòngwù?","Hewan apa yang paling kamu suka?","我最喜歡馬。","Wǒ zuì xǐhuān mǎ.","Saya paling suka kuda.","我喜歡坐火車。","Wǒ xǐhuān zuò huǒchē.","我不想去。","Wǒ bù xiǎng qù."],
+    [1,"去動物園的火車幾點開？","Qù dòngwùyuán de huǒchē jǐ diǎn kāi?","Kereta ke kebun binatang berangkat jam berapa?","九點十分開。","Jiǔ diǎn shí fēn kāi.","Berangkat jam sembilan lewat sepuluh.","在第二月臺。","Zài dì èr yuètái.","坐一個小時。","Zuò yí ge xiǎoshí."],
+    [1,"今天誰做晚飯？","Jīntiān shéi zuò wǎnfàn?","Hari ini siapa yang membuat makan malam?","爸爸做晚飯。","Bàba zuò wǎnfàn.","Ayah yang membuat makan malam.","晚飯很好吃。","Wǎnfàn hěn hǎochī.","明天做。","Míngtiān zuò."],
+    [1,"你常常看電影嗎？","Nǐ chángcháng kàn diànyǐng ma?","Kamu sering menonton film?","不常，我很忙。","Bù cháng, wǒ hěn máng.","Tidak sering, saya sibuk.","電影很長。","Diànyǐng hěn cháng.","我有兩個房間。","Wǒ yǒu liǎng ge fángjiān."],
+    [1,"書店幾點關門？","Shūdiàn jǐ diǎn guānmén?","Toko buku tutup jam berapa?","晚上九點。","Wǎnshàng jiǔ diǎn.","Jam sembilan malam.","在學校後面。","Zài xuéxiào hòumiàn.","我買了三本。","Wǒ mǎi le sān běn."],
+    [1,"你今天買了幾本書？","Nǐ jīntiān mǎi le jǐ běn shū?","Hari ini kamu membeli berapa buku?","我買了五本。","Wǒ mǎi le wǔ běn.","Saya membeli lima buku.","這本書很好看。","Zhè běn shū hěn hǎokàn.","我要給老師。","Wǒ yào gěi lǎoshī."],
+    [1,"你什麼時候學跳舞？","Nǐ shénme shíhòu xué tiàowǔ?","Kapan kamu belajar menari?","每個星期六早上。","Měi ge xīngqíliù zǎoshàng.","Setiap Sabtu pagi.","在學校的教室。","Zài xuéxiào de jiàoshì.","我跳得很慢。","Wǒ tiào de hěn màn."],
+    [1,"誰教你跳舞？","Shéi jiāo nǐ tiàowǔ?","Siapa yang mengajarimu menari?","我姐姐教我。","Wǒ jiějie jiāo wǒ.","Kakak perempuanku yang mengajariku.","我每天跳舞。","Wǒ měitiān tiàowǔ.","跳舞很好玩。","Tiàowǔ hěn hǎowán."],
+    [1,"你的奶茶要冰的嗎？","Nǐ de nǎichá yào bīng de ma?","Teh susumu mau yang dingin?","不要，我要熱的。","Bú yào, wǒ yào rè de.","Tidak, saya mau yang panas.","我要兩杯。","Wǒ yào liǎng bēi.","奶茶五十塊。","Nǎichá wǔshí kuài."],
+    [1,"你要大杯還是小杯？","Nǐ yào dà bēi háishì xiǎo bēi?","Kamu mau gelas besar atau kecil?","小杯就好。","Xiǎo bēi jiù hǎo.","Gelas kecil saja.","我要冰的。","Wǒ yào bīng de.","我不喝咖啡。","Wǒ bù hē kāfēi."],
+    [1,"你今天為什麼沒上課？","Nǐ jīntiān wèishénme méi shàngkè?","Kenapa hari ini kamu tidak masuk kelas?","因為我感冒了。","Yīnwèi wǒ gǎnmào le.","Karena saya flu.","今天星期三。","Jīntiān xīngqísān.","我喜歡上課。","Wǒ xǐhuān shàngkè."],
+    [1,"你今天去看醫生了嗎？","Nǐ jīntiān qù kàn yīshēng le ma?","Hari ini kamu sudah ke dokter?","看了，醫生說要多休息。","Kàn le, yīshēng shuō yào duō xiūxí.","Sudah, dokter bilang harus banyak istirahat.","醫生很高。","Yīshēng hěn gāo.","醫生很忙。","Yīshēng hěn máng."],
+    [1,"那家水果店幾點開門？","Nà jiā shuǐguǒ diàn jǐ diǎn kāimén?","Toko buah itu buka jam berapa?","早上八點就開了。","Zǎoshàng bā diǎn jiù kāi le.","Jam delapan pagi sudah buka.","店裡人很多。","Diàn lǐ rén hěn duō.","我買了香蕉。","Wǒ mǎi le xiāngjiāo."],
+    [1,"你在店裡買了什麼？","Nǐ zài diàn lǐ mǎi le shénme?","Kamu beli apa di toko?","我買了魚和水果。","Wǒ mǎi le yú hé shuǐguǒ.","Saya beli ikan dan buah.","我跟媽媽去。","Wǒ gēn māma qù.","早上去的。","Zǎoshàng qù de."],
+    [1,"這碗麵要等幾分鐘？","Zhè wǎn miàn yào děng jǐ fēnzhōng?","Mi ini harus ditunggu berapa menit?","五分鐘就好。","Wǔ fēnzhōng jiù hǎo.","Lima menit cukup.","我要兩碗。","Wǒ yào liǎng wǎn.","麵很便宜。","Miàn hěn piányí."],
+    [1,"你的麵裡要不要蛋？","Nǐ de miàn lǐ yào bu yào dàn?","Mi kamu mau pakai telur?","要，一個蛋就好。","Yào, yí ge dàn jiù hǎo.","Mau, satu telur saja.","在房間吃。","Zài fángjiān chī.","我吃飽了。","Wǒ chī bǎo le."],
+    [1,"你們家幾點吃晚飯？","Nǐmen jiā jǐ diǎn chī wǎnfàn?","Keluargamu makan malam jam berapa?","七點吃晚飯。","Qī diǎn chī wǎnfàn.","Makan malam jam tujuh.","媽媽做晚飯。","Māma zuò wǎnfàn.","我們吃魚。","Wǒmen chī yú."],
+    [1,"今天晚上誰做菜？","Jīntiān wǎnshàng shéi zuò cài?","Malam ini siapa yang memasak?","奶奶做菜。","Nǎinai zuò cài.","Nenek yang memasak.","做三個菜。","Zuò sān ge cài.","在家吃飯。","Zài jiā chī fàn."],
+    [1,"你等公車等了多久？","Nǐ děng gōngchē děng le duōjiǔ?","Sudah berapa lama kamu menunggu bus?","等了二十分鐘。","Děng le èrshí fēnzhōng.","Sudah dua puluh menit.","我坐五號公車。","Wǒ zuò wǔ hào gōngchē.","今天下大雨。","Jīntiān xià dà yǔ."],
+    [1,"你今天帶了手機嗎？","Nǐ jīntiān dài le shǒujī ma?","Hari ini kamu bawa ponsel?","沒有，手機在家裡。","Méiyǒu, shǒujī zài jiā lǐ.","Tidak, ponselnya di rumah.","下雨了。","Xià yǔ le.","公車來了。","Gōngchē lái le."],
+    [1,"這個孩子叫什麼名字？","Zhè ge háizi jiào shénme míngzi?","Anak ini namanya siapa?","他叫大明。","Tā jiào Dàmíng.","Namanya Daming.","他三歲了。","Tā sān suì le.","他很可愛。","Tā hěn kě'ài."]
+  ],
+  dc:[
+    {lv:1, d:[["男","你在做什麼？","Nǐ zài zuò shénme?"],["女","我在給媽媽做飯。","Wǒ zài gěi māma zuò fàn."]], q:["女的在做什麼？","Nǚ de zài zuò shénme?","Apa yang sedang dilakukan si wanita?"], o:[["做飯","zuò fàn"],["看書","kàn shū"],["寫功課","xiě gōngkè"]], t:"Pria: Kamu sedang apa? Wanita: Aku sedang memasak untuk Ibu."},
+    {lv:1, d:[["女","這件衣服太小了。","Zhè jiàn yīfú tài xiǎo le."],["男","這件是大號的，你試一下。","Zhè jiàn shì dà hào de, nǐ shì yíxià."]], q:["男的給女的什麼衣服？","Nán de gěi nǚ de shénme yīfú?","Pria memberi wanita baju yang bagaimana?"], o:[["大號的","dà hào de"],["小號的","xiǎo hào de"],["舊的","jiù de"]], t:"Wanita: Baju ini terlalu kecil. Pria: Yang ini ukuran besar, coba pakai."},
+    {lv:1, d:[["男","我們幾點坐火車？","Wǒmen jǐ diǎn zuò huǒchē?"],["女","八點半，九點到動物園。","Bā diǎn bàn, jiǔ diǎn dào dòngwùyuán."]], q:["他們幾點到動物園？","Tāmen jǐ diǎn dào dòngwùyuán?","Jam berapa mereka sampai di kebun binatang?"], o:[["九點","jiǔ diǎn"],["八點半","bā diǎn bàn"],["八點","bā diǎn"]], t:"Pria: Kita naik kereta jam berapa? Wanita: Setengah sembilan, jam sembilan sampai di kebun binatang."},
+    {lv:1, d:[["女","我要買這兩本書。","Wǒ yào mǎi zhè liǎng běn shū."],["男","好，你還要買別的嗎？","Hǎo, nǐ hái yào mǎi bié de ma?"],["女","要，我還想買三枝筆。","Yào, wǒ hái xiǎng mǎi sān zhī bǐ."]], q:["女的想買幾枝筆？","Nǚ de xiǎng mǎi jǐ zhī bǐ?","Wanita ingin membeli berapa pena?"], o:[["三枝","sān zhī"],["兩枝","liǎng zhī"],["五枝","wǔ zhī"]], t:"Wanita: Saya mau membeli dua buku ini. Pria: Baik, mau beli yang lain? Wanita: Mau, saya juga mau beli tiga pena."},
+    {lv:1, d:[["男","你會跳舞嗎？","Nǐ huì tiàowǔ ma?"],["女","還不會，我每個星期二去學。","Hái bú huì, wǒ měi ge xīngqí'èr qù xué."]], q:["女的星期幾學跳舞？","Nǚ de xīngqí jǐ xué tiàowǔ?","Wanita belajar menari hari apa?"], o:[["星期二","xīngqí'èr"],["星期四","xīngqísì"],["星期天","xīngqítiān"]], t:"Pria: Kamu bisa menari? Wanita: Belum bisa, setiap Selasa aku pergi belajar."},
+    {lv:1, d:[["女","你要喝什麼？","Nǐ yào hē shénme?"],["男","我要一杯茶，不要冰。","Wǒ yào yì bēi chá, bú yào bīng."]], q:["男的要喝什麼？","Nán de yào hē shénme?","Pria mau minum apa?"], o:[["熱茶","rè chá"],["冰茶","bīng chá"],["奶茶","nǎichá"]], t:"Wanita: Kamu mau minum apa? Pria: Saya mau segelas teh, tanpa es."},
+    {lv:1, d:[["男","你怎麼了？","Nǐ zěnme le?"],["女","我感冒了，耳朵也很痛。","Wǒ gǎnmào le, ěrduo yě hěn tòng."]], q:["女的哪裡痛？","Nǚ de nǎlǐ tòng?","Bagian mana yang sakit pada wanita?"], o:[["耳朵","ěrduo"],["腳","jiǎo"],["眼睛","yǎnjīng"]], t:"Pria: Kamu kenapa? Wanita: Aku flu, telingaku juga sakit sekali."},
+    {lv:1, d:[["女","你週末去哪裡？","Nǐ zhōumò qù nǎlǐ?"],["男","我跟爸爸去店裡買魚。","Wǒ gēn bàba qù diàn lǐ mǎi yú."]], q:["男的週末跟誰去買魚？","Nán de zhōumò gēn shéi qù mǎi yú?","Akhir pekan pria pergi beli ikan dengan siapa?"], o:[["爸爸","bàba"],["媽媽","māma"],["哥哥","gēge"]], t:"Wanita: Akhir pekan kamu ke mana? Pria: Aku ke toko dengan Ayah beli ikan."},
+    {lv:1, d:[["男","你晚飯吃什麼？","Nǐ wǎnfàn chī shénme?"],["女","我一個人在家，吃一碗麵就好。","Wǒ yí ge rén zài jiā, chī yì wǎn miàn jiù hǎo."]], q:["女的晚飯吃什麼？","Nǚ de wǎnfàn chī shénme?","Wanita makan malam apa?"], o:[["麵","miàn"],["水餃","shuǐjiǎo"],["包子","bāozi"]], t:"Pria: Makan malammu apa? Wanita: Aku sendirian di rumah, semangkuk mi saja cukup."},
+    {lv:1, d:[["女","今天晚上奶奶來吃飯。","Jīntiān wǎnshàng nǎinai lái chī fàn."],["男","太好了！我去買水果。","Tài hǎo le! Wǒ qù mǎi shuǐguǒ."]], q:["男的要去做什麼？","Nán de yào qù zuò shénme?","Pria akan pergi melakukan apa?"], o:[["買水果","mǎi shuǐguǒ"],["做菜","zuò cài"],["看電視","kàn diànshì"]], t:"Wanita: Malam ini nenek datang makan. Pria: Bagus sekali! Aku pergi beli buah."},
+    {lv:1, d:[["男","下雨了，公車還沒來。","Xià yǔ le, gōngchē hái méi lái."],["女","我們坐計程車吧。","Wǒmen zuò jìchéngchē ba."]], q:["女的想怎麼去？","Nǚ de xiǎng zěnme qù?","Wanita ingin pergi naik apa?"], o:[["坐計程車","zuò jìchéngchē"],["坐公車","zuò gōngchē"],["走路","zǒulù"]], t:"Pria: Hujan, busnya belum datang. Wanita: Kita naik taksi saja."},
+    {lv:1, d:[["女","那是誰的手機？","Nà shì shéi de shǒujī?"],["男","是我同學的，他叫大文。","Shì wǒ tóngxué de, tā jiào Dàwén."]], q:["那個手機是誰的？","Nà ge shǒujī shì shéi de?","Ponsel itu milik siapa?"], o:[["同學的","tóngxué de"],["老師的","lǎoshī de"],["哥哥的","gēge de"]], t:"Wanita: Itu ponsel siapa? Pria: Punya teman sekelasku, namanya Dawen."}
+  ],
+  gap:[
+    [1,"我＿吃飯，你等一下。","Wǒ zài chī fàn, nǐ děng yíxià.","Aku sedang makan, kamu tunggu sebentar.","在","給","很"],
+    [1,"姐姐＿我買了一件衣服。","Jiějie gěi wǒ mǎi le yí jiàn yīfú.","Kakak perempuan membelikanku sebuah baju.","給","在","很"],
+    [1,"這件衣服我可以試＿嗎？","Zhè jiàn yīfú wǒ kěyǐ shì yíxià ma?","Baju ini boleh saya coba sebentar?","一下","一個","一本"],
+    [1,"我們坐＿去動物園。","Wǒmen zuò huǒchē qù dòngwùyuán.","Kami naik kereta ke kebun binatang.","火車","鼻子","鞋子"],
+    [1,"動物園裡有很多＿。","Dòngwùyuán lǐ yǒu hěn duō dòngwù.","Di kebun binatang ada banyak hewan.","動物","火車","筷子"],
+    [1,"房間太熱了，快＿門。","Fángjiān tài rè le, kuài kāi mén.","Kamarnya terlalu panas, cepat buka pintunya.","開","睡","喝"],
+    [1,"我去書店＿書。","Wǒ qù shūdiàn mǎi shū.","Saya ke toko buku membeli buku.","買","喝","坐"],
+    [1,"上課的時候不要＿話。","Shàngkè de shíhòu bú yào shuōhuà.","Saat pelajaran jangan berbicara.","說","喝","坐"],
+    [1,"我每個星期六去＿舞。","Wǒ měi ge xīngqíliù qù tiàowǔ.","Setiap Sabtu saya pergi menari.","跳","走","吃"],
+    [1,"我要一杯熱＿。","Wǒ yào yì bēi rè nǎichá.","Saya mau segelas teh susu panas.","奶茶","鞋子","椅子"],
+    [1,"我感冒了，今天不能＿學。","Wǒ gǎnmào le, jīntiān bù néng shàngxué.","Saya flu, hari ini tidak bisa sekolah.","上","吃","買"],
+    [1,"週末的公園人很＿。","Zhōumò de gōngyuán rén hěn duō.","Taman pada akhir pekan ramai sekali.","多","貴","甜"],
+    [1,"這碗麵裡有一個＿。","Zhè wǎn miàn lǐ yǒu yí ge dàn.","Di dalam mi ini ada satu telur.","蛋","書","筆"],
+    [1,"晚飯好了，大家來＿飯吧。","Wǎnfàn hǎo le, dàjiā lái chī fàn ba.","Makan malam sudah siap, ayo semua makan.","吃","喝","看"],
+    [1,"下雨了，我們在家＿電視吧。","Xià yǔ le, wǒmen zài jiā kàn diànshì ba.","Hujan, kita nonton TV di rumah saja.","看","吃","喝"],
+    [1,"弟弟在＿他的手機。","Dìdi zài zhǎo tā de shǒujī.","Adik laki-laki sedang mencari ponselnya.","找","喝","吃"]
+  ],
+  order:[
+    [1,"爸爸|在|開|車","Bàba zài kāi chē.","Ayah sedang menyetir mobil."],
+    [1,"哥哥|給|我|一杯|奶茶","Gēge gěi wǒ yì bēi nǎichá.","Kakak laki-laki memberiku segelas teh susu."],
+    [1,"你|看|一下|這本書","Nǐ kàn yíxià zhè běn shū.","Coba lihat buku ini sebentar."],
+    [1,"他們|坐|火車|去|動物園","Tāmen zuò huǒchē qù dòngwùyuán.","Mereka naik kereta ke kebun binatang."],
+    [1,"我|跟|媽媽|一起|做|晚飯","Wǒ gēn māma yìqǐ zuò wǎnfàn.","Saya bersama Ibu membuat makan malam.",["媽媽|跟|我|一起|做|晚飯"]],
+    [1,"書店|在|學校|旁邊","Shūdiàn zài xuéxiào pángbiān.","Toko buku ada di sebelah sekolah.",["學校|在|書店|旁邊"]],
+    [1,"這本書|我|看了|兩天","Zhè běn shū wǒ kàn le liǎng tiān.","Buku ini sudah saya baca dua hari."],
+    [1,"妹妹|想|學|跳舞","Mèimei xiǎng xué tiàowǔ.","Adik perempuan ingin belajar menari."],
+    [1,"弟弟|在|公園|打球","Dìdi zài gōngyuán dǎqiú.","Adik laki-laki main bola di taman."],
+    [1,"你|要|大杯|還是|小杯","Nǐ yào dà bēi háishì xiǎo bēi?","Kamu mau gelas besar atau kecil?",["你|要|小杯|還是|大杯"]],
+    [1,"我|今天|很|累","Wǒ jīntiān hěn lèi.","Hari ini saya lelah sekali.",["今天|我|很|累"]],
+    [1,"媽媽|週末|去|店裡|買菜","Māma zhōumò qù diàn lǐ mǎi cài.","Ibu ke toko belanja sayur pada akhir pekan.",["週末|媽媽|去|店裡|買菜"]],
+    [1,"這碗麵|十分鐘|就|好了","Zhè wǎn miàn shí fēnzhōng jiù hǎo le.","Mi ini sepuluh menit sudah jadi."],
+    [1,"我們|一家人|一起|吃|晚飯","Wǒmen yì jiā rén yìqǐ chī wǎnfàn.","Kami sekeluarga makan malam bersama."],
+    [1,"他|在|公車站|等|公車","Tā zài gōngchēzhàn děng gōngchē.","Dia menunggu bus di halte."],
+    [1,"我|可以|用|一下|你的筆|嗎","Wǒ kěyǐ yòng yíxià nǐ de bǐ ma?","Boleh saya pakai penamu sebentar?"]
+  ],
+  read:[
+    {lv:1, t:"Sepatu murah di toko", h:"這個週末，鞋店的鞋子都很便宜。球鞋以前一千塊，現在只要八百塊。鞋店在火車站對面。", p:"Zhè ge zhōumò, xiédiàn de xiézi dōu hěn piányí. Qiúxié yǐqián yìqiān kuài, xiànzài zhǐ yào bābǎi kuài. Xiédiàn zài huǒchēzhàn duìmiàn.", id:"Akhir pekan ini, semua sepatu di toko sepatu murah. Sepatu kets dulu seribu dolar, sekarang hanya delapan ratus dolar. Toko sepatunya ada di seberang stasiun kereta.", qs:[
+      ["球鞋現在多少錢？","Qiúxié xiànzài duōshǎo qián?","Berapa harga sepatu kets sekarang?",["八百塊","bābǎi kuài"],["一千塊","yìqiān kuài"],["八十塊","bāshí kuài"]],
+      ["鞋店在哪裡？","Xiédiàn zài nǎlǐ?","Toko sepatunya di mana?",["火車站對面","huǒchēzhàn duìmiàn"],["火車站裡面","huǒchēzhàn lǐmiàn"],["學校對面","xuéxiào duìmiàn"]]]},
+    {lv:1, t:"Aturan kelas", h:"教室早上八點開門，下午五點關門。上課的時候不可以吃東西，也不可以用手機。有問題請問老師。", p:"Jiàoshì zǎoshàng bā diǎn kāimén, xiàwǔ wǔ diǎn guānmén. Shàngkè de shíhòu bù kěyǐ chī dōngxi, yě bù kěyǐ yòng shǒujī. Yǒu wèntí qǐng wèn lǎoshī.", id:"Ruang kelas buka jam delapan pagi dan tutup jam lima sore. Saat pelajaran tidak boleh makan dan tidak boleh memakai ponsel. Kalau ada pertanyaan, silakan tanya guru.", qs:[
+      ["上課的時候可以做什麼？","Shàngkè de shíhòu kěyǐ zuò shénme?","Apa yang boleh dilakukan saat pelajaran?",["問老師問題","wèn lǎoshī wèntí"],["吃東西","chī dōngxi"],["用手機","yòng shǒujī"]],
+      ["教室幾點關門？","Jiàoshì jǐ diǎn guānmén?","Ruang kelas tutup jam berapa?",["下午五點","xiàwǔ wǔ diǎn"],["早上八點","zǎoshàng bā diǎn"],["晚上九點","wǎnshàng jiǔ diǎn"]]]},
+    {lv:1, t:"Pesan dari teman sekelas", h:"小明，你今天怎麼沒來上課？老師給我們很多功課。我明天給你帶書，你好好休息！美美", p:"Xiǎomíng, nǐ jīntiān zěnme méi lái shàngkè? Lǎoshī gěi wǒmen hěn duō gōngkè. Wǒ míngtiān gěi nǐ dài shū, nǐ hǎohǎo xiūxí! Měiměi", id:"Xiaoming, kenapa hari ini kamu tidak masuk kelas? Guru memberi kami banyak PR. Besok aku bawakan buku untukmu, istirahat yang baik ya! Meimei", qs:[
+      ["美美明天要給小明什麼？","Měiměi míngtiān yào gěi Xiǎomíng shénme?","Besok Meimei akan memberi Xiaoming apa?",["書","shū"],["筆","bǐ"],["藥","yào"]]]},
+    {lv:1, t:"Toko kecil di samping taman", h:"每個星期六早上，公園旁邊的小店都開門。店裡有水果、麵包，也有好吃的包子。東西很好吃，也不貴。", p:"Měi ge xīngqíliù zǎoshàng, gōngyuán pángbiān de xiǎo diàn dōu kāimén. Diàn lǐ yǒu shuǐguǒ, miànbāo, yě yǒu hǎochī de bāozi. Dōngxi hěn hǎochī, yě bú guì.", id:"Setiap Sabtu pagi, toko kecil di samping taman buka. Di toko ada buah, roti, juga bakpao yang enak. Makanannya enak dan tidak mahal.", qs:[
+      ["小店在哪裡？","Xiǎo diàn zài nǎlǐ?","Toko kecil itu di mana?",["公園旁邊","gōngyuán pángbiān"],["學校旁邊","xuéxiào pángbiān"],["火車站裡","huǒchēzhàn lǐ"]],
+      ["小店什麼時候開門？","Xiǎo diàn shénme shíhòu kāimén?","Kapan toko kecil itu buka?",["星期六早上","xīngqíliù zǎoshàng"],["星期天晚上","xīngqítiān wǎnshàng"],["每天晚上","měitiān wǎnshàng"]]]},
+    {lv:1, t:"Jadwal hari Senin", h:"星期一早上八點上中文課，十點上英文課。中午十二點吃午飯。下午兩點有考試。", p:"Xīngqíyī zǎoshàng bā diǎn shàng Zhōngwén kè, shí diǎn shàng Yīngwén kè. Zhōngwǔ shí'èr diǎn chī wǔfàn. Xiàwǔ liǎng diǎn yǒu kǎoshì.", id:"Hari Senin jam delapan pagi ada pelajaran bahasa Mandarin, jam sepuluh pelajaran bahasa Inggris. Jam dua belas siang makan siang. Jam dua sore ada ujian.", qs:[
+      ["下午幾點有考試？","Xiàwǔ jǐ diǎn yǒu kǎoshì?","Jam berapa sore ada ujian?",["兩點","liǎng diǎn"],["八點","bā diǎn"],["十點","shí diǎn"]]]},
+    {lv:1, t:"Pesan grup kelas", h:"明天我們坐火車去動物園。早上八點在火車站見面。要帶水和雨衣，因為明天會下雨。", p:"Míngtiān wǒmen zuò huǒchē qù dòngwùyuán. Zǎoshàng bā diǎn zài huǒchēzhàn jiànmiàn. Yào dài shuǐ hé yǔyī, yīnwèi míngtiān huì xià yǔ.", id:"Besok kita naik kereta ke kebun binatang. Bertemu jam delapan pagi di stasiun kereta. Bawa air dan jas hujan, karena besok akan hujan.", qs:[
+      ["他們在哪裡見面？","Tāmen zài nǎlǐ jiànmiàn?","Mereka bertemu di mana?",["火車站","huǒchēzhàn"],["動物園","dòngwùyuán"],["學校","xuéxiào"]],
+      ["為什麼要帶雨衣？","Wèishénme yào dài yǔyī?","Kenapa harus bawa jas hujan?",["明天會下雨","míngtiān huì xià yǔ"],["明天很熱","míngtiān hěn rè"],["動物園很大","dòngwùyuán hěn dà"]]]}
+  ],
+  stories:[
+    {lv:1, t:"Belajar menari", h:"今年我去學跳舞。我的老師是一個大學生，她跳得又快又好。第一天上課，我很怕，只站在旁邊看。老師說：「別怕，我教你。」我慢慢地跟老師跳。現在我會跳兩個舞了，我很快樂！", p:"Jīnnián wǒ qù xué tiàowǔ. Wǒ de lǎoshī shì yí ge dàxuéshēng, tā tiào de yòu kuài yòu hǎo. Dì yī tiān shàngkè, wǒ hěn pà, zhǐ zhàn zài pángbiān kàn. Lǎoshī shuō: “Bié pà, wǒ jiāo nǐ.” Wǒ mànmàn de gēn lǎoshī tiào. Xiànzài wǒ huì tiào liǎng ge wǔ le, wǒ hěn kuàilè!", id:"Tahun ini aku ikut belajar menari. Guruku seorang mahasiswi, tariannya cepat dan bagus. Hari pertama, aku takut dan hanya berdiri di pinggir menonton. Guru berkata, \"Jangan takut, aku ajari kamu.\" Aku pelan-pelan menari mengikuti guru. Sekarang aku sudah bisa dua tarian, aku senang sekali!"},
+    {lv:1, t:"Teh susu sepulang sekolah", h:"下課以後，我和好朋友小美一起去喝奶茶。店裡的人很多，我們等了十分鐘。小美要一杯大杯的奶茶，要冰的。我要一杯熱茶。我們坐在公園裡，一邊喝一邊說話，很快樂！", p:"Xiàkè yǐhòu, wǒ hé hǎo péngyǒu Xiǎoměi yìqǐ qù hē nǎichá. Diàn lǐ de rén hěn duō, wǒmen děng le shí fēnzhōng. Xiǎoměi yào yì bēi dà bēi de nǎichá, yào bīng de. Wǒ yào yì bēi rè chá. Wǒmen zuò zài gōngyuán lǐ, yìbiān hē yìbiān shuōhuà, hěn kuàilè!", id:"Sepulang sekolah, aku dan sahabatku Xiaomei pergi minum teh susu. Tokonya ramai, kami menunggu sepuluh menit. Xiaomei pesan teh susu gelas besar yang dingin. Aku pesan segelas teh panas. Kami duduk di taman sambil minum dan mengobrol, senang sekali!"},
+    {lv:1, t:"Hari sakit", h:"昨天晚上我頭很痛，身體也很熱。今天早上，媽媽給老師打電話，說我不能去上課。爸爸帶我去看醫生。醫生說我感冒了，要多喝水，多休息。我在床上睡了一天。晚上我覺得好多了。", p:"Zuótiān wǎnshàng wǒ tóu hěn tòng, shēntǐ yě hěn rè. Jīntiān zǎoshàng, māma gěi lǎoshī dǎ diànhuà, shuō wǒ bù néng qù shàngkè. Bàba dài wǒ qù kàn yīshēng. Yīshēng shuō wǒ gǎnmào le, yào duō hē shuǐ, duō xiūxí. Wǒ zài chuáng shàng shuì le yì tiān. Wǎnshàng wǒ juéde hǎo duō le.", id:"Tadi malam kepalaku sakit sekali, badanku juga panas. Pagi ini Ibu menelepon guru, bilang aku tidak bisa masuk kelas. Ayah mengantarku ke dokter. Dokter bilang aku flu, harus banyak minum air dan banyak istirahat. Aku tidur seharian di tempat tidur. Malamnya aku merasa jauh lebih baik."},
+    {lv:1, t:"Makan malam hari Minggu", h:"每個星期天晚上，我們一家人一起吃晚飯。奶奶也會來。媽媽做很多菜，有魚、雞湯和豬肉。爸爸給大家拿碗和筷子。我最喜歡奶奶做的牛肉麵。吃飯的時候，大家一邊吃一邊說話，非常快樂。", p:"Měi ge xīngqítiān wǎnshàng, wǒmen yì jiā rén yìqǐ chī wǎnfàn. Nǎinai yě huì lái. Māma zuò hěn duō cài, yǒu yú, jītāng hé zhūròu. Bàba gěi dàjiā ná wǎn hé kuàizi. Wǒ zuì xǐhuān nǎinai zuò de niúròu miàn. Chī fàn de shíhòu, dàjiā yìbiān chī yìbiān shuōhuà, fēicháng kuàilè.", id:"Setiap Minggu malam, kami sekeluarga makan malam bersama. Nenek juga datang. Ibu memasak banyak lauk: ikan, sup ayam, dan daging babi. Ayah mengambilkan mangkuk dan sumpit untuk semua. Aku paling suka mi daging sapi buatan nenek. Saat makan, semua makan sambil mengobrol, senang sekali."},
+    {lv:1, t:"Teh hangat di halte bus", h:"今天下午下大雨。我在公車站等公車，等了十五分鐘，公車還沒來。我又冷又餓。這時候，一位老先生走過來，給我一杯熱茶。他說：「喝一點吧。」我說：「謝謝您！」公車來了，我們一起上車。", p:"Jīntiān xiàwǔ xià dà yǔ. Wǒ zài gōngchēzhàn děng gōngchē, děng le shíwǔ fēnzhōng, gōngchē hái méi lái. Wǒ yòu lěng yòu è. Zhè shíhòu, yí wèi lǎo xiānshēng zǒu guòlái, gěi wǒ yì bēi rè chá. Tā shuō: “Hē yìdiǎn ba.” Wǒ shuō: “Xièxie nín!” Gōngchē lái le, wǒmen yìqǐ shàng chē.", id:"Sore ini hujan deras. Aku menunggu bus di halte, sudah lima belas menit busnya belum datang. Aku kedinginan dan lapar. Saat itu, seorang bapak tua menghampiriku dan memberiku segelas teh panas. Dia berkata, \"Minumlah sedikit.\" Aku bilang, \"Terima kasih, Pak!\" Busnya datang, dan kami naik bersama."},
+    {lv:1, t:"Teman baru", h:"我有一個新同學，她叫美美。美美是日本人，她很喜歡唱歌。每天下課以後，我都跟她一起去公園玩。她教我說日文，我教她說中文。現在我們是好朋友了。", p:"Wǒ yǒu yí ge xīn tóngxué, tā jiào Měiměi. Měiměi shì Rìběn rén, tā hěn xǐhuān chànggē. Měitiān xiàkè yǐhòu, wǒ dōu gēn tā yìqǐ qù gōngyuán wán. Tā jiāo wǒ shuō Rìwén, wǒ jiāo tā shuō Zhōngwén. Xiànzài wǒmen shì hǎo péngyǒu le.", id:"Aku punya teman sekelas baru, namanya Meimei. Meimei orang Jepang, dia sangat suka menyanyi. Setiap pulang sekolah, aku selalu pergi main ke taman bersamanya. Dia mengajariku bahasa Jepang, aku mengajarinya bahasa Mandarin. Sekarang kami sudah jadi sahabat."}
+  ]
+});

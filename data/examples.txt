@@ -1,0 +1,1226 @@
+我|我是學生。|Wǒ shì xuéshēng.
+你|你是大明的同學嗎？|Nǐ shì Dàmíng de tóngxué ma?
+他|他是我哥哥。|Tā shì wǒ gēge.
+我們|我們明天去學校。|Wǒmen míngtiān qù xuéxiào.
+你們|你們都是大學生嗎？|Nǐmen dōu shì dàxuéshēng ma?
+他們|他們今天很忙。|Tāmen jīntiān hěn máng.
+您|老師，您好！|Lǎoshī, nín hǎo!
+誰|那個人是誰？|Nà ge rén shì shéi?
+姓名|請寫你的姓名。|Qǐng xiě nǐ de xìngmíng.
+人|這裡有幾個人？|Zhèlǐ yǒu jǐ ge rén?
+國|他們是哪一國的老師？|Tāmen shì nǎ yì guó de lǎoshī?
+中國|他明年想去中國。|Tā míngnián xiǎng qù Zhōngguó.
+美國|我朋友是美國人。|Wǒ péngyǒu shì Měiguó rén.
+日本|日本的東西很貴。|Rìběn de dōngxi hěn guì.
+台灣|我很喜歡臺灣。|Wǒ hěn xǐhuān Táiwān.
+名字|你的名字很好聽。|Nǐ de míngzi hěn hǎotīng.
+家|我家有三個人。|Wǒ jiā yǒu sān ge rén.
+電話|你的電話是多少？|Nǐ de diànhuà shì duōshǎo?
+時間|你明天有時間嗎？|Nǐ míngtiān yǒu shíjiān ma?
+小時|我看了兩個小時的書。|Wǒ kànle liǎng ge xiǎoshí de shū.
+現在|現在幾點？|Xiànzài jǐ diǎn?
+今年|大明今年十八歲。|Dàmíng jīnnián shíbā suì.
+今天|今天我很忙。|Jīntiān wǒ hěn máng.
+明天|明天見！|Míngtiān jiàn!
+昨天|我昨天沒去上課。|Wǒ zuótiān méi qù shàngkè.
+早上|我早上七點起來。|Wǒ zǎoshàng qī diǎn qǐlái.
+上午|我上午有中文課。|Wǒ shàngwǔ yǒu Zhōngwén kè.
+中午|中午你想吃什麼？|Zhōngwǔ nǐ xiǎng chī shénme?
+下午|下午我們去看電影吧。|Xiàwǔ wǒmen qù kàn diànyǐng ba.
+晚上|晚上我在家看電視。|Wǎnshàng wǒ zài jiā kàn diànshì.
+一|我有一個妹妹。|Wǒ yǒu yí ge mèimei.
+二|他有二十個學生。|Tā yǒu èrshí ge xuéshēng.
+三|我買了三本書。|Wǒ mǎile sān běn shū.
+四|他四點回家。|Tā sì diǎn huíjiā.
+五|這個五十塊錢。|Zhè ge wǔshí kuài qián.
+六|我們六點吃飯。|Wǒmen liù diǎn chīfàn.
+七|我弟弟七歲。|Wǒ dìdi qī suì.
+八|我早上八點上課。|Wǒ zǎoshàng bā diǎn shàngkè.
+九|現在九點半了。|Xiànzài jiǔ diǎn bàn le.
+十|我哥哥大我十歲。|Wǒ gēge dà wǒ shí suì.
+兩|我有兩個姊姊。|Wǒ yǒu liǎng ge jiějie.
+時候|你什麼時候回家？|Nǐ shénme shíhòu huíjiā?
+百|這本書三百塊。|Zhè běn shū sānbǎi kuài.
+半|我等了半個小時。|Wǒ děngle bàn ge xiǎoshí.
+千|那個東西一千多塊。|Nà ge dōngxi yìqiān duō kuài.
+爸爸|我爸爸是老師。|Wǒ bàba shì lǎoshī.
+媽媽|媽媽，我回來了！|Māma, wǒ huílái le!
+哥哥|我哥哥很高。|Wǒ gēge hěn gāo.
+弟弟|弟弟喜歡看電視。|Dìdi xǐhuān kàn diànshì.
+姊姊|我姊姊很漂亮。|Wǒ jiějie hěn piàoliàng.
+妹妹|我妹妹今年六歲。|Wǒ mèimei jīnnián liù suì.
+小孩子|小孩子不可以開車。|Xiǎoháizi bù kěyǐ kāichē.
+的|這是我的書。|Zhè shì wǒ de shū.
+第|他是第一個到的。|Tā shì dì yī ge dào de.
+分|現在三點十分。|Xiànzài sān diǎn shí fēn.
+點|我們幾點見？|Wǒmen jǐ diǎn jiàn?
+個|這個多少錢？|Zhè ge duōshǎo qián?
+歲|你妹妹幾歲？|Nǐ mèimei jǐ suì?
+年|他在臺灣住了兩年。|Tā zài Táiwān zhùle liǎng nián.
+住|你住哪裡？|Nǐ zhù nǎlǐ?
+來|你什麼時候來我家？|Nǐ shénme shíhòu lái wǒ jiā?
+是|他是日本人。|Tā shì Rìběn rén.
+姓|我姓高。|Wǒ xìng Gāo.
+覺得|我覺得中文不難。|Wǒ juéde Zhōngwén bù nán.
+喜歡|我喜歡看書。|Wǒ xǐhuān kàn shū.
+打電話|晚上我打電話給你。|Wǎnshàng wǒ dǎ diànhuà gěi nǐ.
+漂亮|這個字寫得真漂亮。|Zhè ge zì xiě de zhēn piàoliàng.
+高|你哥哥好高！|Nǐ gēge hǎo gāo!
+老|我的車子很老了。|Wǒ de chēzi hěn lǎo le.
+好|這個電影很好看。|Zhè ge diànyǐng hěn hǎokàn.
+很|我很喜歡你。|Wǒ hěn xǐhuān nǐ.
+真|你的中文說得真好！|Nǐ de Zhōngwén shuō de zhēn hǎo!
+電腦|這台電腦是我的。|Zhè tái diànnǎo shì wǒ de.
+老師|我們的老師是臺灣人。|Wǒmen de lǎoshī shì Táiwān rén.
+買|你想買什麼？|Nǐ xiǎng mǎi shénme?
+忙|你今天忙不忙？|Nǐ jīntiān máng bù máng?
+學生|他是大學生。|Tā shì dàxuéshēng.
+大學|我哥哥在美國上大學。|Wǒ gēge zài Měiguó shàng dàxué.
+學校|他們的學校不大。|Tāmen de xuéxiào bú dà.
+中文|我在學中文。|Wǒ zài xué Zhōngwén.
+同學|他是我的同學。|Tā shì wǒ de tóngxué.
+字|這個字怎麼寫？|Zhè ge zì zěnme xiě?
+筆|你有筆嗎？|Nǐ yǒu bǐ ma?
+學|我想學開車。|Wǒ xiǎng xué kāichē.
+問|你去問老師吧。|Nǐ qù wèn lǎoshī ba.
+說|他說他明天不來。|Tā shuō tā míngtiān bù lái.
+寫|我在寫中文字。|Wǒ zài xiě Zhōngwén zì.
+聽|你聽，他來了。|Nǐ tīng, tā lái le.
+對|你說得對。|Nǐ shuō de duì.
+能|你明天能來嗎？|Nǐ míngtiān néng lái ma?
+可以|我可以坐這裡嗎？|Wǒ kěyǐ zuò zhèlǐ ma?
+上課|我們九點上課。|Wǒmen jiǔ diǎn shàngkè.
+知道|你知道他的電話嗎？|Nǐ zhīdào tā de diànhuà ma?
+電視機|我家的電視機很大。|Wǒ jiā de diànshìjī hěn dà.
+水|給我一點水，好嗎？|Gěi wǒ yìdiǎn shuǐ, hǎo ma?
+久|我等了很久。|Wǒ děngle hěn jiǔ.
+早|你今天來得真早。|Nǐ jīntiān lái de zhēn zǎo.
+再|你明天再來吧。|Nǐ míngtiān zài lái ba.
+書|這本書很好看。|Zhè běn shū hěn hǎokàn.
+電影|你喜歡看什麼電影？|Nǐ xǐhuān kàn shénme diànyǐng?
+以前|我以前住在日本。|Wǒ yǐqián zhù zài Rìběn.
+以後|吃飯以後我們去走走。|Chīfàn yǐhòu wǒmen qù zǒuzou.
+走|老師，我們走了。|Lǎoshī, wǒmen zǒu le.
+等|請等一下。|Qǐng děng yíxià.
+看|大明在看中文書。|Dàmíng zài kàn Zhōngwén shū.
+就|我吃了飯就去學校。|Wǒ chīle fàn jiù qù xuéxiào.
+什麼|這是什麼？|Zhè shì shénme?
+朋友|他是我的好朋友。|Tā shì wǒ de hǎo péngyǒu.
+東西|你買了什麼東西？|Nǐ mǎile shénme dōngxi?
+吧|我們一起去吧！|Wǒmen yìqǐ qù ba!
+呢|我很好，你呢？|Wǒ hěn hǎo, nǐ ne?
+嗎|你的老師是臺灣人嗎？|Nǐ de lǎoshī shì Táiwān rén ma?
+找|明天我去你家找你。|Míngtiān wǒ qù nǐ jiā zhǎo nǐ.
+做|你晚上想做什麼？|Nǐ wǎnshàng xiǎng zuò shénme?
+再見|老師再見！|Lǎoshī zàijiàn!
+怎麼樣|這個電影怎麼樣？|Zhè ge diànyǐng zěnmeyàng?
+叫|我叫大明。|Wǒ jiào Dàmíng.
+謝謝|謝謝你來看我。|Xièxie nǐ lái kàn wǒ.
+對不起|對不起，我來晚了。|Duìbùqǐ, wǒ lái wǎn le.
+請問|請問，這裡是學校嗎？|Qǐngwèn, zhèlǐ shì xuéxiào ma?
+這|這是我媽媽。|Zhè shì wǒ māma.
+那|那是誰的車子？|Nà shì shéi de chēzi?
+公共汽車|我坐公車去學校。|Wǒ zuò gōngchē qù xuéxiào.
+車子|你的車子真漂亮。|Nǐ de chēzi zhēn piàoliàng.
+到|公車到了！|Gōngchē dào le!
+去|你想去哪裡？|Nǐ xiǎng qù nǎlǐ?
+回|我想回家。|Wǒ xiǎng huíjiā.
+坐|請坐這裡。|Qǐng zuò zhèlǐ.
+這裡|這裡的東西都很貴。|Zhèlǐ de dōngxi dōu hěn guì.
+那裡|那裡有很多人。|Nàlǐ yǒu hěn duō rén.
+哪裡|你的學校在哪裡？|Nǐ de xuéxiào zài nǎlǐ?
+開車|你開車開得很好。|Nǐ kāichē kāi de hěn hǎo.
+錢|我沒有錢了。|Wǒ méiyǒu qián le.
+多少|你們學校有多少學生？|Nǐmen xuéxiào yǒu duōshǎo xuéshēng?
+給|這本書給你。|Zhè běn shū gěi nǐ.
+貴|這個電腦真貴！|Zhè ge diànnǎo zhēn guì!
+便宜|這個很便宜，買吧！|Zhè ge hěn piányí, mǎi ba!
+大|你家好大！|Nǐ jiā hǎo dà!
+小|我家很小。|Wǒ jiā hěn xiǎo.
+難|中文難不難？|Zhōngwén nán bù nán?
+容易|這個字很容易寫。|Zhè ge zì hěn róngyì xiě.
+有|你有哥哥嗎？|Nǐ yǒu gēge ma?
+想|我很想我媽媽。|Wǒ hěn xiǎng wǒ māma.
+幾|你家有幾個人？|Nǐ jiā yǒu jǐ ge rén?
+塊|一個一百塊。|Yí ge yìbǎi kuài.
+位|那位老師是誰？|Nà wèi lǎoshī shì shéi?
+飯|你吃飯了沒有？|Nǐ chīfàn le méiyǒu?
+吃|晚上我們去吃好吃的吧！|Wǎnshàng wǒmen qù chī hǎochī de ba!
+請|我請你吃飯。|Wǒ qǐng nǐ chīfàn.
+也|我也是學生。|Wǒ yě shì xuéshēng.
+不|他今天不來。|Tā jīntiān bù lái.
+沒|我沒去過日本。|Wǒ méi qùguò Rìběn.
+都|我們都是臺灣人。|Wǒmen dōu shì Táiwān rén.
+只|我只有一百塊。|Wǒ zhǐ yǒu yìbǎi kuài.
+可是|我想去，可是我沒有時間。|Wǒ xiǎng qù, kěshì wǒ méiyǒu shíjiān.
+還是|你今天去還是明天去？|Nǐ jīntiān qù háishì míngtiān qù?
+了|他回家了。|Tā huíjiā le.
+得|你寫得很好看。|Nǐ xiě de hěn hǎokàn.
+過|你看過這個電影嗎？|Nǐ kànguò zhè ge diànyǐng ma?
+沒有|我今天沒有課。|Wǒ jīntiān méiyǒu kè.
+男|那個男老師很高。|Nà ge nán lǎoshī hěn gāo.
+女|我們的老師是女的。|Wǒmen de lǎoshī shì nǚ de.
+孩子|他們有兩個孩子。|Tāmen yǒu liǎng ge háizi.
+小姐|小姐，請問這個多少錢？|Xiǎojiě, qǐngwèn zhè ge duōshǎo qián?
+先生|高先生在家嗎？|Gāo xiānshēng zài jiā ma?
+太太|高太太很喜歡花。|Gāo tàitai hěn xǐhuān huā.
+女兒|他女兒今年五歲。|Tā nǚ'ér jīnnián wǔ suì.
+兒子|我兒子在美國工作。|Wǒ érzi zài Měiguó gōngzuò.
+大家|大家一起來唱歌吧！|Dàjiā yìqǐ lái chànggē ba!
+路|我在路上看到老師。|Wǒ zài lùshàng kàndào lǎoshī.
+手機|我的手機呢？|Wǒ de shǒujī ne?
+明年|明年我想去日本玩。|Míngnián wǒ xiǎng qù Rìběn wán.
+去年|我去年來臺灣。|Wǒ qùnián lái Táiwān.
+生日|今天是我的生日。|Jīntiān shì wǒ de shēngrì.
+月|我下個月回國。|Wǒ xià ge yuè huíguó.
+日|我們五月八日見。|Wǒmen wǔyuè bā rì jiàn.
+星期|我下個星期去臺中。|Wǒ xià ge xīngqí qù Táizhōng.
+星期天|星期天我們去公園吧。|Xīngqítiān wǒmen qù gōngyuán ba.
+禮拜天|禮拜天我都在家休息。|Lǐbàitiān wǒ dōu zài jiā xiūxí.
+週末|這個週末你有空嗎？|Zhè ge zhōumò nǐ yǒu kòng ma?
+號|今天幾號？|Jīntiān jǐ hào?
+天|我在日本住了三天。|Wǒ zài Rìběn zhùle sān tiān.
+從|你從哪裡來？|Nǐ cóng nǎlǐ lái?
+在|爸爸在房間睡覺。|Bàba zài fángjiān shuìjiào.
+愛|媽媽很愛吃魚。|Māma hěn ài chī yú.
+快樂|我們過了一個快樂的週末。|Wǒmen guòle yí ge kuàilè de zhōumò.
+太|這本書太大了。|Zhè běn shū tài dà le.
+公園|我家附近有一個公園。|Wǒ jiā fùjìn yǒu yí ge gōngyuán.
+國家|你去過幾個國家？|Nǐ qùguò jǐ ge guójiā?
+分鐘|請等我五分鐘。|Qǐng děng wǒ wǔ fēnzhōng.
+家人|週末我常跟家人去山上。|Zhōumò wǒ cháng gēn jiārén qù shānshàng.
+胖|我最近胖了。|Wǒ zuìjìn pàng le.
+矮|我弟弟比我矮。|Wǒ dìdi bǐ wǒ ǎi.
+瘦|你太瘦了，多吃一點吧。|Nǐ tài shòu le, duō chī yìdiǎn ba.
+萬|這輛車要一百萬。|Zhè liàng chē yào yìbǎi wàn.
+鐘頭|我每天睡七個鐘頭。|Wǒ měitiān shuì qī ge zhōngtóu.
+晚|太晚了，我們回家吧。|Tài wǎn le, wǒmen huíjiā ba.
+前天|我前天感冒了。|Wǒ qiántiān gǎnmào le.
+後天|後天是我的生日。|Hòutiān shì wǒ de shēngrì.
+前年|我前年去過美國。|Wǒ qiánnián qùguò Měiguó.
+後年|我哥哥後年要回臺灣。|Wǒ gēge hòunián yào huí Táiwān.
+自己|這是我自己做的菜。|Zhè shì wǒ zìjǐ zuò de cài.
+它|這是我的手機，它很舊了。|Zhè shì wǒ de shǒujī, tā hěn jiù le.
+它們|這些書很好看，它們都是我的。|Zhèxiē shū hěn hǎokàn, tāmen dōu shì wǒ de.
+最|我最喜歡吃牛肉麵。|Wǒ zuì xǐhuān chī niúròumiàn.
+怕|我妹妹很怕一個人在家。|Wǒ mèimei hěn pà yí ge rén zài jiā.
+美|臺灣的山很美。|Táiwān de shān hěn měi.
+應該|你感冒了，應該多喝水。|Nǐ gǎnmào le, yīnggāi duō hē shuǐ.
+真的|這家的牛肉麵真的很好吃。|Zhè jiā de niúròumiàn zhēnde hěn hǎochī.
+工作|我哥哥在日本工作。|Wǒ gēge zài Rìběn gōngzuò.
+醫生|醫生說我要多休息。|Yīshēng shuō wǒ yào duō xiūxí.
+一點|請說慢一點。|Qǐng shuō màn yìdiǎn.
+一些|我想買一些水果。|Wǒ xiǎng mǎi yìxiē shuǐguǒ.
+本|我昨天買了兩本書。|Wǒ zuótiān mǎile liǎng běn shū.
+張|這張桌子很舊了。|Zhè zhāng zhuōzi hěn jiù le.
+英文|我妹妹的英文說得很好。|Wǒ mèimei de Yīngwén shuō de hěn hǎo.
+紙|請給我一張紙。|Qǐng gěi wǒ yì zhāng zhǐ.
+問題|老師，我有一個問題。|Lǎoshī, wǒ yǒu yí ge wèntí.
+意思|老師，這個是什麼意思？|Lǎoshī, zhège shì shénme yìsi?
+餐廳|學校旁邊有一家餐廳。|Xuéxiào pángbiān yǒu yì jiā cāntīng.
+畫|我弟弟很喜歡畫畫。|Wǒ dìdi hěn xǐhuān huà huà.
+讀|我姐姐在美國讀書。|Wǒ jiějie zài Měiguó dúshū.
+會|小美會說一點中文。|Xiǎoměi huì shuō yìdiǎn Zhōngwén.
+為什麼|你為什麼不吃早飯？|Nǐ wèishénme bù chī zǎofàn?
+下課|下課以後我們去打球吧。|Xiàkè yǐhòu wǒmen qù dǎ qiú ba.
+說話|上課的時候別說話。|Shàngkè de shíhòu bié shuōhuà.
+考試|明天有英文考試。|Míngtiān yǒu Yīngwén kǎoshì.
+懂|老師說的話，你懂嗎？|Lǎoshī shuō de huà, nǐ dǒng ma?
+念|你在哪個學校念書？|Nǐ zài nǎge xuéxiào niànshū?
+課|今天的中文課很有意思。|Jīntiān de Zhōngwén kè hěn yǒu yìsi.
+教|誰教你們中文？|Shéi jiāo nǐmen Zhōngwén?
+告訴|請告訴我你的電話。|Qǐng gàosù wǒ nǐ de diànhuà.
+錯|對不起，我寫錯字了。|Duìbùqǐ, wǒ xiě cuò zì le.
+門口|大明在門口等小美。|Dàmíng zài ménkǒu děng Xiǎoměi.
+枝|我可以用你的那枝筆嗎？|Wǒ kěyǐ yòng nǐ de nà zhī bǐ ma?
+牛|山上有很多牛。|Shān shàng yǒu hěn duō niú.
+豬|我不吃豬肉。|Wǒ bù chī zhūròu.
+雨|今天的雨下得好大。|Jīntiān de yǔ xià de hǎo dà.
+空氣|今天的空氣不太好。|Jīntiān de kōngqì bú tài hǎo.
+功課|我先寫功課，然後看電視。|Wǒ xiān xiě gōngkè, ránhòu kàn diànshì.
+教室|我們的教室在三樓。|Wǒmen de jiàoshì zài sān lóu.
+句子|這個句子我不懂。|Zhège jùzi wǒ bù dǒng.
+休息|你累了，先休息一下吧。|Nǐ lèi le, xiān xiūxí yíxià ba.
+非常|今天非常熱。|Jīntiān fēicháng rè.
+房子|他們家的房子很大。|Tāmen jiā de fángzi hěn dà.
+房間|我的房間有一點小。|Wǒ de fángjiān yǒu yìdiǎn xiǎo.
+樓|我家住在五樓。|Wǒ jiā zhù zài wǔ lóu.
+門|天冷了，請你關門。|Tiān lěng le, qǐng nǐ guān mén.
+桌子|小美的手機在桌子上。|Xiǎoměi de shǒujī zài zhuōzi shàng.
+椅子|教室裡有很多椅子。|Jiàoshì lǐ yǒu hěn duō yǐzi.
+床|我的床太小了。|Wǒ de chuáng tài xiǎo le.
+開|你會開車嗎？|Nǐ huì kāichē ma?
+低|這張桌子太低了。|Zhè zhāng zhuōzi tài dī le.
+不錯|這家店的咖啡很不錯。|Zhè jiā diàn de kāfēi hěn búcuò.
+天氣|今天天氣很好，我們去公園吧。|Jīntiān tiānqì hěn hǎo, wǒmen qù gōngyuán ba.
+冷|晚上有一點冷。|Wǎnshàng yǒu yìdiǎn lěng.
+熱|這碗湯很熱，慢慢喝。|Zhè wǎn tāng hěn rè, mànmàn hē.
+下雨|下雨了，我們別出去了。|Xiàyǔ le, wǒmen bié chūqù le.
+風|今天風很大。|Jīntiān fēng hěn dà.
+山|週末我們去山上走走。|Zhōumò wǒmen qù shān shàng zǒuzǒu.
+花|她的房間裡有很多花。|Tā de fángjiān lǐ yǒu hěn duō huā.
+魚|媽媽晚上要做魚。|Māma wǎnshàng yào zuò yú.
+雞|我想吃雞肉飯。|Wǒ xiǎng chī jīròufàn.
+咖啡|我每天早上喝一杯咖啡。|Wǒ měitiān zǎoshàng hē yì bēi kāfēi.
+茶|你要喝茶還是咖啡？|Nǐ yào hē chá háishì kāfēi?
+用|我可以用你的電腦嗎？|Wǒ kěyǐ yòng nǐ de diànnǎo ma?
+穿|今天很冷，多穿一點衣服。|Jīntiān hěn lěng, duō chuān yìdiǎn yīfú.
+起床|我每天七點起床。|Wǒ měitiān qī diǎn qǐchuáng.
+方便|這裡坐公車很方便。|Zhèlǐ zuò gōngchē hěn fāngbiàn.
+睡覺|太晚了，快去睡覺。|Tài wǎn le, kuài qù shuìjiào.
+起來|快起來，要上課了！|Kuài qǐlái, yào shàngkè le!
+先|你先走，我等一下就來。|Nǐ xiān zǒu, wǒ děng yíxià jiù lái.
+常常|我常常跟朋友去看電影。|Wǒ chángcháng gēn péngyǒu qù kàn diànyǐng.
+每|我每個週末都回家。|Wǒ měi ge zhōumò dōu huíjiā.
+打|下午我們一起去打球。|Xiàwǔ wǒmen yìqǐ qù dǎ qiú.
+玩|孩子們在公園玩。|Háizimen zài gōngyuán wán.
+運動|我爸爸每天早上去運動。|Wǒ bàba měitiān zǎoshàng qù yùndòng.
+走路|我家很近，我走路去學校。|Wǒ jiā hěn jìn, wǒ zǒulù qù xuéxiào.
+唱歌|週末我們去唱歌吧！|Zhōumò wǒmen qù chànggē ba!
+跳|我弟弟跳得很高。|Wǒ dìdi tiào de hěn gāo.
+還|十點了，他還在睡覺。|Shí diǎn le, tā hái zài shuìjiào.
+唱|你唱得真好！|Nǐ chàng de zhēn hǎo!
+歌|她喜歡聽日本歌。|Tā xǐhuān tīng Rìběn gē.
+跳舞|小美很會跳舞。|Xiǎoměi hěn huì tiàowǔ.
+又|他今天又沒來上課。|Tā jīntiān yòu méi lái shàngkè.
+球|這個球是誰的？|Zhège qiú shì shéi de?
+介紹|我來介紹一下，這是我朋友大明。|Wǒ lái jièshào yíxià, zhè shì wǒ péngyǒu Dàmíng.
+沒關係|沒關係，我等你。|Méiguānxi, wǒ děng nǐ.
+事|你今天晚上有事嗎？|Nǐ jīntiān wǎnshàng yǒu shì ma?
+怎麼|這個字怎麼念？|Zhège zì zěnme niàn?
+哪|你的手機是在哪裡買的？|Nǐ de shǒujī shì zài nǎlǐ mǎi de?
+裡面|杯子裡面還有水。|Bēizi lǐmiàn hái yǒu shuǐ.
+上面|書在電腦上面。|Shū zài diànnǎo shàngmiàn.
+下面|我的鞋子在床下面。|Wǒ de xiézi zài chuáng xiàmiàn.
+外面|外面在下雨。|Wàimiàn zài xiàyǔ.
+外頭|外頭很冷，穿多一點。|Wàitou hěn lěng, chuān duō yìdiǎn.
+前面|公車站就在前面。|Gōngchēzhàn jiù zài qiánmiàn.
+後面|學校後面有一個公園。|Xuéxiào hòumiàn yǒu yí ge gōngyuán.
+左邊|左邊那個人是我哥哥。|Zuǒbiān nàge rén shì wǒ gēge.
+右邊|我家右邊是一家咖啡店。|Wǒ jiā yòubiān shì yì jiā kāfēidiàn.
+旁邊|你可以坐我旁邊。|Nǐ kěyǐ zuò wǒ pángbiān.
+裡|你家裡有幾個人？|Nǐ jiā lǐ yǒu jǐ ge rén?
+中|這三個人中，誰最高？|Zhè sān ge rén zhōng, shéi zuì gāo?
+地方|這是什麼地方？|Zhè shì shénme dìfāng?
+附近|這附近有餐廳嗎？|Zhè fùjìn yǒu cāntīng ma?
+帶|明天上課要帶筆。|Míngtiān shàngkè yào dài bǐ.
+拿|你可以拿那本書給我嗎？|Nǐ kěyǐ ná nà běn shū gěi wǒ ma?
+站|下一站是哪裡？|Xià yí zhàn shì nǎlǐ?
+快|快一點，火車要開了！|Kuài yìdiǎn, huǒchē yào kāi le!
+慢|我奶奶走路很慢。|Wǒ nǎinai zǒulù hěn màn.
+計程車|太晚了，我們坐計程車回家吧。|Tài wǎn le, wǒmen zuò jìchéngchē huíjiā ba.
+火車|我喜歡坐火車去玩。|Wǒ xǐhuān zuò huǒchē qù wán.
+飛機|飛機幾點到？|Fēijī jǐ diǎn dào?
+輛|這輛車是我爸爸的。|Zhè liàng chē shì wǒ bàba de.
+出|他早上八點出門。|Tā zǎoshàng bā diǎn chūmén.
+進|請進！外面很冷吧？|Qǐng jìn! Wàimiàn hěn lěng ba?
+外國|這家店有很多外國人。|Zhè jiā diàn yǒu hěn duō wàiguórén.
+手|我的手好冷。|Wǒ de shǒu hǎo lěng.
+腳|走了一天，我的腳好痛。|Zǒule yì tiān, wǒ de jiǎo hǎo tòng.
+身體|你媽媽身體好嗎？|Nǐ māma shēntǐ hǎo ma?
+眼睛|她的眼睛很漂亮。|Tā de yǎnjīng hěn piàoliàng.
+鼻子|他的鼻子很高。|Tā de bízi hěn gāo.
+藥|這個藥要吃飯以後吃。|Zhège yào yào chīfàn yǐhòu chī.
+累|今天工作很忙，我好累。|Jīntiān gōngzuò hěn máng, wǒ hǎo lèi.
+頭|我頭很痛，想睡覺。|Wǒ tóu hěn tòng, xiǎng shuìjiào.
+耳朵|豬的耳朵很大。|Zhū de ěrduo hěn dà.
+感冒|天氣冷，別感冒了。|Tiānqì lěng, bié gǎnmào le.
+生病|他生病了，今天沒來上課。|Tā shēngbìng le, jīntiān méi lái shàngkè.
+餓|我還沒吃早飯，好餓。|Wǒ hái méi chī zǎofàn, hǎo è.
+痛|你哪裡痛？|Nǐ nǎlǐ tòng?
+嘴巴|她的嘴巴很小。|Tā de zuǐba hěn xiǎo.
+病|你的病好了嗎？|Nǐ de bìng hǎo le ma?
+看病|我下午要去看病。|Wǒ xiàwǔ yào qù kànbìng.
+元|這杯咖啡六十元。|Zhè bēi kāfēi liùshí yuán.
+鞋子|我想買新鞋子。|Wǒ xiǎng mǎi xīn xiézi.
+衣服|這件衣服很好看。|Zhè jiàn yīfú hěn hǎokàn.
+比|哥哥比我高。|Gēge bǐ wǒ gāo.
+要|我要一碗牛肉麵。|Wǒ yào yì wǎn niúròumiàn.
+長|這個句子太長了。|Zhège jùzi tài cháng le.
+新|這是我的新電腦。|Zhè shì wǒ de xīn diànnǎo.
+一樣|我跟你的手機一樣。|Wǒ gēn nǐ de shǒujī yíyàng.
+見|小美，我們下午見！|Xiǎoměi, wǒmen xiàwǔ jiàn!
+看見|你看見我的筆了嗎？|Nǐ kànjiàn wǒ de bǐ le ma?
+聽見|我聽見外面有人說話。|Wǒ tīngjiàn wàimiàn yǒu rén shuōhuà.
+店|這家店的麵包很好吃。|Zhè jiā diàn de miànbāo hěn hǎochī.
+短|今天的課很短。|Jīntiān de kè hěn duǎn.
+飽|我吃飽了，謝謝。|Wǒ chībǎo le, xièxie.
+舊|這件衣服太舊了。|Zhè jiàn yīfú tài jiù le.
+像|你長得很像你媽媽。|Nǐ zhǎng de hěn xiàng nǐ māma.
+一共|一共多少錢？|Yígòng duōshǎo qián?
+夠|我們的錢夠嗎？|Wǒmen de qián gòu ma?
+筷子|我會用筷子吃飯。|Wǒ huì yòng kuàizi chīfàn.
+有點|今天有點熱。|Jīntiān yǒudiǎn rè.
+件|我買了兩件衣服。|Wǒ mǎile liǎng jiàn yīfú.
+杯|請給我一杯水。|Qǐng gěi wǒ yì bēi shuǐ.
+杯子|這個杯子是誰的？|Zhège bēizi shì shéi de?
+菜|媽媽做的菜最好吃。|Māma zuò de cài zuì hǎochī.
+肉|我不太喜歡吃肉。|Wǒ bú tài xǐhuān chī ròu.
+酒|他不喝酒。|Tā bù hē jiǔ.
+喝|你想喝什麼？|Nǐ xiǎng hē shénme?
+少|今天公園裡人很少。|Jīntiān gōngyuán lǐ rén hěn shǎo.
+多|她有很多朋友。|Tā yǒu hěn duō péngyǒu.
+小吃|臺灣的小吃很有名。|Táiwān de xiǎochī hěn yǒumíng.
+牛奶|我每天早上喝牛奶。|Wǒ měitiān zǎoshàng hē niúnǎi.
+蛋|早飯我吃了兩個蛋。|Zǎofàn wǒ chīle liǎng ge dàn.
+餃子|我們一起包餃子吧！|Wǒmen yìqǐ bāo jiǎozi ba!
+麵|我中午想吃麵。|Wǒ zhōngwǔ xiǎng chī miàn.
+湯|你要不要喝湯？|Nǐ yào bú yào hē tāng?
+包子|早上我常常吃包子。|Zǎoshàng wǒ chángcháng chī bāozi.
+蛋糕|今天是媽媽的生日，我買了蛋糕。|Jīntiān shì māma de shēngrì, wǒ mǎile dàngāo.
+麵包|我早上吃了一個麵包。|Wǒ zǎoshàng chīle yí ge miànbāo.
+水果|臺灣的水果很好吃。|Táiwān de shuǐguǒ hěn hǎochī.
+香蕉|這些香蕉很甜。|Zhèxiē xiāngjiāo hěn tián.
+食物|這家店的食物很便宜。|Zhè jiā diàn de shíwù hěn piányí.
+飲料|你要什麼飲料？|Nǐ yào shénme yǐnliào?
+果汁|我不喝酒，我喝果汁。|Wǒ bù hē jiǔ, wǒ hē guǒzhī.
+甜|這個蛋糕太甜了。|Zhège dàngāo tài tián le.
+菜單|請給我們菜單。|Qǐng gěi wǒmen càidān.
+巧克力|她很愛吃巧克力。|Tā hěn ài chī qiǎokèlì.
+碗|我吃了兩碗飯。|Wǒ chīle liǎng wǎn fàn.
+冰|我要一杯冰咖啡。|Wǒ yào yì bēi bīng kāfēi.
+一起|我們一起去吃飯，好嗎？|Wǒmen yìqǐ qù chīfàn, hǎo ma?
+因為|我沒去上課，因為我生病了。|Wǒ méi qù shàngkè, yīnwèi wǒ shēngbìng le.
+和|我和姐姐都喜歡唱歌。|Wǒ hé jiějie dōu xǐhuān chànggē.
+所以|今天下雨，所以我們不去山上了。|Jīntiān xiàyǔ, suǒyǐ wǒmen bú qù shān shàng le.
+跟|我想跟你一起去。|Wǒ xiǎng gēn nǐ yìqǐ qù.
+一定|明天你一定要來！|Míngtiān nǐ yídìng yào lái!
+可能|他可能不在家。|Tā kěnéng bú zài jiā.
+邊|他站在門邊等我。|Tā zhàn zài mén biān děng wǒ.
+別|別走，我還有話要說。|Bié zǒu, wǒ hái yǒu huà yào shuō.
+馬上|我馬上就來！|Wǒ mǎshàng jiù lái!
+然後|我們先吃飯，然後去看電影。|Wǒmen xiān chīfàn, ránhòu qù kàn diànyǐng.
+得|很晚了，我得回家了。|Hěn wǎn le, wǒ děi huíjiā le.
+著|他坐著看電視。|Tā zuòzhe kàn diànshì.
+零|我的電話號碼有三個零。|Wǒ de diànhuà hàomǎ yǒu sān ge líng.
+爺爺|爺爺每天早上去公園走路。|Yéye měitiān zǎoshàng qù gōngyuán zǒulù.
+奶奶|奶奶做的包子最好吃。|Nǎinai zuò de bāozi zuì hǎochī.
+家庭|他有一個很快樂的家庭。|Tā yǒu yí ge hěn kuàilè de jiātíng.
+別人|不要拿別人的東西。|Búyào ná biérén de dōngxī.
+大人|這是大人的事，小孩子別問。|Zhè shì dàrén de shì, xiǎo háizi bié wèn.
+老人|公園裡有很多老人在運動。|Gōngyuán lǐ yǒu hěn duō lǎorén zài yùndòng.
+年輕|你媽媽看起來好年輕！|Nǐ māma kànqǐlái hǎo niánqīng!
+男生|我們班的男生都很喜歡打球。|Wǒmen bān de nánshēng dōu hěn xǐhuān dǎ qiú.
+女生|那個穿紅衣服的女生是誰？|Nàge chuān hóng yīfú de nǚshēng shì shéi?
+號碼|可以給我你的手機號碼嗎？|Kěyǐ gěi wǒ nǐ de shǒujī hàomǎ ma?
+在|爸爸在打電話。|Bàba zài dǎ diànhuà.
+哪|我的天哪，好熱！|Wǒ de tiān na, hǎo rè!
+地址|請給我你家的地址。|Qǐng gěi wǒ nǐ jiā de dìzhǐ.
+市|我住在臺中市。|Wǒ zhù zài Táizhōng Shì.
+名|他考試考了第一名。|Tā kǎoshì kǎole dì yī míng.
+城市|臺北是一個很大的城市。|Táiběi shì yí ge hěn dà de chéngshì.
+街|這條街上有很多小吃店。|Zhè tiáo jiē shàng yǒu hěn duō xiǎochī diàn.
+電子郵件|我昨天給老師寫了一封電子郵件。|Wǒ zuótiān gěi lǎoshī xiěle yì fēng diànzǐ yóujiàn.
+禮拜|下個禮拜我們要去臺南玩。|Xià ge lǐbài wǒmen yào qù Táinán wán.
+從前|從前這裡沒有這麼多房子。|Cóngqián zhèlǐ méiyǒu zhème duō fángzi.
+剛剛|我剛剛吃過飯，現在不餓。|Wǒ gānggāng chīguò fàn, xiànzài bú è.
+一會兒|請你等一會兒，他馬上就來。|Qǐng nǐ děng yìhuǐr, tā mǎshàng jiù lái.
+結婚|我姊姊明年三月要結婚了。|Wǒ jiějie míngnián sānyuè yào jiéhūn le.
+春天|春天到了，公園裡的花都開了。|Chūntiān dào le, gōngyuán lǐ de huā dōu kāi le.
+夏天|臺灣的夏天又熱又長。|Táiwān de xiàtiān yòu rè yòu cháng.
+秋天|秋天的天氣不冷也不熱。|Qiūtiān de tiānqì bù lěng yě bú rè.
+冬天|冬天的時候我喜歡喝熱湯。|Dōngtiān de shíhou wǒ xǐhuān hē rè tāng.
+笑|她看到小狗就笑了。|Tā kàndào xiǎo gǒu jiù xiào le.
+哭|弟弟找不到媽媽，一直哭。|Dìdi zhǎo bú dào māma, yìzhí kū.
+高興|很高興認識你！|Hěn gāoxìng rènshì nǐ!
+緊張|明天要考試，我有點緊張。|Míngtiān yào kǎoshì, wǒ yǒudiǎn jǐnzhāng.
+可愛|你家的貓真可愛！|Nǐ jiā de māo zhēn kě'ài!
+生氣|你別生氣，我不是故意的。|Nǐ bié shēngqì, wǒ bú shì gùyì de.
+難過|小狗不見了，她很難過。|Xiǎo gǒu bú jiàn le, tā hěn nánguò.
+聰明|大明很聰明，什麼都學得很快。|Dàmíng hěn cōngmíng, shénme dōu xué de hěn kuài.
+相信|我相信你一定可以做到。|Wǒ xiāngxìn nǐ yídìng kěyǐ zuòdào.
+經驗|他有很多教中文的經驗。|Tā yǒu hěn duō jiāo Zhōngwén de jīngyàn.
+辛苦|你每天工作到很晚，辛苦了！|Nǐ měi tiān gōngzuò dào hěn wǎn, xīnkǔ le!
+願意|你願意跟我一起去看電影嗎？|Nǐ yuànyì gēn wǒ yìqǐ qù kàn diànyǐng ma?
+習慣|你習慣臺灣的天氣了嗎？|Nǐ xíguàn Táiwān de tiānqì le ma?
+當然|他是你的朋友，我當然會幫他。|Tā shì nǐ de péngyǒu, wǒ dāngrán huì bāng tā.
+更|今天比昨天更熱。|Jīntiān bǐ zuótiān gèng rè.
+醫院|爺爺生病了，現在在醫院。|Yéye shēngbìng le, xiànzài zài yīyuàn.
+公司|我爸爸的公司在臺北。|Wǒ bàba de gōngsī zài Táiběi.
+辦公室|老師現在在辦公室嗎？|Lǎoshī xiànzài zài bàngōngshì ma?
+工人|這些工人每天很早就開始工作。|Zhèxiē gōngrén měi tiān hěn zǎo jiù kāishǐ gōngzuò.
+護士|我姊姊在醫院當護士。|Wǒ jiějie zài yīyuàn dāng hùshì.
+司機|公車司機請大家往後走。|Gōngchē sījī qǐng dàjiā wǎng hòu zǒu.
+老闆|老闆，這個多少錢？|Lǎobǎn, zhège duōshǎo qián?
+上班|我爸爸每天騎機車去上班。|Wǒ bàba měi tiān qí jīchē qù shàngbān.
+下班|你今天幾點下班？|Nǐ jīntiān jǐ diǎn xiàbān?
+能力|她有能力做好這件事。|Tā yǒu nénglì zuòhǎo zhè jiàn shì.
+努力|他學華語學得很努力。|Tā xué Huáyǔ xué de hěn nǔlì.
+準備|你準備好了嗎？我們要走了。|Nǐ zhǔnbèi hǎo le ma? Wǒmen yào zǒu le.
+打算|週末你打算做什麼？|Zhōumò nǐ dǎsuàn zuò shénme?
+計畫|我們的旅行計畫還沒決定。|Wǒmen de lǚxíng jìhuà hái méi juédìng.
+機會|這是一個很好的機會。|Zhè shì yí ge hěn hǎo de jīhuì.
+如果|如果明天下雨，我們就不去了。|Rúguǒ míngtiān xià yǔ, wǒmen jiù bú qù le.
+小學|我弟弟今年上小學一年級。|Wǒ dìdi jīnnián shàng xiǎoxué yī niánjí.
+高中|她高中的時候很喜歡打球。|Tā gāozhōng de shíhou hěn xǐhuān dǎ qiú.
+上學|小朋友每天早上七點去上學。|Xiǎopéngyǒu měi tiān zǎoshang qī diǎn qù shàngxué.
+開學|下個月就要開學了。|Xià ge yuè jiù yào kāixué le.
+班|我們班有二十個學生。|Wǒmen bān yǒu èrshí ge xuéshēng.
+年級|你妹妹幾年級了？|Nǐ mèimei jǐ niánjí le?
+作業|今天的作業很多，我還沒寫。|Jīntiān de zuòyè hěn duō, wǒ hái méi xiě.
+成績|她這次考試的成績很好。|Tā zhè cì kǎoshì de chéngjī hěn hǎo.
+語言|學一種新的語言不容易。|Xué yì zhǒng xīn de yǔyán bù róngyì.
+華語|我在臺灣學了一年華語。|Wǒ zài Táiwān xuéle yì nián Huáyǔ.
+黑板|老師在黑板上寫了幾個字。|Lǎoshī zài hēibǎn shàng xiěle jǐ ge zì.
+課本|請大家把課本打開。|Qǐng dàjiā bǎ kèběn dǎkāi.
+字典|這個字我不認識，可以用一下你的字典嗎？|Zhège zì wǒ bú rènshì, kěyǐ yòng yíxià nǐ de zìdiǎn ma?
+注意|天氣冷了，要注意身體。|Tiānqì lěng le, yào zhùyì shēntǐ.
+讀書|哥哥每天晚上在圖書館讀書。|Gēge měi tiān wǎnshàng zài túshūguǎn dúshū.
+回答|這個問題我不知道怎麼回答。|Zhège wèntí wǒ bù zhīdào zěnme huídá.
+答|老師問的問題，大明都答對了。|Lǎoshī wèn de wèntí, Dàmíng dōu dáduì le.
+句|這句中文怎麼說比較好？|Zhè jù Zhōngwén zěnme shuō bǐjiào hǎo?
+圖|這張圖是我自己畫的。|Zhè zhāng tú shì wǒ zìjǐ huà de.
+部分|這本書我只看了一部分。|Zhè běn shū wǒ zhǐ kànle yí bùfèn.
+想法|我想聽聽你的想法。|Wǒ xiǎng tīngting nǐ de xiǎngfǎ.
+學習|在臺灣學習中文很有意思。|Zài Táiwān xuéxí Zhōngwén hěn yǒu yìsi.
+練習|你要多練習說中文。|Nǐ yào duō liànxí shuō Zhōngwén.
+參加|週末你要參加小美的生日會嗎？|Zhōumò nǐ yào cānjiā Xiǎoměi de shēngrì huì ma?
+文化|我想多知道一點臺灣的文化。|Wǒ xiǎng duō zhīdào yìdiǎn Táiwān de wénhuà.
+認為|我認為這個辦法很好。|Wǒ rènwéi zhège bànfǎ hěn hǎo.
+清楚|老師說得很清楚，我都聽懂了。|Lǎoshī shuō de hěn qīngchǔ, wǒ dōu tīngdǒng le.
+決定|我決定明年去日本旅行。|Wǒ juédìng míngnián qù Rìběn lǚxíng.
+記得|你還記得他的名字嗎？|Nǐ hái jìde tā de míngzi ma?
+忘|我忘了帶錢包。|Wǒ wàngle dài qiánbāo.
+棒|你的中文說得真棒！|Nǐ de Zhōngwén shuō de zhēn bàng!
+行|明天下午三點見面，行嗎？|Míngtiān xiàwǔ sān diǎn jiànmiàn, xíng ma?
+行|你是做哪一行的？|Nǐ shì zuò nǎ yì háng de?
+講|請你講慢一點。|Qǐng nǐ jiǎng màn yìdiǎn.
+加|咖啡要不要加糖？|Kāfēi yào bú yào jiā táng?
+算|請你算一下一共多少錢。|Qǐng nǐ suàn yíxià yígòng duōshǎo qián.
+交|明天要交作業，別忘了。|Míngtiān yào jiāo zuòyè, bié wàng le.
+借|我可以跟你借一枝筆嗎？|Wǒ kěyǐ gēn nǐ jiè yì zhī bǐ ma?
+還|這本書我明天還你。|Zhè běn shū wǒ míngtiān huán nǐ.
+辦法|你放心，我會想辦法。|Nǐ fàngxīn, wǒ huì xiǎng bànfǎ.
+方法|你學中文的方法很好。|Nǐ xué Zhōngwén de fāngfǎ hěn hǎo.
+有用|這本書對學華語很有用。|Zhè běn shū duì xué Huáyǔ hěn yǒuyòng.
+進步|你的中文進步了很多。|Nǐ de Zhōngwén jìnbù le hěn duō.
+圖書館|圖書館星期一不開。|Túshūguǎn xīngqíyī bù kāi.
+洗手間|請問洗手間在哪裡？|Qǐngwèn xǐshǒujiān zài nǎlǐ?
+宿舍|我住在學校的宿舍。|Wǒ zhù zài xuéxiào de sùshè.
+屋子|這間屋子很小，可是很舒服。|Zhè jiān wūzi hěn xiǎo, kěshì hěn shūfú.
+間|我家有三間房間。|Wǒ jiā yǒu sān jiān fángjiān.
+大樓|我們公司在那個大樓的十樓。|Wǒmen gōngsī zài nàge dàlóu de shí lóu.
+樓上|樓上有人在唱歌。|Lóushàng yǒu rén zài chànggē.
+樓下|我在樓下等你。|Wǒ zài lóuxià děng nǐ.
+樓梯|電梯壞了，我們走樓梯吧。|Diàntī huài le, wǒmen zǒu lóutī ba.
+電梯|我們坐電梯上去吧。|Wǒmen zuò diàntī shàngqù ba.
+廚房|媽媽在廚房做飯。|Māma zài chúfáng zuò fàn.
+客廳|我們在客廳看電視。|Wǒmen zài kètīng kàn diànshì.
+窗子|天氣很熱，請把窗戶打開。|Tiānqì hěn rè, qǐng bǎ chuānghu dǎkāi.
+家具|新家的家具都是我們自己買的。|Xīn jiā de jiājù dōu shì wǒmen zìjǐ mǎi de.
+沙發|爸爸坐在沙發上睡著了。|Bàba zuò zài shāfā shàng shuìzháo le.
+盒|這盒蛋糕是送你的。|Zhè hé dàngāo shì sòng nǐ de.
+關|睡覺前請把冷氣關了。|Shuìjiào qián qǐng bǎ lěngqì guān le.
+燈|這裡太黑了，開燈吧。|Zhèlǐ tài hēi le, kāi dēng ba.
+冷氣機|我房間的冷氣機壞了。|Wǒ fángjiān de lěngqìjī huài le.
+冰箱|冰箱裡還有一點牛奶。|Bīngxiāng lǐ hái yǒu yìdiǎn niúnǎi.
+台|我想買一台新電腦。|Wǒ xiǎng mǎi yì tái xīn diànnǎo.
+電|手機快沒電了。|Shǒujī kuài méi diàn le.
+乾淨|你的房間好乾淨！|Nǐ de fángjiān hǎo gānjìng!
+房租|臺北的房租很貴。|Táiběi de fángzū hěn guì.
+租|我們在學校附近租了一間房子。|Wǒmen zài xuéxiào fùjìn zūle yì jiān fángzi.
+世界|我想去世界各地旅行。|Wǒ xiǎng qù shìjiè gè dì lǚxíng.
+火|做飯的時候要小心火。|Zuò fàn de shíhou yào xiǎoxīn huǒ.
+雪|你看過雪嗎？|Nǐ kànguò xuě ma?
+下雪|臺北冬天不下雪。|Táiběi dōngtiān bú xiàxuě.
+地|地上有一本書，是誰的？|Dì shàng yǒu yì běn shū, shì shéi de?
+河|河的兩邊有很多樹。|Hé de liǎng biān yǒu hěn duō shù.
+湖|我們週末去湖邊騎腳踏車。|Wǒmen zhōumò qù hú biān qí jiǎotàchē.
+馬|你騎過馬嗎？|Nǐ qíguò mǎ ma?
+鳥|樹上有兩隻小鳥。|Shù shàng yǒu liǎng zhī xiǎo niǎo.
+貓|我家的貓喜歡在沙發上睡覺。|Wǒ jiā de māo xǐhuān zài shāfā shàng shuìjiào.
+狗|每天晚上我帶狗去公園走走。|Měi tiān wǎnshàng wǒ dài gǒu qù gōngyuán zǒuzou.
+海|夏天我們常去海邊玩。|Xiàtiān wǒmen cháng qù hǎi biān wán.
+草|小孩子在草上跑來跑去。|Xiǎo háizi zài cǎo shàng pǎo lái pǎo qù.
+樹|這些樹都是爺爺種的。|Zhèxiē shù dōu shì yéye zhòng de.
+隻|她家有兩隻貓。|Tā jiā yǒu liǎng zhī māo.
+長|他是我們學校的校長。|Tā shì wǒmen xuéxiào de xiàozhǎng.
+太陽|今天太陽很大，好熱啊！|Jīntiān tàiyáng hěn dà, hǎo rè a!
+洗|吃飯以前要先洗手。|Chī fàn yǐqián yào xiān xǐ shǒu.
+洗澡|天氣太熱了，我想先洗澡。|Tiānqì tài rè le, wǒ xiǎng xiān xǐzǎo.
+有空|你明天晚上有空嗎？|Nǐ míngtiān wǎnshàng yǒukòng ma?
+發現|我發現錢包不見了。|Wǒ fāxiàn qiánbāo bú jiàn le.
+餐|我一天吃三餐。|Wǒ yì tiān chī sān cān.
+搬|我們下個月要搬家。|Wǒmen xià ge yuè yào bānjiā.
+掛|請把衣服掛起來。|Qǐng bǎ yīfú guà qǐlái.
+脫|進門以前請先脫鞋。|Jìn mén yǐqián qǐng xiān tuō xié.
+過年|過年的時候我們都回老家。|Guònián de shíhou wǒmen dōu huí lǎojiā.
+新年|新年快樂！今年也請多幫忙。|Xīnnián kuàilè! Jīnnián yě qǐng duō bāngmáng.
+游泳|你會游泳嗎？|Nǐ huì yóuyǒng ma?
+跑|他每天早上去公園跑步。|Tā měi tiān zǎoshang qù gōngyuán pǎobù.
+踢|那些孩子在外面踢球。|Nàxiē háizi zài wàimiàn tī qiú.
+足球|哥哥週末常跟朋友踢足球。|Gēge zhōumò cháng gēn péngyǒu tī zúqiú.
+籃球|我們下課以後去打籃球吧。|Wǒmen xiàkè yǐhòu qù dǎ lánqiú ba.
+網球|她網球打得很好。|Tā wǎngqiú dǎ de hěn hǎo.
+棒球|很多臺灣人喜歡看棒球比賽。|Hěn duō Táiwān rén xǐhuān kàn bàngqiú bǐsài.
+比賽|明天的比賽幾點開始？|Míngtiān de bǐsài jǐ diǎn kāishǐ?
+開始|電影已經開始了，快進去吧。|Diànyǐng yǐjīng kāishǐ le, kuài jìnqù ba.
+騎|這裡不能騎機車。|Zhèlǐ bù néng qí jīchē.
+腳踏車|我想騎腳踏車去學校。|Wǒ xiǎng qí jiǎotàchē qù xuéxiào.
+上網|上網買東西很方便。|Shàngwǎng mǎi dōngxi hěn fāngbiàn.
+網路|這裡的網路很慢。|Zhèlǐ de wǎnglù hěn màn.
+網站|這個網站可以買到很多便宜的東西。|Zhège wǎngzhàn kěyǐ mǎidào hěn duō piányí de dōngxi.
+報紙|爺爺每天早上看報紙。|Yéye měi tiān zǎoshang kàn bàozhǐ.
+次|我去過日本兩次。|Wǒ qùguò Rìběn liǎng cì.
+電影院|電影院就在車站旁邊。|Diànyǐngyuàn jiù zài chēzhàn pángbiān.
+部|這部電影很好看。|Zhè bù diànyǐng hěn hǎokàn.
+場|下一場電影是幾點？|Xià yì chǎng diànyǐng shì jǐ diǎn?
+音樂|我寫作業的時候喜歡聽音樂。|Wǒ xiě zuòyè de shíhou xǐhuān tīng yīnyuè.
+票|我買了兩張電影票。|Wǒ mǎile liǎng zhāng diànyǐng piào.
+活動|學校週末有很多活動。|Xuéxiào zhōumò yǒu hěn duō huódòng.
+故事|媽媽每天晚上給我講故事。|Māma měi tiān wǎnshàng gěi wǒ jiǎng gùshi.
+聊天|我們一邊喝咖啡一邊聊天。|Wǒmen yìbiān hē kāfēi yìbiān liáotiān.
+有時候|我有時候走路去學校。|Wǒ yǒushíhou zǒulù qù xuéxiào.
+平常|你平常幾點起床？|Nǐ píngcháng jǐ diǎn qǐchuáng?
+總是|他總是最後一個到。|Tā zǒngshì zuìhòu yí ge dào.
+已經|我已經到車站了。|Wǒ yǐjīng dào chēzhàn le.
+後來|他以前住在臺南，後來搬到臺北了。|Tā yǐqián zhù zài Táinán, hòulái bān dào Táiběi le.
+各|各位同學，請坐好。|Gèwèi tóngxué, qǐng zuòhǎo.
+變|你變瘦了！|Nǐ biàn shòu le!
+才|我十點才起床。|Wǒ shí diǎn cái qǐchuáng.
+客人|今天晚上家裡有客人要來。|Jīntiān wǎnshàng jiā lǐ yǒu kèrén yào lái.
+客氣|別客氣，多吃一點。|Bié kèqi, duō chī yìdiǎn.
+不客氣|他說謝謝，我說不客氣。|Tā shuō xièxie, wǒ shuō bú kèqì.
+不好意思|不好意思，我來晚了。|Bù hǎoyìsi, wǒ lái wǎn le.
+喂|喂，請問大明在家嗎？|Wéi, qǐngwèn Dàmíng zài jiā ma?
+喂|喂，你的東西掉了！|Wèi, nǐ de dōngxi diào le!
+麻煩|麻煩你幫我開一下門。|Máfan nǐ bāng wǒ kāi yíxià mén.
+禮物|這是我送你的生日禮物。|Zhè shì wǒ sòng nǐ de shēngrì lǐwù.
+歡迎|歡迎你來我家玩！|Huānyíng nǐ lái wǒ jiā wán!
+寄|我想寄一些東西給在美國的朋友。|Wǒ xiǎng jì yìxiē dōngxi gěi zài Měiguó de péngyǒu.
+接|我去機場接你。|Wǒ qù jīchǎng jiē nǐ.
+郵局|郵局幾點關門？|Yóujú jǐ diǎn guānmén?
+銀行|我要去銀行拿錢。|Wǒ yào qù yínháng ná qián.
+壞|我的手機壞了。|Wǒ de shǒujī huài le.
+幫忙|有什麼事需要我幫忙嗎？|Yǒu shénme shì xūyào wǒ bāngmáng ma?
+幫助|謝謝你的幫助。|Xièxie nǐ de bāngzhù.
+小朋友|小朋友，你幾歲了？|Xiǎopéngyǒu, nǐ jǐ suì le?
+信|我很久沒寫信給家人了。|Wǒ hěn jiǔ méi xiě xìn gěi jiārén le.
+信封|請把信放進信封裡。|Qǐng bǎ xìn fàng jìn xìnfēng lǐ.
+認識|你們是怎麼認識的？|Nǐmen shì zěnme rènshì de?
+最近|你最近忙不忙？|Nǐ zuìjìn máng bù máng?
+聽說|聽說那家餐廳的牛肉麵很好吃。|Tīngshuō nà jiā cāntīng de niúròu miàn hěn hǎochī.
+見面|我們很久沒見面了。|Wǒmen hěn jiǔ méi jiànmiàn le.
+事情|我今天有很多事情要做。|Wǒ jīntiān yǒu hěn duō shìqíng yào zuò.
+幫|你可以幫我拿一下嗎？|Nǐ kěyǐ bāng wǒ ná yíxià ma?
+錢包|你的錢包在桌子上。|Nǐ de qiánbāo zài zhuōzi shàng.
+拉|請你拉一下這個門。|Qǐng nǐ lā yíxià zhège mén.
+啊|啊，下雨了！|Ā, xià yǔ le!
+怎麼辦|我的錢包不見了，怎麼辦？|Wǒ de qiánbāo bú jiàn le, zěnme bàn?
+車站|車站離這裡很近。|Chēzhàn lí zhèlǐ hěn jìn.
+汽車|那輛紅色的汽車是我爸爸的。|Nà liàng hóngsè de qìchē shì wǒ bàba de.
+飛機場|我們坐計程車去飛機場吧。|Wǒmen zuò jìchéngchē qù fēijīchǎng ba.
+馬路|小朋友不可以在馬路上玩。|Xiǎopéngyǒu bù kěyǐ zài mǎlù shàng wán.
+路口|在下一個路口往右轉。|Zài xià yí ge lùkǒu wǎng yòu zhuǎn.
+十字路口|銀行就在十字路口旁邊。|Yínháng jiù zài shízì lùkǒu pángbiān.
+對面|我家對面有一家咖啡店。|Wǒ jiā duìmiàn yǒu yì jiā kāfēi diàn.
+旅行|今年夏天我想去日本旅行。|Jīnnián xiàtiān wǒ xiǎng qù Rìběn lǚxíng.
+飯店|我們住的飯店離海很近。|Wǒmen zhù de fàndiàn lí hǎi hěn jìn.
+旅館|這家旅館又乾淨又便宜。|Zhè jiā lǚguǎn yòu gānjìng yòu piányí.
+袋子|請給我一個袋子，謝謝。|Qǐng gěi wǒ yí ge dàizi, xièxie.
+參觀|星期六我們去參觀大學。|Xīngqíliù wǒmen qù cānguān dàxué.
+地圖|我看不懂這張地圖。|Wǒ kàn bù dǒng zhè zhāng dìtú.
+照相機|爸爸買了一臺新照相機。|Bàba mǎile yì tái xīn zhàoxiàngjī.
+照相|這裡不可以照相。|Zhèlǐ bù kěyǐ zhàoxiàng.
+照片|這是我小時候的照片。|Zhè shì wǒ xiǎo shíhòu de zhàopiàn.
+風景|山上的風景真漂亮！|Shān shàng de fēngjǐng zhēn piàoliàng!
+南|我家在臺灣南部。|Wǒ jiā zài Táiwān nánbù.
+西|太陽從西邊下山。|Tàiyáng cóng xībiān xià shān.
+北|我哥哥在北部工作。|Wǒ gēge zài běibù gōngzuò.
+東|臺灣東部的山很高。|Táiwān dōngbù de shān hěn gāo.
+中間|我坐在爸爸和媽媽中間。|Wǒ zuò zài bàba hé māma zhōngjiān.
+離|學校離我家不遠。|Xuéxiào lí wǒ jiā bù yuǎn.
+離開|他昨天離開臺北了。|Tā zuótiān líkāi Táiběi le.
+經過|去學校的時候，我會經過一家書店。|Qù xuéxiào de shíhòu, wǒ huì jīngguò yì jiā shūdiàn.
+往|往前走，再往右轉。|Wǎng qián zǒu, zài wǎng yòu zhuǎn.
+送|我送你到車站吧。|Wǒ sòng nǐ dào chēzhàn ba.
+放|你的書我放在桌子上了。|Nǐ de shū wǒ fàng zài zhuōzi shàng le.
+近|我家很近，走路五分鐘就到了。|Wǒ jiā hěn jìn, zǒulù wǔ fēnzhōng jiù dào le.
+遠|火車站很遠，我們坐計程車去吧。|Huǒchēzhàn hěn yuǎn, wǒmen zuò jìchéngchē qù ba.
+向|他向我笑了笑。|Tā xiàng wǒ xiào le xiào.
+轉|到了下一個路口請左轉。|Dàole xià yí ge lùkǒu qǐng zuǒ zhuǎn.
+掉|我的手機掉了。|Wǒ de shǒujī diào le.
+一直|一直往前走就到了。|Yìzhí wǎng qián zǒu jiù dào le.
+最後|最後一班車是幾點？|Zuìhòu yì bān chē shì jǐ diǎn?
+病人|醫院裡有很多病人。|Yīyuàn lǐ yǒu hěn duō bìngrén.
+頭髮|妹妹的頭髮很長。|Mèimei de tóufǎ hěn cháng.
+手指頭|我的手指頭好痛。|Wǒ de shǒuzhǐtou hǎo tòng.
+肚子|我肚子好餓！|Wǒ dùzi hǎo è!
+臉|你的臉好紅，怎麼了？|Nǐ de liǎn hǎo hóng, zěnme le?
+心|我的心跳得很快。|Wǒ de xīn tiào de hěn kuài.
+健康|多運動對身體健康很好。|Duō yùndòng duì shēntǐ jiànkāng hěn hǎo.
+渴|我好渴，想喝水。|Wǒ hǎo kě, xiǎng hē shuǐ.
+舒服|這張床很舒服。|Zhè zhāng chuáng hěn shūfú.
+眼鏡|爺爺看書要戴眼鏡。|Yéye kàn shū yào dài yǎnjìng.
+賣|那家店賣很好吃的麵包。|Nà jiā diàn mài hěn hǎochī de miànbāo.
+付|我用手機付錢。|Wǒ yòng shǒujī fù qián.
+希望|我希望明天不要下雨。|Wǒ xīwàng míngtiān bú yào xià yǔ.
+書店|我常常去書店看書。|Wǒ chángcháng qù shūdiàn kàn shū.
+商店|這條街上有很多商店。|Zhè tiáo jiē shàng yǒu hěn duō shāngdiàn.
+市場|媽媽每天早上去市場買菜。|Māma měi tiān zǎoshàng qù shìchǎng mǎi cài.
+超級市場|我家附近有一家超市。|Wǒ jiā fùjìn yǒu yì jiā chāoshì.
+信用卡|可以用信用卡嗎？|Kěyǐ yòng xìnyòngkǎ ma?
+重要|明天的考試很重要。|Míngtiān de kǎoshì hěn zhòngyào.
+顏色|這件衣服有三個顏色。|Zhè jiàn yīfú yǒu sān ge yánsè.
+黃色|她穿了一件黃色的衣服。|Tā chuānle yí jiàn huángsè de yīfú.
+白色|我想買那雙白色的鞋子。|Wǒ xiǎng mǎi nà shuāng báisè de xiézi.
+手錶|這支手錶是爸爸送我的。|Zhè zhī shǒubiǎo shì bàba sòng wǒ de.
+襪子|冬天要穿襪子。|Dōngtiān yào chuān wàzi.
+雙|我買了一雙新鞋。|Wǒ mǎile yì shuāng xīn xié.
+裙子|這條裙子很漂亮。|Zhè tiáo qúnzi hěn piàoliàng.
+褲子|這條褲子太長了。|Zhè tiáo kùzi tài cháng le.
+大衣|外面很冷，穿上大衣吧。|Wàimiàn hěn lěng, chuān shàng dàyī ba.
+帽子|太陽很大，戴帽子吧。|Tàiyáng hěn dà, dài màozi ba.
+皮包|她的皮包是紅色的。|Tā de píbāo shì hóngsè de.
+外套|晚上會變冷，帶一件外套。|Wǎnshàng huì biàn lěng, dài yí jiàn wàitào.
+小心|過馬路要小心。|Guò mǎlù yào xiǎoxīn.
+比較|這家店比較便宜。|Zhè jiā diàn bǐjiào piányí.
+差不多|我們兩個差不多高。|Wǒmen liǎng ge chàbùduō gāo.
+戴|她喜歡戴手錶。|Tā xǐhuān dài shǒubiǎo.
+試|這件衣服我可以試試看嗎？|Zhè jiàn yīfú wǒ kěyǐ shìshì kàn ma?
+輕|這個箱子很輕。|Zhè ge xiāngzi hěn qīng.
+重|你的包包好重！|Nǐ de bāobāo hǎo zhòng!
+樣子|他看起來很累的樣子。|Tā kàn qǐlái hěn lèi de yàngzi.
+特別|今天是一個特別的日子。|Jīntiān shì yí ge tèbié de rìzi.
+簡單|這個問題很簡單。|Zhè ge wèntí hěn jiǎndān.
+其他|你還有其他問題嗎？|Nǐ hái yǒu qítā wèntí ma?
+聲音|你的聲音很好聽。|Nǐ de shēngyīn hěn hǎotīng.
+好像|外面好像下雨了。|Wàimiàn hǎoxiàng xià yǔ le.
+奇怪|好奇怪，他今天怎麼沒來？|Hǎo qíguài, tā jīntiān zěnme méi lái?
+三明治|早餐我吃了一個三明治。|Zǎocān wǒ chīle yí ge sānmíngzhì.
+漢堡|我想吃漢堡，你呢？|Wǒ xiǎng chī hànbǎo, nǐ ne?
+蘋果|一個蘋果多少錢？|Yí ge píngguǒ duōshǎo qián?
+西瓜|夏天吃西瓜最好了。|Xiàtiān chī xīguā zuì hǎo le.
+啤酒|爸爸喜歡喝冰啤酒。|Bàba xǐhuān hē bīng píjiǔ.
+紅茶|我要一杯冰紅茶。|Wǒ yào yì bēi bīng hóngchá.
+點心|下午三點我們吃點心吧。|Xiàwǔ sān diǎn wǒmen chī diǎnxīn ba.
+冰淇淋|天氣好熱，我想吃冰淇淋。|Tiānqì hǎo rè, wǒ xiǎng chī bīngqílín.
+青菜|多吃青菜對身體好。|Duō chī qīngcài duì shēntǐ hǎo.
+糖|我的咖啡不要加糖。|Wǒ de kāfēi bú yào jiā táng.
+叉子|吃蛋糕要用叉子。|Chī dàngāo yào yòng chāzi.
+刀子|小心，這把刀子很快。|Xiǎoxīn, zhè bǎ dāozi hěn kuài.
+湯匙|喝湯要用湯匙。|Hē tāng yào yòng tāngchí.
+盤|他一個人吃了兩盤餃子。|Tā yí ge rén chīle liǎng pán jiǎozi.
+片|我早上吃了兩片麵包。|Wǒ zǎoshàng chīle liǎng piàn miànbāo.
+瓶|請給我一瓶水。|Qǐng gěi wǒ yì píng shuǐ.
+支|我借你一支筆。|Wǒ jiè nǐ yì zhī bǐ.
+份|我要兩份牛肉麵。|Wǒ yào liǎng fèn niúròu miàn.
+道|這道菜是媽媽做的。|Zhè dào cài shì māma zuò de.
+一半|蛋糕我吃了一半。|Dàngāo wǒ chīle yíbàn.
+味道|這個湯的味道很好。|Zhè ge tāng de wèidào hěn hǎo.
+酸|這個蘋果有一點酸。|Zhè ge píngguǒ yǒu yìdiǎn suān.
+苦|這杯咖啡好苦！|Zhè bēi kāfēi hǎo kǔ!
+鹹|這個湯太鹹了。|Zhè ge tāng tài xián le.
+辣|你吃辣嗎？|Nǐ chī là ma?
+香|麵包好香啊！|Miànbāo hǎo xiāng a!
+條|我家有兩條狗。|Wǒ jiā yǒu liǎng tiáo gǒu.
+種|你喜歡哪一種水果？|Nǐ xǐhuān nǎ yì zhǒng shuǐguǒ?
+包|這個要包起來嗎？|Zhè ge yào bāo qǐlái ma?
+全部|這些全部多少錢？|Zhèxiē quánbù duōshǎo qián?
+所有|所有的學生都來了。|Suǒyǒu de xuéshēng dōu lái le.
+需要|你需要幫忙嗎？|Nǐ xūyào bāngmáng ma?
+烤|爸爸在外面烤肉。|Bàba zài wàimiàn kǎo ròu.
+過|你們過年回家嗎？|Nǐmen guònián huí jiā ma?
+但是|我很想去，但是我沒有時間。|Wǒ hěn xiǎng qù, dànshì wǒ méiyǒu shíjiān.
+或是|坐公車或是騎車都可以。|Zuò gōngchē huòshì qí chē dōu kěyǐ.
+要是|要是明天下雨，我們就不去了。|Yàoshì míngtiān xià yǔ, wǒmen jiù bú qù le.
+把|請把門關上。|Qǐng bǎ mén guān shàng.
+被|我的蛋糕被弟弟吃了。|Wǒ de dàngāo bèi dìdi chī le.
+讓|媽媽不讓我晚上出去。|Māma bú ràng wǒ wǎnshàng chūqù.
+雖然|雖然很累，但是我很快樂。|Suīrán hěn lèi, dànshì wǒ hěn kuàilè.
+那麼|你怎麼那麼晚才回來？|Nǐ zěnme nàme wǎn cái huílái?
+這麼|今天怎麼這麼熱？|Jīntiān zěnme zhème rè?
+本來|我本來想去，後來太忙了。|Wǒ běnlái xiǎng qù, hòulái tài máng le.
+啦|好啦，我知道啦！|Hǎo la, wǒ zhīdào la!
+呀|你也來了呀！|Nǐ yě lái le ya!
+以為|我以為你不來了。|Wǒ yǐwéi nǐ bù lái le.
+有的|有的人喜歡喝茶，有的人喜歡喝咖啡。|Yǒude rén xǐhuān hē chá, yǒude rén xǐhuān hē kāfēi.
+替|我替你拿吧。|Wǒ tì nǐ ná ba.
+一下子|他一下子就不見了。|Tā yíxiàzi jiù bú jiàn le.
+不過|這件衣服很好看，不過有點貴。|Zhè jiàn yīfú hěn hǎokàn, búguò yǒudiǎn guì.
+地|他慢慢地走回家。|Tā mànmàn de zǒu huí jiā.
+出生|我是在臺南出生的。|Wǒ shì zài Táinán chūshēng de.
+不同|每個國家的文化都不同。|Měi ge guójiā de wénhuà dōu bùtóng.
+住址|請寫下你的住址。|Qǐng xiě xià nǐ de zhùzhǐ.
+母語|你的母語是什麼？|Nǐ de mǔyǔ shì shénme?
+表|請看一下這張表。|Qǐng kàn yíxià zhè zhāng biǎo.
+鐘|教室裡的鐘慢了五分鐘。|Jiàoshì lǐ de zhōng mànle wǔ fēnzhōng.
+鐘|我房間裡沒有時鐘。|Wǒ fángjiān lǐ méiyǒu shízhōng.
+傳真|請把資料傳真給我。|Qǐng bǎ zīliào chuánzhēn gěi wǒ.
+白天|白天很熱，晚上比較涼。|Báitiān hěn rè, wǎnshàng bǐjiào liáng.
+半夜|他常常半夜才睡覺。|Tā chángcháng bànyè cái shuìjiào.
+夜晚|夏天的夜晚很舒服。|Xiàtiān de yèwǎn hěn shūfú.
+日子|這些日子你過得好嗎？|Zhèxiē rìzi nǐ guò de hǎo ma?
+夜|夜深了，快去睡吧。|Yè shēn le, kuài qù shuì ba.
+春季|春季常常下雨。|Chūnjì chángcháng xià yǔ.
+時|吃飯時不要看手機。|Chīfàn shí bú yào kàn shǒujī.
+不久|不久以後，他們就結婚了。|Bùjiǔ yǐhòu, tāmen jiù jiéhūn le.
+剛才|剛才有人打電話給你。|Gāngcái yǒu rén dǎ diànhuà gěi nǐ.
+早點|明天要考試，今天早點睡吧。|Míngtiān yào kǎoshì, jīntiān zǎodiǎn shuì ba.
+正好|你來得正好，我們要吃飯了。|Nǐ lái de zhènghǎo, wǒmen yào chīfàn le.
+年紀|爺爺年紀大了，走路很慢。|Yéye niánjì dà le, zǒulù hěn màn.
+男人|那個男人是誰？|Nà ge nánrén shì shéi?
+女人|那個穿紅衣服的女人是我阿姨。|Nà ge chuān hóng yīfú de nǚrén shì wǒ āyí.
+父親|我父親是醫生。|Wǒ fùqīn shì yīshēng.
+母親|我母親每天早上都去運動。|Wǒ mǔqīn měi tiān zǎoshàng dōu qù yùndòng.
+父母|週末我常常回家看父母。|Zhōumò wǒ chángcháng huí jiā kàn fùmǔ.
+外公|外公住在鄉下。|Wàigōng zhù zài xiāngxià.
+外婆|外婆做的菜最好吃。|Wàipó zuò de cài zuì hǎochī.
+伯伯|伯伯，您早！|Bóbo, nín zǎo!
+伯父|我伯父在銀行工作。|Wǒ bófù zài yínháng gōngzuò.
+伯母|伯母，謝謝您的晚餐。|Bómǔ, xièxie nín de wǎncān.
+叔叔|叔叔帶我們去海邊玩。|Shúshu dài wǒmen qù hǎibiān wán.
+姑姑|姑姑下個月要結婚了。|Gūgu xià ge yuè yào jiéhūn le.
+孫女|奶奶很愛她的孫女。|Nǎinai hěn ài tā de sūnnǚ.
+孫子|爺爺常常帶孫子去公園。|Yéye chángcháng dài sūnzi qù gōngyuán.
+關係|他們兩個是什麼關係？|Tāmen liǎng ge shì shénme guānxì?
+害怕|妹妹很害怕狗。|Mèimei hěn hàipà gǒu.
+開心|今天玩得很開心！|Jīntiān wán de hěn kāixīn!
+擔心|別擔心，我會小心的。|Bié dānxīn, wǒ huì xiǎoxīn de.
+傷心|她的貓死了，她很傷心。|Tā de māo sǐ le, tā hěn shāngxīn.
+美麗|春天的花園非常美麗。|Chūntiān de huāyuán fēicháng měilì.
+帥|你哥哥長得真帥！|Nǐ gēge zhǎng de zhēn shuài!
+笨|我真笨，又忘了帶鑰匙。|Wǒ zhēn bèn, yòu wàngle dài yàoshi.
+認真|她上課很認真。|Tā shàngkè hěn rènzhēn.
+敢|我不敢一個人走夜路。|Wǒ bù gǎn yí ge rén zǒu yèlù.
+急|別急，慢慢來。|Bié jí, mànmàn lái.
+禮貌|這個孩子很有禮貌。|Zhè ge háizi hěn yǒu lǐmào.
+害羞|她很害羞，不太說話。|Tā hěn hàixiū, bú tài shuōhuà.
+關心|謝謝你的關心。|Xièxie nǐ de guānxīn.
+心情|今天天氣好，心情也很好。|Jīntiān tiānqì hǎo, xīnqíng yě hěn hǎo.
+幸福|祝你們幸福！|Zhù nǐmen xìngfú!
+差|還差五分鐘就下課了。|Hái chà wǔ fēnzhōng jiù xiàkè le.
+兄弟|你有兄弟姊妹嗎？|Nǐ yǒu xiōngdì jiěmèi ma?
+阿姨|阿姨給了我一個紅包。|Āyí gěile wǒ yí ge hóngbāo.
+身邊|媽媽一直在我身邊。|Māma yìzhí zài wǒ shēnbiān.
+身高|你的身高是多少？|Nǐ de shēngāo shì duōshǎo?
+長大|你長大以後想做什麼？|Nǐ zhǎngdà yǐhòu xiǎng zuò shénme?
+經理|經理今天不在公司。|Jīnglǐ jīntiān bú zài gōngsī.
+教書|我姑姑在小學教書。|Wǒ gūgu zài xiǎoxué jiāoshū.
+開會|老闆下午要開會。|Lǎobǎn xiàwǔ yào kāihuì.
+加班|我今天要加班，晚點回家。|Wǒ jīntiān yào jiābān, wǎn diǎn huí jiā.
+危險|晚上一個人去山上很危險。|Wǎnshàng yí ge rén qù shān shàng hěn wéixiǎn.
+安全|騎機車要戴安全帽。|Qí jīchē yào dài ānquánmào.
+成功|他試了很多次，最後成功了。|Tā shìle hěn duō cì, zuìhòu chénggōng le.
+報告|我明天要交一份報告。|Wǒ míngtiān yào jiāo yí fèn bàogào.
+資料|我在網路上查資料。|Wǒ zài wǎnglù shàng chá zīliào.
+管理|她很會管理時間。|Tā hěn huì guǎnlǐ shíjiān.
+做法|這道菜的做法很簡單。|Zhè dào cài de zuòfǎ hěn jiǎndān.
+看法|你對這件事有什麼看法？|Nǐ duì zhè jiàn shì yǒu shénme kànfǎ?
+辦|這件事我來辦。|Zhè jiàn shì wǒ lái bàn.
+打工|我暑假在咖啡店打工。|Wǒ shǔjià zài kāfēi diàn dǎgōng.
+選|這兩件衣服，你選哪一件？|Zhè liǎng jiàn yīfú, nǐ xuǎn nǎ yí jiàn?
+嚴重|你的感冒很嚴重，要去看醫生。|Nǐ de gǎnmào hěn yánzhòng, yào qù kàn yīshēng.
+正式|明天要穿正式一點。|Míngtiān yào chuān zhèngshì yìdiǎn.
+查|我用手機查一下天氣。|Wǒ yòng shǒujī chá yíxià tiānqì.
+考|你昨天考得怎麼樣？|Nǐ zuótiān kǎo de zěnmeyàng?
+例如|我喜歡運動，例如游泳和打球。|Wǒ xǐhuān yùndòng, lìrú yóuyǒng hé dǎ qiú.
+例子|老師，可以給我一個例子嗎？|Lǎoshī, kěyǐ gěi wǒ yí ge lìzi ma?
+題目|這次考試的題目太難了。|Zhè cì kǎoshì de tímù tài nán le.
+題|第三題我不會寫。|Dì sān tí wǒ bú huì xiě.
+答案|這個問題的答案，老師明天會告訴我們。|Zhège wèntí de dá'àn, lǎoshī míngtiān huì gàosù wǒmen.
+念書|弟弟每天晚上都在房間裡念書。|Dìdi měitiān wǎnshàng dōu zài fángjiān lǐ niànshū.
+歷史|我對臺灣的歷史很有興趣。|Wǒ duì Táiwān de lìshǐ hěn yǒu xìngqù.
+數學|這次數學考試比上次難多了。|Zhè cì shùxué kǎoshì bǐ shàng cì nán duō le.
+書法|爺爺每天早上都會寫書法。|Yéye měitiān zǎoshàng dōu huì xiě shūfǎ.
+英語|她的英語說得跟老師一樣好。|Tā de Yīngyǔ shuō de gēn lǎoshī yíyàng hǎo.
+作文|老師要我們寫作文，題目是我的家。|Lǎoshī yào wǒmen xiě zuòwén, tímù shì wǒ de jiā.
+漢字|這個漢字怎麼寫，你可以教我嗎？|Zhège hànzì zěnme xiě, nǐ kěyǐ jiāo wǒ ma?
+詞|這個詞是什麼意思？|Zhège cí shì shénme yìsi?
+文法|中文的文法沒有你想的那麼難。|Zhōngwén de wénfǎ méiyǒu nǐ xiǎng de nàme nán.
+加上|天氣太冷，加上下雨，我們就不出去了。|Tiānqì tài lěng, jiāshàng xiàyǔ, wǒmen jiù bù chūqù le.
+減|十減三是七。|Shí jiǎn sān shì qī.
+乘|三乘四是十二。|Sān chéng sì shì shí'èr.
+除|十二除以三是四。|Shí'èr chú yǐ sān shì sì.
+國小|我妹妹今年上國小一年級。|Wǒ mèimei jīnnián shàng guóxiǎo yī niánjí.
+中學|我中學的時候住在臺南。|Wǒ zhōngxué de shíhòu zhù zài Táinán.
+學院|哥哥在一家音樂學院念書。|Gēge zài yì jiā yīnyuè xuéyuàn niànshū.
+大學生|很多大學生晚上去便利商店打工。|Hěn duō dàxuéshēng wǎnshàng qù biànlì shāngdiàn dǎgōng.
+教授|我們的教授上課的時候很喜歡開玩笑。|Wǒmen de jiàoshòu shàngkè de shíhòu hěn xǐhuān kāi wánxiào.
+放假|下個星期一放假，你有什麼打算？|Xià ge xīngqí yī fàngjià, nǐ yǒu shénme dǎsuàn?
+春假|春假的時候，我們全家去臺東玩。|Chūnjià de shíhòu, wǒmen quánjiā qù Táidōng wán.
+暑假|今年暑假我想去日本旅行。|Jīnnián shǔjià wǒ xiǎng qù Rìběn lǚxíng.
+寒假|寒假快到了，你要回家過年嗎？|Hánjià kuài dào le, nǐ yào huíjiā guònián ma?
+假|我明天想請一天假去看醫生。|Wǒ míngtiān xiǎng qǐng yì tiān jià qù kàn yīshēng.
+畢業|姐姐明年就要大學畢業了。|Jiějie míngnián jiù yào dàxué bìyè le.
+學期|這個學期我選了五門課。|Zhège xuéqí wǒ xuǎn le wǔ mén kè.
+服務|這家餐廳的服務很好。|Zhè jiā cāntīng de fúwù hěn hǎo.
+室友|我的室友每天都很晚才回來。|Wǒ de shìyǒu měitiān dōu hěn wǎn cái huílái.
+操場|下課以後，學生都跑到操場去打球。|Xiàkè yǐhòu, xuéshēng dōu pǎo dào cāochǎng qù dǎqiú.
+校園|我們的校園很大，有很多樹。|Wǒmen de xiàoyuán hěn dà, yǒu hěn duō shù.
+位子|請問這個位子有人坐嗎？|Qǐngwèn zhège wèizi yǒu rén zuò ma?
+書桌|我的書桌上放了很多書。|Wǒ de shūzhuō shàng fàng le hěn duō shū.
+書包|小明的書包好重啊！|Xiǎomíng de shūbāo hǎo zhòng a!
+書架|我把看完的書都放回書架上了。|Wǒ bǎ kàn wán de shū dōu fàng huí shūjià shàng le.
+本子|請把你的名字寫在本子上。|Qǐng bǎ nǐ de míngzi xiě zài běnzi shàng.
+尺|你有尺嗎？可以借我用一下嗎？|Nǐ yǒu chǐ ma? Kěyǐ jiè wǒ yòng yíxià ma?
+討論|我們下課以後再討論這件事吧。|Wǒmen xiàkè yǐhòu zài tǎolùn zhè jiàn shì ba.
+同意|爸媽同意我暑假去打工了。|Bà mā tóngyì wǒ shǔjià qù dǎgōng le.
+了解|你要多跟他聊聊，才能了解他。|Nǐ yào duō gēn tā liáoliao, cái néng liǎojiě tā.
+無聊|下雨天不能出去，真無聊。|Xiàyǔ tiān bù néng chūqù, zhēn wúliáo.
+有趣|這本書很有趣，我一個晚上就看完了。|Zhè běn shū hěn yǒuqù, wǒ yí ge wǎnshàng jiù kàn wán le.
+有意思|他說的故事很有意思。|Tā shuō de gùshì hěn yǒuyìsi.
+原因|你知道他沒來上課的原因嗎？|Nǐ zhīdào tā méi lái shàngkè de yuányīn ma?
+遍|請你再說一遍，好嗎？|Qǐng nǐ zài shuō yí biàn, hǎo ma?
+改|老師幫我改了作文裡的錯字。|Lǎoshī bāng wǒ gǎi le zuòwén lǐ de cuòzì.
+忘記|對不起，我忘記帶錢包了。|Duìbùqǐ, wǒ wàngjì dài qiánbāo le.
+程度|他的中文程度已經很高了。|Tā de Zhōngwén chéngdù yǐjīng hěn gāo le.
+趕快|要下雨了，我們趕快回家吧！|Yào xiàyǔ le, wǒmen gǎnkuài huíjiā ba!
+以上|十八歲以上的人才能開車。|Shíbā suì yǐshàng de rén cái néng kāichē.
+以下|六歲以下的小孩不用買票。|Liù suì yǐxià de xiǎohái búyòng mǎi piào.
+意見|這件事你有什麼意見？|Zhè jiàn shì nǐ yǒu shénme yìjiàn?
+用功|小美很用功，每天都念書念到很晚。|Xiǎoměi hěn yònggōng, měitiān dōu niànshū niàn dào hěn wǎn.
+研究|他在大學研究臺灣的歷史。|Tā zài dàxué yánjiù Táiwān de lìshǐ.
+教育|父母對孩子的教育很重要。|Fùmǔ duì háizi de jiàoyù hěn zhòngyào.
+選擇|這兩個工作，你會選擇哪一個？|Zhè liǎng ge gōngzuò, nǐ huì xuǎnzé nǎ yí ge?
+建議|醫生建議我多喝水、早點睡。|Yīshēng jiànyì wǒ duō hē shuǐ, zǎo diǎn shuì.
+知識|多看書可以學到很多知識。|Duō kàn shū kěyǐ xué dào hěn duō zhīshì.
+座|我們家後面有一座小山。|Wǒmen jiā hòumiàn yǒu yí zuò xiǎo shān.
+臥室|我的臥室不大，可是很舒服。|Wǒ de wòshì bú dà, kěshì hěn shūfú.
+臥房|爸媽的臥房在二樓。|Bà mā de wòfáng zài èr lóu.
+浴室|浴室的地很濕，小心一點。|Yùshì de dì hěn shī, xiǎoxīn yìdiǎn.
+院子|奶奶在院子裡種了很多花。|Nǎinai zài yuànzi lǐ zhòng le hěn duō huā.
+書房|爸爸在書房裡看報紙。|Bàba zài shūfáng lǐ kàn bàozhǐ.
+洗衣機|洗衣機壞了，我只好用手洗衣服。|Xǐyījī huài le, wǒ zhǐhǎo yòng shǒu xǐ yīfú.
+餐桌|媽媽把菜都放在餐桌上了。|Māma bǎ cài dōu fàng zài cānzhuō shàng le.
+打開|好熱啊，可以打開冷氣嗎？|Hǎo rè a, kěyǐ dǎkāi lěngqì ma?
+箱|我買了一箱水果，送給鄰居。|Wǒ mǎi le yì xiāng shuǐguǒ, sòng gěi línjū.
+層|這家百貨公司一共有十層。|Zhè jiā bǎihuò gōngsī yígòng yǒu shí céng.
+櫃子|我的衣服太多，櫃子都放不下了。|Wǒ de yīfú tài duō, guìzi dōu fàng bú xià le.
+大門|出去的時候，記得把大門關好。|Chūqù de shíhòu, jìde bǎ dàmén guān hǎo.
+鄰居|我們的鄰居人很好，常常送我們水果。|Wǒmen de línjū rén hěn hǎo, chángcháng sòng wǒmen shuǐguǒ.
+熱鬧|晚上的夜市很熱鬧。|Wǎnshàng de yèshì hěn rènao.
+吵|樓上的人每天晚上都很吵。|Lóushàng de rén měitiān wǎnshàng dōu hěn chǎo.
+亂|你的房間太亂了，快整理一下。|Nǐ de fángjiān tài luàn le, kuài zhěnglǐ yíxià.
+房東|房東說下個月房租要加五百塊。|Fángdōng shuō xià ge yuè fángzū yào jiā wǔbǎi kuài.
+房屋|這附近的房屋都很老了。|Zhè fùjìn de fángwū dōu hěn lǎo le.
+搬家|我下個週末要搬家，你能來幫忙嗎？|Wǒ xià ge zhōumò yào bānjiā, nǐ néng lái bāngmáng ma?
+開水|感冒的時候要多喝開水。|Gǎnmào de shíhòu yào duō hē kāishuǐ.
+鄉下|我爺爺奶奶住在鄉下。|Wǒ yéye nǎinai zhù zài xiāngxià.
+傘|外面在下雨，別忘了帶傘。|Wàimiàn zài xiàyǔ, bié wàng le dài sǎn.
+花|我這個月花了太多錢了。|Wǒ zhège yuè huā le tài duō qián le.
+朵|我送媽媽一朵紅色的花。|Wǒ sòng māma yì duǒ hóngsè de huā.
+蚊子|夏天晚上蚊子很多。|Xiàtiān wǎnshàng wénzi hěn duō.
+自然|她笑起來很自然，很好看。|Tā xiào qǐlái hěn zìrán, hěn hǎokàn.
+月亮|今天晚上的月亮又大又圓。|Jīntiān wǎnshàng de yuèliàng yòu dà yòu yuán.
+星星|在鄉下可以看到很多星星。|Zài xiāngxià kěyǐ kàn dào hěn duō xīngxing.
+環境|這裡的環境很好，很適合念書。|Zhèlǐ de huánjìng hěn hǎo, hěn shìhé niànshū.
+晴天|明天是晴天，我們去爬山吧。|Míngtiān shì qíngtiān, wǒmen qù páshān ba.
+暖和|今天出太陽了，比昨天暖和多了。|Jīntiān chū tàiyáng le, bǐ zuótiān nuǎnhuo duō le.
+涼快|晚上的風很涼快。|Wǎnshàng de fēng hěn liángkuài.
+涼|天氣涼了，多穿一件外套吧。|Tiānqì liáng le, duō chuān yí jiàn wàitào ba.
+乾|衣服還沒乾，明天再穿吧。|Yīfú hái méi gān, míngtiān zài chuān ba.
+濕|我忘了帶傘，衣服全濕了。|Wǒ wàng le dài sǎn, yīfú quán shī le.
+度|今天好熱，有三十五度。|Jīntiān hǎo rè, yǒu sānshíwǔ dù.
+颱風|颱風要來了，明天不用上班。|Táifēng yào lái le, míngtiān búyòng shàngbān.
+季節|你最喜歡哪個季節？|Nǐ zuì xǐhuān nǎge jìjié?
+環保|買東西的時候自己帶袋子，比較環保。|Mǎi dōngxi de shíhòu zìjǐ dài dàizi, bǐjiào huánbǎo.
+垃圾|晚上八點垃圾車會來，記得拿垃圾出去。|Wǎnshàng bā diǎn lèsè chē huì lái, jìde ná lèsè chūqù.
+汙染|這條河被汙染了，不能游泳。|Zhè tiáo hé bèi wūrǎn le, bù néng yóuyǒng.
+底|這個月底我要搬家。|Zhège yuèdǐ wǒ yào bānjiā.
+底下|貓在桌子底下睡覺。|Māo zài zhuōzi dǐxia shuìjiào.
+內|請在三天內把作業交給我。|Qǐng zài sān tiān nèi bǎ zuòyè jiāo gěi wǒ.
+深|這裡的水很深，小孩不要下去。|Zhèlǐ de shuǐ hěn shēn, xiǎohái búyào xiàqù.
+淺|我比較喜歡淺藍色的衣服。|Wǒ bǐjiào xǐhuān qiǎn lánsè de yīfú.
+發生|昨天晚上發生了什麼事？|Zuótiān wǎnshàng fāshēng le shénme shì?
+照顧|媽媽生病了，我在家照顧她。|Māma shēngbìng le, wǒ zài jiā zhàogù tā.
+生活|我已經習慣臺北的生活了。|Wǒ yǐjīng xíguàn Táiběi de shēnghuó le.
+日記|我每天睡覺以前都會寫日記。|Wǒ měitiān shuìjiào yǐqián dōu huì xiě rìjì.
+流|河水慢慢地往海裡流。|Héshuǐ mànmàn de wǎng hǎi lǐ liú.
+流汗|天氣太熱了，走一下就流汗。|Tiānqì tài rè le, zǒu yíxià jiù liúhàn.
+夢|我昨天晚上做了一個好奇怪的夢。|Wǒ zuótiān wǎnshàng zuò le yí ge hǎo qíguài de mèng.
+枕頭|這個枕頭太高了，我睡不好。|Zhège zhěntou tài gāo le, wǒ shuì bù hǎo.
+鬧鐘|鬧鐘響了三次，我還是起不來。|Nàozhōng xiǎng le sān cì, wǒ háishì qǐ bù lái.
+拖鞋|進來的時候請換拖鞋。|Jìnlái de shíhòu qǐng huàn tuōxié.
+毛巾|浴室裡有乾淨的毛巾。|Yùshì lǐ yǒu gānjìng de máojīn.
+刷子|用這個刷子洗鞋子比較快。|Yòng zhège shuāzi xǐ xiézi bǐjiào kuài.
+肥皂|吃飯以前要用肥皂洗手。|Chīfàn yǐqián yào yòng féizào xǐ shǒu.
+牙膏|牙膏用完了，要再買一條。|Yágāo yòng wán le, yào zài mǎi yì tiáo.
+衛生紙|廁所裡沒有衛生紙了。|Cèsuǒ lǐ méiyǒu wèishēngzhǐ le.
+籃子|她提著一個籃子去市場買菜。|Tā tí zhe yí ge lánzi qù shìchǎng mǎi cài.
+假日|假日的時候，公園裡人很多。|Jiàrì de shíhòu, gōngyuán lǐ rén hěn duō.
+結束|會議結束以後，大家一起去吃飯。|Huìyì jiéshù yǐhòu, dàjiā yìqǐ qù chīfàn.
+完|你功課寫完了沒有？|Nǐ gōngkè xiě wán le méiyǒu?
+散步|吃完晚飯，我們去公園散步吧。|Chī wán wǎnfàn, wǒmen qù gōngyuán sànbù ba.
+慢跑|我每天早上都去河邊慢跑。|Wǒ měitiān zǎoshàng dōu qù hébiān mànpǎo.
+野餐|天氣這麼好，我們去公園野餐吧！|Tiānqì zhème hǎo, wǒmen qù gōngyuán yěcān ba!
+爬|我的小孩已經會爬了。|Wǒ de xiǎohái yǐjīng huì pá le.
+拍|我們在海邊拍了很多照片。|Wǒmen zài hǎibiān pāi le hěn duō zhàopiàn.
+抓|貓抓到了一隻小鳥。|Māo zhuā dào le yì zhī xiǎo niǎo.
+座位|火車上已經沒有座位了。|Huǒchē shàng yǐjīng méiyǒu zuòwèi le.
+新聞|你看了今天的新聞了嗎？|Nǐ kàn le jīntiān de xīnwén le ma?
+體育|我最喜歡上體育課。|Wǒ zuì xǐhuān shàng tǐyù kè.
+經常|他經常一個人去看電影。|Tā jīngcháng yí ge rén qù kàn diànyǐng.
+雜誌|我在等車的時候看了一本雜誌。|Wǒ zài děng chē de shíhòu kàn le yì běn zázhì.
+美術|我妹妹的美術很好，很會畫畫。|Wǒ mèimei de měishù hěn hǎo, hěn huì huàhuà.
+畫家|他的夢想是當一個畫家。|Tā de mèngxiǎng shì dāng yí ge huàjiā.
+興趣|你有什麼興趣？|Nǐ yǒu shénme xìngqù?
+收|我昨天收到了一封朋友的信。|Wǒ zuótiān shōu dào le yì fēng péngyǒu de xìn.
+談|我想跟你談一談工作的事。|Wǒ xiǎng gēn nǐ tán yì tán gōngzuò de shì.
+聊|我們在咖啡店聊了一個下午。|Wǒmen zài kāfēi diàn liáo le yí ge xiàwǔ.
+遲到|路上車太多，所以我遲到了。|Lùshàng chē tài duō, suǒyǐ wǒ chídào le.
+樂器|你會什麼樂器？|Nǐ huì shénme yuèqì?
+吉他|他每天晚上都在房間裡練吉他。|Tā měitiān wǎnshàng dōu zài fángjiān lǐ liàn jítā.
+可怕|這部電影太可怕了，我不敢看。|Zhè bù diànyǐng tài kěpà le, wǒ bù gǎn kàn.
+輕鬆|考完試了，現在可以輕鬆一下。|Kǎo wán shì le, xiànzài kěyǐ qīngsōng yíxià.
+情形|你那邊的情形怎麼樣？|Nǐ nàbiān de qíngxíng zěnmeyàng?
+消息|我有一個好消息要告訴你！|Wǒ yǒu yí ge hǎo xiāoxí yào gàosù nǐ!
+看起來|你今天看起來很累。|Nǐ jīntiān kànqǐlái hěn lèi.
+舞|她跳舞跳得很好看。|Tā tiàowǔ tiào de hěn hǎokàn.
+游|我游不到一百公尺就累了。|Wǒ yóu bú dào yìbǎi gōngchǐ jiù lèi le.
+游泳池|學校的游泳池晚上也開。|Xuéxiào de yóuyǒngchí wǎnshàng yě kāi.
+遊戲|弟弟一回家就開始玩遊戲。|Dìdi yì huíjiā jiù kāishǐ wán yóuxì.
+茶館|我們去茶館喝茶聊天吧。|Wǒmen qù cháguǎn hē chá liáotiān ba.
+門票|這個地方的門票一張兩百塊。|Zhège dìfāng de ménpiào yì zhāng liǎngbǎi kuài.
+陪|週末我要陪媽媽去買東西。|Zhōumò wǒ yào péi māma qù mǎi dōngxi.
+利用|我利用午休的時間看書。|Wǒ lìyòng wǔxiū de shíjiān kàn shū.
+好處|每天走路有很多好處。|Měitiān zǒulù yǒu hěn duō hǎochù.
+壞處|太晚睡覺對身體有壞處。|Tài wǎn shuìjiào duì shēntǐ yǒu huàichù.
+目的|你來臺灣的目的是什麼？|Nǐ lái Táiwān de mùdì shì shénme?
+要求|老闆要求我們早上八點以前到。|Lǎobǎn yāoqiú wǒmen zǎoshàng bā diǎn yǐqián dào.
+合作|這次我們兩個人合作得很好。|Zhè cì wǒmen liǎng ge rén hézuò de hěn hǎo.
+主人|這隻狗的主人是誰？|Zhè zhī gǒu de zhǔrén shì shéi?
+請客|今天我請客，大家不用付錢。|Jīntiān wǒ qǐngkè, dàjiā búyòng fù qián.
+約|我約了朋友明天一起去看電影。|Wǒ yuē le péngyǒu míngtiān yìqǐ qù kàn diànyǐng.
+約會|她今天晚上有約會，不跟我們吃飯。|Tā jīntiān wǎnshàng yǒu yuēhuì, bù gēn wǒmen chīfàn.
+派對|週末我家要開派對，你要來嗎？|Zhōumò wǒ jiā yào kāi pàiduì, nǐ yào lái ma?
+祝|祝你考試考得很好！|Zhù nǐ kǎoshì kǎo de hěn hǎo!
+留|蛋糕我幫你留了一塊。|Dàngāo wǒ bāng nǐ liú le yí kuài.
+封|我寫了一封信給我的老朋友。|Wǒ xiě le yì fēng xìn gěi wǒ de lǎo péngyǒu.
+信箱|我每天回家都會看一下信箱。|Wǒ měitiān huíjiā dōu huì kàn yíxià xìnxiāng.
+郵票|寄這封信要買多少錢的郵票？|Jì zhè fēng xìn yào mǎi duōshǎo qián de yóupiào?
+回信|收到你的信以後，我馬上就回信了。|Shōu dào nǐ de xìn yǐhòu, wǒ mǎshàng jiù huíxìn le.
+郵件|我還沒看老師寄來的郵件。|Wǒ hái méi kàn lǎoshī jì lái de yóujiàn.
+弄|對不起，我把你的書弄髒了。|Duìbùqǐ, wǒ bǎ nǐ de shū nòng zāng le.
+放心|我會好好照顧自己，你放心吧。|Wǒ huì hǎohǎo zhàogù zìjǐ, nǐ fàngxīn ba.
+偷|我的腳踏車昨天被偷了。|Wǒ de jiǎotàchē zuótiān bèi tōu le.
+滿|電影院裡坐滿了人。|Diànyǐngyuàn lǐ zuò mǎn le rén.
+丟|我在捷運上把手機丟了。|Wǒ zài jiéyùn shàng bǎ shǒujī diū le.
+換|這件衣服太小了，可以換大一點的嗎？|Zhè jiàn yīfú tài xiǎo le, kěyǐ huàn dà yìdiǎn de ma?
+一塊|下課以後我們一塊去吃飯吧。|Xiàkè yǐhòu wǒmen yíkuài qù chīfàn ba.
+同時|他可以同時做兩件事。|Tā kěyǐ tóngshí zuò liǎng jiàn shì.
+保護|騎車要戴安全帽，保護自己。|Qí chē yào dài ānquánmào, bǎohù zìjǐ.
+出門|我早上七點就出門了。|Wǒ zǎoshàng qī diǎn jiù chūmén le.
+現代|現代人每天都離不開手機。|Xiàndài rén měitiān dōu lí bù kāi shǒujī.
+傳統|過年吃年夜飯是我們的傳統。|Guònián chī niányèfàn shì wǒmen de chuántǒng.
+除夕|除夕晚上全家人一起吃年夜飯。|Chúxì wǎnshàng quánjiā rén yìqǐ chī niányèfàn.
+春節|春節的時候，大家都回家過年。|Chūnjié de shíhòu, dàjiā dōu huíjiā guònián.
+節日|中秋節是我最喜歡的節日。|Zhōngqiūjié shì wǒ zuì xǐhuān de jiérì.
+帶來|謝謝你帶來這麼多好吃的東西。|Xièxie nǐ dàilái zhème duō hǎochī de dōngxi.
+當中|這三本書當中，我最喜歡這本。|Zhè sān běn shū dāngzhōng, wǒ zuì xǐhuān zhè běn.
+法律|他大學念的是法律。|Tā dàxué niàn de shì fǎlǜ.
+方面|他在音樂方面很有天分。|Tā zài yīnyuè fāngmiàn hěn yǒu tiānfèn.
+開玩笑|別生氣，我是跟你開玩笑的。|Bié shēngqì, wǒ shì gēn nǐ kāi wánxiào de.
+可惜|你沒來真可惜，昨天的派對很好玩。|Nǐ méi lái zhēn kěxí, zuótiān de pàiduì hěn hǎowán.
+老太太|我在公車上讓位子給一位老太太。|Wǒ zài gōngchē shàng ràng wèizi gěi yí wèi lǎotàitai.
+有名|這家牛肉麵店很有名。|Zhè jiā niúròumiàn diàn hěn yǒumíng.
+自由|一個人住比較自由。|Yí ge rén zhù bǐjiào zìyóu.
+社會|他大學畢業以後就進入社會工作了。|Tā dàxué bìyè yǐhòu jiù jìnrù shèhuì gōngzuò le.
+時差|臺灣跟美國有十二個小時的時差。|Táiwān gēn Měiguó yǒu shí'èr ge xiǎoshí de shíchā.
+市區|從機場到市區要坐一個小時的車。|Cóng jīchǎng dào shìqū yào zuò yí ge xiǎoshí de chē.
+溫泉|冬天去泡溫泉最舒服了。|Dōngtiān qù pào wēnquán zuì shūfú le.
+公路|這條公路晚上車子很少。|Zhè tiáo gōnglù wǎnshàng chēzi hěn shǎo.
+速度|你開車的速度太快了，慢一點。|Nǐ kāichē de sùdù tài kuài le, màn yìdiǎn.
+到處|週末的夜市到處都是人。|Zhōumò de yèshì dàochù dōu shì rén.
+地點|我們見面的地點改到捷運站了。|Wǒmen jiànmiàn de dìdiǎn gǎi dào jiéyùn zhàn le.
+巴士|我們搭巴士去機場吧。|Wǒmen dā bāshì qù jīchǎng ba.
+加油|明天就要比賽了，大家加油！|Míngtiān jiù yào bǐsài le, dàjiā jiāyóu!
+摩托車|我哥哥每天騎摩托車上班。|Wǒ gēge měitiān qí mótuōchē shàngbān.
+船|我們坐船過河吧。|Wǒmen zuò chuán guò hé ba.
+地鐵|日本的地鐵很方便，可是人很多。|Rìběn de dìtiě hěn fāngbiàn, kěshì rén hěn duō.
+捷運|搭捷運去臺北車站只要十分鐘。|Dā jiéyùn qù Táiběi Chēzhàn zhǐ yào shí fēnzhōng.
+停車場|停車場已經沒有位子了。|Tíngchēchǎng yǐjīng méiyǒu wèizi le.
+月台|去臺中的火車在三號月台。|Qù Táizhōng de huǒchē zài sān hào yuètái.
+搭|你每天怎麼來學校？我搭公車。|Nǐ měitiān zěnme lái xuéxiào? Wǒ dā gōngchē.
+飛|這隻小鳥飛得好高。|Zhè zhī xiǎoniǎo fēi de hǎo gāo.
+下|請在下一站下車。|Qǐng zài xià yí zhàn xiàchē.
+上|快上車吧，車子要開了。|Kuài shàngchē ba, chēzi yào kāi le.
+這些|這些書都是我的。|Zhèxiē shū dōu shì wǒ de.
+那些|那些水果看起來很新鮮。|Nàxiē shuǐguǒ kàn qǐlái hěn xīnxiān.
+東方|太陽從東方出來。|Tàiyáng cóng dōngfāng chūlái.
+非洲|他去過非洲，看過很多動物。|Tā qùguò Fēizhōu, kànguò hěn duō dòngwù.
+美洲|我想去美洲旅行一個月。|Wǒ xiǎng qù Měizhōu lǚxíng yí ge yuè.
+歐洲|歐洲有很多老房子，很漂亮。|Ōuzhōu yǒu hěn duō lǎo fángzi, hěn piàoliang.
+亞洲|臺灣在亞洲的東邊。|Táiwān zài Yàzhōu de dōngbiān.
+大陸|他是從大陸來的學生。|Tā shì cóng dàlù lái de xuéshēng.
+動|別動！我幫你拍一張照片。|Bié dòng! Wǒ bāng nǐ pāi yì zhāng zhàopiàn.
+起|這件衣服太貴了，我買不起。|Zhè jiàn yīfú tài guì le, wǒ mǎi bù qǐ.
+停|前面是紅燈，車子要停一下。|Qiánmiàn shì hóngdēng, chēzi yào tíng yíxià.
+中心|我們家附近有一個運動中心。|Wǒmen jiā fùjìn yǒu yí ge yùndòng zhōngxīn.
+簽證|去美國要先辦簽證。|Qù Měiguó yào xiān bàn qiānzhèng.
+行李|你的行李太重了，我幫你拿。|Nǐ de xínglǐ tài zhòng le, wǒ bāng nǐ ná.
+背包|我的背包裡有水和雨傘。|Wǒ de bēibāo lǐ yǒu shuǐ hé yǔsǎn.
+鎖|出門的時候記得鎖門。|Chūmén de shíhòu jìde suǒ mén.
+入口|捷運站的入口在那家便利商店旁邊。|Jiéyùnzhàn de rùkǒu zài nà jiā biànlì shāngdiàn pángbiān.
+出口|請問，出口在哪裡？|Qǐngwèn, chūkǒu zài nǎlǐ?
+油|這道菜油太多了。|Zhè dào cài yóu tài duō le.
+鑰匙|我找不到家裡的鑰匙了。|Wǒ zhǎo bú dào jiālǐ de yàoshi le.
+方向|我們走錯方向了！|Wǒmen zǒu cuò fāngxiàng le!
+交通|臺北的交通很方便。|Táiběi de jiāotōng hěn fāngbiàn.
+標準|他的中文發音很標準。|Tā de Zhōngwén fāyīn hěn biāozhǔn.
+拍照|這裡不可以拍照。|Zhèlǐ bù kěyǐ pāizhào.
+腿|爬了一天的山，我的腿好累。|Pá le yì tiān de shān, wǒ de tuǐ hǎo lèi.
+背|他的背不舒服，不能搬東西。|Tā de bèi bù shūfú, bù néng bān dōngxi.
+脖子|我的脖子很痛，不能轉頭。|Wǒ de bózi hěn tòng, bù néng zhuǎn tóu.
+汗|天氣太熱了，我流了很多汗。|Tiānqì tài rè le, wǒ liú le hěn duō hàn.
+臉色|你的臉色不太好，是不是生病了？|Nǐ de liǎnsè bú tài hǎo, shì bú shì shēngbìng le?
+救護車|快叫救護車！這裡有人生病了。|Kuài jiào jiùhùchē! Zhèlǐ yǒu rén shēngbìng le.
+咳嗽|他感冒了，一直咳嗽。|Tā gǎnmào le, yìzhí késòu.
+發燒|孩子發燒了，要帶他去看醫生。|Háizi fāshāo le, yào dài tā qù kàn yīshēng.
+頭痛|我昨天沒睡好，今天頭痛。|Wǒ zuótiān méi shuì hǎo, jīntiān tóutòng.
+疼|媽媽最疼妹妹了。|Māma zuì téng mèimei le.
+保險|出國旅行最好買保險。|Chūguó lǚxíng zuìhǎo mǎi bǎoxiǎn.
+掛號|看醫生以前要先掛號。|Kàn yīshēng yǐqián yào xiān guàhào.
+牙刷|我忘了帶牙刷，可以借我一支嗎？|Wǒ wàng le dài yáshuā, kěyǐ jiè wǒ yì zhī ma?
+藥房|前面的藥房有賣感冒藥。|Qiánmiàn de yàofáng yǒu mài gǎnmào yào.
+救命|救命啊！我不會游泳！|Jiùmìng a! Wǒ bú huì yóuyǒng!
+影響|喝太多咖啡會影響睡覺。|Hē tài duō kāfēi huì yǐngxiǎng shuìjiào.
+感覺|你現在感覺怎麼樣？好一點了嗎？|Nǐ xiànzài gǎnjué zěnmeyàng? Hǎo yìdiǎn le ma?
+精神|睡了一個下午，我現在很有精神。|Shuì le yí ge xiàwǔ, wǒ xiànzài hěn yǒu jīngshén.
+正常|下雨天公車晚到很正常。|Xiàyǔ tiān gōngchē wǎn dào hěn zhèngcháng.
+有錢|他很有錢，可是不快樂。|Tā hěn yǒuqián, kěshì bú kuàilè.
+生意|這家店的生意很好，每天都有很多客人。|Zhè jiā diàn de shēngyì hěn hǎo, měitiān dōu yǒu hěn duō kèrén.
+商人|他爸爸是一個商人，常常去國外。|Tā bàba shì yí ge shāngrén, chángcháng qù guówài.
+老闆娘|老闆娘，我要一碗牛肉麵。|Lǎobǎnniáng, wǒ yào yì wǎn niúròumiàn.
+店員|那個店員對客人很好。|Nà ge diànyuán duì kèrén hěn hǎo.
+訂|我已經訂了兩張電影票。|Wǒ yǐjīng dìng le liǎng zhāng diànyǐng piào.
+訂位|星期六晚上人多，要先訂位。|Xīngqíliù wǎnshàng rén duō, yào xiān dìngwèi.
+得到|她得到了第一名。|Tā dédào le dì yī míng.
+困難|有困難的話，可以告訴我。|Yǒu kùnnán dehuà, kěyǐ gàosù wǒ.
+百貨公司|下班以後我們去百貨公司看看吧。|Xiàbān yǐhòu wǒmen qù bǎihuògōngsī kànkan ba.
+夜市|晚上我們去夜市吃小吃。|Wǎnshàng wǒmen qù yèshì chī xiǎochī.
+逛|我們去書店逛逛吧。|Wǒmen qù shūdiàn guàngguang ba.
+逛街|她最喜歡跟朋友逛街。|Tā zuì xǐhuān gēn péngyǒu guàngjiē.
+排隊|這家店很有名，大家都在排隊。|Zhè jiā diàn hěn yǒumíng, dàjiā dōu zài páiduì.
+客滿|對不起，今天晚上已經客滿了。|Duìbùqǐ, jīntiān wǎnshàng yǐjīng kèmǎn le.
+刷卡|請問可以刷卡嗎？|Qǐngwèn kěyǐ shuākǎ ma?
+提|東西太多了，我幫你提。|Dōngxi tài duō le, wǒ bāng nǐ tí.
+流行|今年很流行這種顏色。|Jīnnián hěn liúxíng zhè zhǒng yánsè.
+藍色|今天的天空是藍色的。|Jīntiān de tiānkōng shì lánsè de.
+綠色|綠色的燈亮了，可以過馬路了。|Lǜsè de dēng liàng le, kěyǐ guò mǎlù le.
+紅色|過年的時候大家喜歡穿紅色的衣服。|Guònián de shíhòu dàjiā xǐhuān chuān hóngsè de yīfú.
+黑色|我想買那雙黑色的鞋子。|Wǒ xiǎng mǎi nà shuāng hēisè de xiézi.
+毛衣|天氣變冷了，穿毛衣吧。|Tiānqì biàn lěng le, chuān máoyī ba.
+雨衣|下雨天騎機車要穿雨衣。|Xiàyǔ tiān qí jīchē yào chuān yǔyī.
+內衣|我買了兩件新的內衣。|Wǒ mǎi le liǎng jiàn xīn de nèiyī.
+上衣|這件白色的上衣多少錢？|Zhè jiàn báisè de shàngyī duōshǎo qián?
+皮鞋|上班要穿皮鞋嗎？|Shàngbān yào chuān píxié ma?
+手套|外面很冷，記得帶手套。|Wàimiàn hěn lěng, jìde dài shǒutào.
+口袋|手機在我的口袋裡。|Shǒujī zài wǒ de kǒudài lǐ.
+小費|在臺灣吃飯不用給小費。|Zài Táiwān chīfàn búyòng gěi xiǎofèi.
+打折|這家店的衣服都在打折。|Zhè jiā diàn de yīfú dōu zài dǎzhé.
+零錢|不好意思，我沒有零錢。|Bù hǎoyìsi, wǒ méiyǒu língqián.
+零用錢|他把零用錢都拿去買書了。|Tā bǎ língyòngqián dōu ná qù mǎi shū le.
+存|我每個月存一點錢。|Wǒ měi ge yuè cún yìdiǎn qián.
+毛|這支筆三塊五毛。|Zhè zhī bǐ sān kuài wǔ máo.
+高級|這是一家很高級的飯店。|Zhè shì yì jiā hěn gāojí de fàndiàn.
+一般|一般來說，臺灣的夏天很熱。|Yìbān lái shuō, Táiwān de xiàtiān hěn rè.
+合適|這件衣服你穿很合適。|Zhè jiàn yīfú nǐ chuān hěn héshì.
+適合|這個工作很適合你。|Zhè ge gōngzuò hěn shìhé nǐ.
+圓|今天晚上的月亮好圓。|Jīntiān wǎnshàng de yuèliàng hǎo yuán.
+光|蛋糕都被弟弟吃光了。|Dàngāo dōu bèi dìdi chī guāng le.
+死|這幾天太熱，我的花都死了。|Zhè jǐ tiān tài rè, wǒ de huā dōu sǐ le.
+髒|你的手好髒，先去洗手。|Nǐ de shǒu hǎo zāng, xiān qù xǐshǒu.
+破|我的褲子破了，不能穿了。|Wǒ de kùzi pò le, bù néng chuān le.
+袋|我買了一袋蘋果。|Wǒ mǎi le yí dài píngguǒ.
+套|他穿了一套新西裝。|Tā chuān le yí tào xīn xīzhuāng.
+沙拉|我午餐只吃了一盤沙拉。|Wǒ wǔcān zhǐ chī le yì pán shālā.
+牛排|你的牛排要幾分熟？|Nǐ de niúpái yào jǐ fēn shóu?
+海鮮|住在海邊的人常吃海鮮。|Zhù zài hǎibiān de rén cháng chī hǎixiān.
+火腿|早餐我想吃火腿蛋餅。|Zǎocān wǒ xiǎng chī huǒtuǐ dànbǐng.
+熱狗|便利商店有賣熱狗。|Biànlì shāngdiàn yǒu mài règǒu.
+饅頭|爺爺早上喜歡吃饅頭，喝豆漿。|Yéye zǎoshàng xǐhuān chī mántou, hē dòujiāng.
+米|家裡的米快吃完了。|Jiālǐ de mǐ kuài chī wán le.
+豆腐|這家的臭豆腐很有名。|Zhè jiā de chòu dòufu hěn yǒumíng.
+橘子|這些橘子好甜。|Zhèxiē júzi hǎo tián.
+葡萄|我最喜歡吃葡萄。|Wǒ zuì xǐhuān chī pútáo.
+芒果|夏天的芒果冰最好吃了。|Xiàtiān de mángguǒ bīng zuì hǎochī le.
+烏龍茶|請給我一杯熱的烏龍茶。|Qǐng gěi wǒ yì bēi rè de wūlóngchá.
+豆漿|你要冰的豆漿還是熱的？|Nǐ yào bīng de dòujiāng háishì rè de?
+可樂|天氣好熱，我想喝一杯冰可樂。|Tiānqì hǎo rè, wǒ xiǎng hē yì bēi bīng kělè.
+奶茶|這杯奶茶太甜了。|Zhè bēi nǎichá tài tián le.
+汽水|小孩子不要喝太多汽水。|Xiǎoháizi búyào hē tài duō qìshuǐ.
+冰塊|我的飲料不要加冰塊。|Wǒ de yǐnliào búyào jiā bīngkuài.
+甜點|吃完飯以後，我們點個甜點吧。|Chī wán fàn yǐhòu, wǒmen diǎn ge tiándiǎn ba.
+餅乾|媽媽烤了一些餅乾。|Māma kǎo le yìxiē bǐnggān.
+鹽|湯沒有味道，再加一點鹽。|Tāng méiyǒu wèidào, zài jiā yìdiǎn yán.
+味|這個湯有一種奇怪的味道。|Zhè ge tāng yǒu yì zhǒng qíguài de wèidào.
+聞|你聞聞看，這朵花好香。|Nǐ wénwen kàn, zhè duǒ huā hǎo xiāng.
+臭|垃圾放太久，變得好臭。|Lèsè fàng tài jiǔ, biàn de hǎo chòu.
+口|我家有四口人。|Wǒ jiā yǒu sì kǒu rén.
+罐|冰箱裡還有兩罐啤酒。|Bīngxiāng lǐ hái yǒu liǎng guàn píjiǔ.
+顆|我每天吃一顆蘋果。|Wǒ měitiān chī yì kē píngguǒ.
+任何|有任何問題都可以問我。|Yǒu rènhé wèntí dōu kěyǐ wèn wǒ.
+許多|公園裡有許多人在運動。|Gōngyuán lǐ yǒu xǔduō rén zài yùndòng.
+新鮮|市場的魚很新鮮。|Shìchǎng de yú hěn xīnxiān.
+熟|這些香蕉還沒熟，再等兩天。|Zhèxiē xiāngjiāo hái méi shóu, zài děng liǎng tiān.
+炒|晚餐我想吃炒飯。|Wǎncān wǒ xiǎng chī chǎofàn.
+炸|我不太喜歡吃炸的東西。|Wǒ bú tài xǐhuān chī zhá de dōngxi.
+嚐|你嚐嚐看，這是我做的。|Nǐ chángchang kàn, zhè shì wǒ zuò de.
+裝|請幫我把這些書裝進箱子裡。|Qǐng bāng wǒ bǎ zhèxiē shū zhuāng jìn xiāngzi lǐ.
+不用|不用謝，這是小事。|Búyòng xiè, zhè shì xiǎoshì.
+不但|他不但會說中文，還會說日文。|Tā búdàn huì shuō Zhōngwén, hái huì shuō Rìwén.
+不必|你不必那麼早來。|Nǐ búbì nàme zǎo lái.
+不得了|今天熱得不得了。|Jīntiān rè de bùdéliǎo.
+不管|不管多忙，他都會打電話給媽媽。|Bùguǎn duō máng, tā dōu huì dǎ diànhuà gěi māma.
+只好|公車已經走了，我只好坐計程車回家。|Gōngchē yǐjīng zǒu le, wǒ zhǐhǎo zuò jìchéngchē huíjiā.
+或|你可以搭公車或捷運去。|Nǐ kěyǐ dā gōngchē huò jiéyùn qù.
+可能|今天可能會下雨。|Jīntiān kěnéng huì xiàyǔ.
+而且|這家店很便宜，而且很好吃。|Zhè jiā diàn hěn piányí, érqiě hěn hǎochī.
+原來|原來你們兩個是同學！|Yuánlái nǐmen liǎng ge shì tóngxué!
+也許|他還沒到，也許是路上車太多。|Tā hái méi dào, yěxǔ shì lùshàng chē tài duō.
+必須|明天早上八點以前必須到公司。|Míngtiān zǎoshàng bā diǎn yǐqián bìxū dào gōngsī.
+多麼|這裡的風景多麼美啊！|Zhèlǐ de fēngjǐng duōme měi a!
+這樣|這個字要這樣寫。|Zhè ge zì yào zhèyàng xiě.
+那樣|別那樣說，他會不高興的。|Bié nàyàng shuō, tā huì bù gāoxìng de.
+等|我在這裡等你。|Wǒ zài zhèlǐ děng nǐ.
+別的|你還要別的嗎？|Nǐ hái yào biéde ma?
+除了|除了小美，大家都來了。|Chúle Xiǎoměi, dàjiā dōu lái le.
+從來|他從來不喝酒。|Tā cónglái bù hē jiǔ.
+大概|走路去大概要二十分鐘。|Zǒulù qù dàgài yào èrshí fēnzhōng.
+還好|還好我們沒有遲到。|Háihǎo wǒmen méiyǒu chídào.
+極|這部電影好看極了。|Zhè bù diànyǐng hǎokàn jí le.
+接著|他先洗澡，接著就去睡覺了。|Tā xiān xǐzǎo, jiēzhe jiù qù shuìjiào le.
+結果|我跑去車站，結果車已經開走了。|Wǒ pǎo qù chēzhàn, jiéguǒ chē yǐjīng kāi zǒu le.
+立刻|聽到這個消息，他立刻打電話回家。|Tīngdào zhè ge xiāoxí, tā lìkè dǎ diànhuà huíjiā.
+沒想到|沒想到你中文說得這麼好！|Méi xiǎngdào nǐ Zhōngwén shuō de zhème hǎo!
+其實|其實我不太會做菜。|Qíshí wǒ bú tài huì zuòcài.
+其中|這些書我都看過，其中這本最好看。|Zhèxiē shū wǒ dōu kànguò, qízhōng zhè běn zuì hǎokàn.
+完全|我完全聽不懂他在說什麼。|Wǒ wánquán tīng bù dǒng tā zài shuō shénme.
+相當|這次考試相當難。|Zhè cì kǎoshì xiāngdāng nán.
+一切|祝你一切都好！|Zhù nǐ yíqiè dōu hǎo!
+已|他已不在這家公司工作了。|Tā yǐ bú zài zhè jiā gōngsī gōngzuò le.
+尤其|我喜歡水果，尤其是芒果。|Wǒ xǐhuān shuǐguǒ, yóuqí shì mángguǒ.
+越|雨越下越大了。|Yǔ yuè xià yuè dà le.
+整|我整個下午都在睡覺。|Wǒ zhěng ge xiàwǔ dōu zài shuìjiào.
+正|我們正要出門，他就來了。|Wǒmen zhèng yào chūmén, tā jiù lái le.
+只要|只要你努力，一定會成功。|Zhǐyào nǐ nǔlì, yídìng huì chénggōng.
+最好|你感冒了，最好多喝水。|Nǐ gǎnmào le, zuìhǎo duō hē shuǐ.
+同樣|我們兩個買了同樣的手機。|Wǒmen liǎng ge mǎi le tóngyàng de shǒujī.
+空|冰箱是空的，我們去買菜吧。|Bīngxiāng shì kōng de, wǒmen qù mǎi cài ba.
+空|你明天有空嗎？一起去看電影吧。|Nǐ míngtiān yǒu kòng ma? Yìqǐ qù kàn diànyǐng ba.
+連|他忙得連飯都沒時間吃。|Tā máng de lián fàn dōu méi shíjiān chī.
+倍|我現在的房租是以前的兩倍。|Wǒ xiànzài de fángzū shì yǐqián de liǎng bèi.
+包括|房租包括水電費嗎？|Fángzū bāokuò shuǐdiàn fèi ma?
+步|再走幾步就到了。|Zài zǒu jǐ bù jiù dào le.
+當時|當時我還是學生，沒有什麼錢。|Dāngshí wǒ hái shì xuéshēng, méiyǒu shénme qián.
+等到|等到放假，我們去日本玩吧。|Děngdào fàngjià, wǒmen qù Rìběn wán ba.
+煩|作業這麼多，真煩！|Zuòyè zhème duō, zhēn fán!
+剛好|我到車站的時候，車剛好來了。|Wǒ dào chēzhàn de shíhòu, chē gānghǎo lái le.
+或者|你可以打電話或者寫信給我。|Nǐ kěyǐ dǎ diànhuà huòzhě xiě xìn gěi wǒ.
+哇|哇，你的房間好乾淨！|Wā, nǐ de fángjiān hǎo gānjìng!
+需|這種藥需飯後吃。|Zhè zhǒng yào xū fàn hòu chī.
+須|上課時須關手機。|Shàngkè shí xū guān shǒujī.
+直接|你可以直接跟老師說。|Nǐ kěyǐ zhíjiē gēn lǎoshī shuō.
+總|他總是最後一個到教室。|Tā zǒngshì zuìhòu yí ge dào jiàoshì.
+泡|我幫你泡一杯茶。|Wǒ bāng nǐ pào yì bēi chá.
+且|這家店東西好，且不貴。|Zhè jiā diàn dōngxi hǎo, qiě bú guì.
+比方|我打個比方，你就懂了。|Wǒ dǎ ge bǐfāng, nǐ jiù dǒng le.
+比方說|臺灣有很多小吃，比方說臭豆腐。|Táiwān yǒu hěn duō xiǎochī, bǐfāngshuō chòu dòufu.
+傳|我把照片傳給你了。|Wǒ bǎ zhàopiàn chuán gěi nǐ le.
+另|我們改天另找時間見面吧。|Wǒmen gǎitiān lìng zhǎo shíjiān jiànmiàn ba.
+另外|另外，別忘了帶護照。|Lìngwài, bié wàng le dài hùzhào.
+左右|他看起來三十歲左右。|Tā kàn qǐlái sānshí suì zuǒyòu.
+當|我長大以後想當老師。|Wǒ zhǎngdà yǐhòu xiǎng dāng lǎoshī.
+類|這類問題很常見。|Zhè lèi wèntí hěn chángjiàn.
+樣|桌上有好幾樣菜。|Zhuō shàng yǒu hǎo jǐ yàng cài.

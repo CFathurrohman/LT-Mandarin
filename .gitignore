@@ -1,0 +1,13 @@
+# hasil build
+index.html
+artifact.html
+dist/
+build/
+.strokes/
+
+# lokal
+.claude/
+node_modules/
+*.log
+.DS_Store
+Thumbs.db

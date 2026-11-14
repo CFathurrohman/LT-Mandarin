@@ -1,0 +1,1169 @@
+L3-0001|hei; eh (seruan memanggil/heran)
+L3-0002|aduh; ah (seruan mengeluh)
+L3-0003|cinta; kasih sayang
+L3-0004|cinta (asmara); percintaan
+L3-0005|menyayangi; menghargai; menggunakan dengan hemat
+L3-0006|kasih sayang; kepedulian
+L3-0007|menurut; berdasarkan
+L3-0008|stabil; tenang; mantap
+L3-0009|tenang; sunyi; hening
+L3-0010|mengatur; merencanakan; pengaturan
+L3-0011|tenang hati; lega
+L3-0012|menurut; sesuai dengan
+L3-0013|kata bantu untuk benda bergagang
+L3-0014|putih
+L3-0015|sia-sia; percuma; gratis
+L3-0016|sawi putih
+L3-0017|menata; memajang; mengayun
+L3-0018|teladan; contoh
+L3-0019|penerbangan; pesawat (jadwal)
+L3-0020|mengurus; menangani
+L3-0021|setengah hari; lama sekali
+L3-0022|membungkus; membawa (bekal); menanggung semua
+L3-0023|mengandung; mencakup
+L3-0024|harta; sayang (panggilan); buah hati
+L3-0025|berharga; bernilai
+L3-0026|konservatif; kolot; menjaga (rahasia)
+L3-0027|merawat; memelihara (kesehatan, barang)
+L3-0028|menjamin; jaminan
+L3-0029|memeluk; menggendong
+L3-0030|mengeluh; menggerutu
+L3-0031|mendaftar
+L3-0032|memanfaatkan; menangkap (peluang); keyakinan
+L3-0033|utara; wilayah utara
+L3-0034|pasif
+L3-0035|di belakang; di balik
+L3-0036|latar belakang
+L3-0037|seumur hidup
+L3-0038|ini (formal); milik sendiri
+L3-0039|diri sendiri; saya; yang bersangkutan
+L3-0040|memaksa; mendesak
+L3-0041|kata bantu untuk sejumlah uang
+L3-0042|membandingkan; bertanding
+L3-0043|petasan; mercon
+L3-0044|berubah; mengubah
+L3-0045|berubah menjadi
+L3-0046|mengubah; mengganti (rencana, jadwal)
+L3-0047|perubahan; berubah
+L3-0048|memo; catatan pendek
+L3-0049|mengungkapkan; menyampaikan
+L3-0050|permukaan; luarnya
+L3-0051|menyatakan; menunjukkan
+L3-0052|penampilan; menunjukkan; prestasi
+L3-0053|pertunjukan; tampil; memerankan
+L3-0054|bagaimanapun juga; toh
+L3-0055|menghindari; mencegah
+L3-0056|kue bundar pipih; biskuit
+L3-0057|sakit; jatuh sakit; penyakit
+L3-0058|misalnya; contohnya
+L3-0059|perlu; penting
+L3-0060|menyiarkan; menabur
+L3-0061|doktor (gelar S3)
+L3-0062|museum
+L3-0063|kain
+L3-0064|hilang; lenyap
+L3-0065|terpaksa; mau tidak mau
+L3-0066|terus-menerus; tiada henti
+L3-0067|tidak peduli; apa pun
+L3-0068|tidak puas; kesal
+L3-0069|departemen; bagian
+L3-0070|lebih baik; tidak sebaik
+L3-0071|banyak; tidak sedikit
+L3-0072|malang; sial; musibah
+L3-0073|tidak perlu dikatakan; tentu saja
+L3-0074|menata; mendekorasi
+L3-0075|kurang; tidak cukup
+L3-0076|menggosok; mengelap; mengoleskan
+L3-0077|menebak
+L3-0078|bahan; materi; data
+L3-0079|memakai; menerapkan; mengadopsi
+L3-0080|kata bantu untuk kali makan
+L3-0081|merujuk; referensi
+L3-0082|lapangan rumput; padang rumput
+L3-0083|padang rumput; sabana
+L3-0084|pernah
+L3-0085|pernah; dulu
+L3-0086|hampir; nyaris
+L3-0087|perbedaan
+L3-0088|mencoba
+L3-0089|produk
+L3-0090|menimbulkan; muncul; menghasilkan
+L3-0091|melebihi; melampaui
+L3-0092|super; sangat
+L3-0093|bertengkar
+L3-0094|perbedaan; selisih
+L3-0095|kecelakaan lalu lintas
+L3-0096|memanfaatkan (waktu, kesempatan); selagi
+L3-0097|kemeja; blus
+L3-0098|menjadi; berhasil
+L3-0099|hasil; buah (usaha)
+L3-0100|pencapaian; prestasi
+L3-0101|mengakui
+L3-0102|jujur
+L3-0103|dewasa; matang
+L3-0104|tumbuh; berkembang; pertumbuhan
+L3-0105|chi (satuan panjang ±30 cm); penggaris
+L3-0106|bersenang-senang; makan, minum, dan main
+L3-0107|serangga; ulat; cacing
+L3-0108|kaya; penuh; berisi
+L3-0109|ulang; sekali lagi; dari awal
+L3-0110|jelek; buruk rupa; memalukan
+L3-0111|menarik; mengambil; mengisap (rokok)
+L3-0112|awal; permulaan
+L3-0113|kata bantu untuk untaian (tusuk, rangkaian)
+L3-0114|menciptakan
+L3-0115|menerbitkan
+L3-0116|dinas luar; perjalanan bisnis
+L3-0117|berangkat
+L3-0118|muncul; timbul
+L3-0119|menyewakan
+L3-0120|menangani; mengurus; memproses
+L3-0121|juru masak; koki
+L3-0122|meniup; bertiup; membual
+L3-0123|ini (formal)
+L3-0124|stimulasi; merangsang; mendebarkan
+L3-0125|tidak pernah
+L3-0126|sejak kecil
+L3-0127|cuka; cemburu
+L3-0128|cun (satuan panjang ±3 cm); inci
+L3-0129|ada; eksis; keberadaan
+L3-0130|kesalahan; salah
+L3-0131|kesalahan; keliru
+L3-0132|kegagalan; hambatan; kemunduran
+L3-0133|mencapai (kesepakatan, tujuan)
+L3-0134|berkelahi
+L3-0135|sebagian besar; mayoritas
+L3-0136|murah hati; tidak canggung; anggun
+L3-0137|rapat umum; konferensi besar
+L3-0138|wakil; mewakili
+L3-0139|menggantikan
+L3-0140|memimpin; membawa
+L3-0141|polos; sederhana; murni
+L3-0142|hambar; tawar; pucat (warna)
+L3-0143|saat itu juga; di tempat
+L3-0144|setempat; lokal
+L3-0145|secara langsung; di depan orangnya
+L3-0146|waktu itu; tahun itu; dulu
+L3-0147|hari itu juga
+L3-0148|menganggap sebagai
+L3-0149|menjabat; bertugas sebagai
+L3-0150|lajang; belum menikah
+L3-0151|pulau
+L3-0152|jatuh; roboh; bangkrut
+L3-0153|sutradara; menyutradarai
+L3-0154|sampai; hingga
+L3-0155|malah; justru; sebaliknya
+L3-0156|sebenarnya (dalam pertanyaan); akhirnya
+L3-0157|malah; justru; sih (melunakkan)
+L3-0158|moral; etika
+L3-0159|Taoisme
+L3-0160|alasan; logika; masuk akal
+L3-0161|meminta maaf
+L3-0162|menyanggupi; menyetujui; menjawab
+L3-0163|membersihkan; menyapu
+L3-0164|mencari tahu; menanyakan
+L3-0165|ukuran; besar kecil
+L3-0166|kira-kira; sekitar
+L3-0167|berperang
+L3-0168|harus; perlu
+L3-0169|bangga diri; puas diri
+L3-0170|menunggu
+L3-0171|cahaya lampu; pencahayaan
+L3-0172|musuh
+L3-0173|tiba; sampai
+L3-0174|lantai
+L3-0175|zona; kawasan
+L3-0176|geografi
+L3-0177|bumi
+L3-0178|daerah; wilayah
+L3-0179|lapak kaki lima
+L3-0180|kedudukan; status
+L3-0181|bawah tanah; tersembunyi
+L3-0182|topografi; bentuk muka bumi
+L3-0183|titik; sedikit; memesan
+L3-0184|trem
+L3-0185|baterai
+L3-0186|lampu listrik
+L3-0187|menyelidiki; survei; penyelidikan
+L3-0188|timur laut
+L3-0189|tenggara
+L3-0190|pengertian; tahu diri (anak)
+L3-0191|kebun binatang
+L3-0192|menggoda; membuat tertawa; lucu
+L3-0193|kota besar; metropolitan
+L3-0194|narkoba
+L3-0195|unik; khas
+L3-0196|pembaca
+L3-0197|kata bantu untuk bagian, periode, paragraf
+L3-0198|tumpukan; kata bantu untuk tumpukan
+L3-0199|benar; terhadap; kata bantu untuk pasangan
+L3-0200|pihak lain; lawan bicara
+L3-0201|percakapan; dialog
+L3-0202|oh ya; omong-omong
+L3-0203|sasaran; pasangan (pacar)
+L3-0204|kata bantu untuk kali makan, dimarahi, dipukul
+L3-0205|sedikit banyak; kurang lebih
+L3-0206|hm; ya (tanda setuju)
+L3-0207|dan; tetapi; sedangkan
+L3-0208|anak-anak
+L3-0209|mengirim; membagikan; mengeluarkan
+L3-0210|menerbitkan; mengumumkan; menyampaikan
+L3-0211|menjadi kaya; untung besar
+L3-0212|mengeluarkan (suara, cahaya); mengirim
+L3-0213|maju; berkembang
+L3-0214|mengerahkan; memaksimalkan (kemampuan)
+L3-0215|menyadari; mendapati
+L3-0216|menemukan; penemuan
+L3-0217|melanggar; melakukan (kesalahan)
+L3-0218|malah; sebaliknya
+L3-0219|cara; metode
+L3-0220|penyewa
+L3-0221|mengunjungi; mewawancarai
+L3-0222|risau; susah hati; kerisauan
+L3-0223|ruang lingkup; cakupan
+L3-0224|menerjemahkan; terjemahan
+L3-0225|reaksi; tanggapan; bereaksi
+L3-0226|faktur; kuitansi; struk
+L3-0227|marah; naik darah
+L3-0228|bukan; harus (非...不可)
+L3-0229|biaya; ongkos
+L3-0230|kaya; melimpah; beragam
+L3-0231|gaya
+L3-0232|adat istiadat
+L3-0233|berpisah; memisahkan
+L3-0234|agama Buddha
+L3-0235|kalau tidak; jika tidak
+L3-0236|suami istri
+L3-0237|sesuai dengan; memenuhi
+L3-0238|kesejahteraan; tunjangan
+L3-0239|pakaian; busana; kostum
+L3-0240|korup; busuk
+L3-0241|mencurahkan; mengorbankan; membayar
+L3-0242|beban; menanggung
+L3-0243|mengulang pelajaran
+L3-0244|bertanggung jawab
+L3-0245|seharusnya; mungkin
+L3-0246|mengubah; perubahan
+L3-0247|memperbaiki; menyempurnakan
+L3-0248|memperbaiki; meningkatkan
+L3-0249|lain hari; lain kali
+L3-0250|membangun; menutup; tutup
+L3-0251|konsep; gagasan
+L3-0252|mengejar; buru-buru; mengusir
+L3-0253|menyusul; sempat (mengejar)
+L3-0254|terharu; menyentuh hati
+L3-0255|kesan; pendapat
+L3-0256|berterima kasih; terima kasih
+L3-0257|tertarik; berminat
+L3-0258|piano
+L3-0259|kecepatan tinggi
+L3-0260|melakukan; mengerjakan; mengurus
+L3-0261|partikel penegas (mis. 玩個痛快)
+L3-0262|lagu
+L3-0263|penyanyi terkenal
+L3-0264|sebelah rumah; tetangga
+L3-0265|pribadi; individu
+L3-0266|postur; tinggi badan
+L3-0267|untuk; kepada; oleh
+L3-0268|revolusi; berevolusi
+L3-0269|dengan; mengikuti
+L3-0270|kata bantu untuk benda panjang ramping
+L3-0271|menurut; berdasarkan
+L3-0272|lebih; semakin
+L3-0273|bermacam-macam; beraneka ragam
+L3-0274|saudara-saudara; hadirin sekalian
+L3-0275|pabrik
+L3-0276|meter
+L3-0277|sentimeter
+L3-0278|keterampilan; kungfu; waktu dan usaha
+L3-0279|umum; publik
+L3-0280|kilogram
+L3-0281|alat; perkakas
+L3-0282|gram
+L3-0283|kilometer
+L3-0284|fungsi; kegunaan
+L3-0285|selamat!; memberi selamat
+L3-0286|industri
+L3-0287|apartemen
+L3-0288|bekerja
+L3-0289|bersama; umum
+L3-0290|sumbangan; kontribusi; berkontribusi
+L3-0291|berkomunikasi; menjembatani
+L3-0292|cukup; sangat
+L3-0293|membeli
+L3-0294|gadis; nona
+L3-0295|kuno; purba
+L3-0296|zaman kuno
+L3-0297|situs bersejarah
+L3-0298|kuno; tua
+L3-0299|menjaga; memperhatikan; mengurus
+L3-0300|pelanggan; klien
+L3-0301|sengaja
+L3-0302|mengikis; mencukur; bertiup (angin)
+L3-0303|penurut; patuh; manis (anak)
+L3-0304|menyalahkan; aneh
+L3-0305|menutup; mematikan
+L3-0306|mengamati; observasi
+L3-0307|sudut pandang; pendapat
+L3-0308|mengurus; mengatur; peduli
+L3-0309|siaran; menyiarkan
+L3-0310|alun-alun; plaza
+L3-0311|iklan
+L3-0312|konsep; pandangan; gagasan
+L3-0313|penonton; pemirsa
+L3-0314|aturan; tata krama
+L3-0315|skala; ukuran
+L3-0316|hantu; setan
+L3-0317|siapa nama keluarga Anda?
+L3-0318|dalam negeri; domestik
+L3-0319|luar negeri
+L3-0320|raja
+L3-0321|bahasa Mandarin (sebutan di Taiwan)
+L3-0322|masa lalu; dulu; pergi ke sana
+L3-0323|menjalani hidup sehari-hari
+L3-0324|hai
+L3-0325|masih; sebaiknya
+L3-0327|poster
+L3-0328|pantai
+L3-0329|laut; samudra
+L3-0330|merugikan; mencelakakan; menyebabkan
+L3-0331|penerbangan; aviasi
+L3-0332|bahasa Tionghoa
+L3-0333|gemar; suka
+L3-0334|baik-baik; dengan sungguh-sungguh
+L3-0336|dengan; dan
+L3-0337|bersama-sama; patungan
+L3-0338|paduan suara; bernyanyi bersama
+L3-0339|hitam; gelap
+L3-0340|benci; menyesal
+L3-0341|ingin sekali; tidak sabar ingin
+L3-0342|merah; populer
+L3-0343|angpao; bonus
+L3-0344|kacang merah
+L3-0345|lampu lalu lintas
+L3-0346|tebal; dalam
+L3-0347|belakang; sesudah
+L3-0348|tiba-tiba
+L3-0349|bingung; linglung; bodoh
+L3-0350|saling
+L3-0351|paspor
+L3-0352|kuning; porno; batal
+L3-0353|mata keranjang; tidak setia
+L3-0354|taman; kebun bunga
+L3-0355|bermain ski
+L3-0356|topik pembicaraan
+L3-0357|kosmetik
+L3-0358|pulih; memulihkan
+L3-0359|kata bantu untuk kali; bab
+L3-0360|mengenang; mengingat kembali
+L3-0361|rapat; pertemuan
+L3-0362|tempat rapat; arena acara
+L3-0363|percakapan
+L3-0364|rapat; konferensi
+L3-0365|upacara pernikahan
+L3-0366|perkawinan; pernikahan
+L3-0367|kacau; kekacauan
+L3-0368|hidup
+L3-0369|kegiatan; bergerak; beraktivitas
+L3-0370|mungkin; barangkali
+L3-0371|dasar; pada dasarnya
+L3-0372|dasar; fondasi
+L3-0373|bersemangat; emosional; terharu
+L3-0374|agama Kristen
+L3-0375|aktif; positif; giat
+L3-0376|sengit; hebat; seru
+L3-0377|mesin
+L3-0378|dan; serta
+L3-0379|tepat waktu; segera
+L3-0380|berdesakan; memeras; sesak
+L3-0381|mencatat; mengingat
+L3-0382|catatan; mencatat; rekor
+L3-0383|memperingati; kenang-kenangan
+L3-0384|teknik; keterampilan
+L3-0385|melanjutkan; terus
+L3-0386|ingatan; memori
+L3-0387|wartawan
+L3-0388|kata bantu untuk toko, perusahaan, keluarga
+L3-0389|palsu; tiruan
+L3-0390|kata bantu untuk pesawat, mesin, piano
+L3-0391|harga
+L3-0392|bahu; memikul
+L3-0393|bahu
+L3-0394|bersikeras; bertahan; tekun
+L3-0395|menggunting; memotong
+L3-0396|memeriksa; pemeriksaan
+L3-0397|masa depan; kelak
+L3-0398|beasiswa
+L3-0399|menurunkan
+L3-0400|berbicara; berpidato
+L3-0401|menawar harga
+L3-0402|cermat; memperhatikan; mewah
+L3-0403|kecap asin
+L3-0404|tegar; kuat
+L3-0405|meringankan; mengurangi
+L3-0406|mengurangi; berkurang
+L3-0407|benar-benar; sungguh
+L3-0408|mendirikan; membangun (hubungan)
+L3-0409|pembangunan; membangun
+L3-0410|sombong; bangga
+L3-0411|bertukar; pertukaran
+L3-0412|pinggiran kota
+L3-0413|berteman; mencari teman
+L3-0414|sudut; sudut pandang
+L3-0415|menyuruh; membuat (seseorang)
+L3-0416|bahan ajar
+L3-0417|membimbing; mengajar
+L3-0418|metode mengajar
+L3-0419|pelatih
+L3-0420|guru
+L3-0421|gereja
+L3-0422|pelajaran (dari pengalaman); menasihati
+L3-0423|memperkuat; meningkatkan
+L3-0424|bergabung; menambahkan
+L3-0425|kampung halaman
+L3-0426|orang tua (murid); kepala keluarga
+L3-0427|seandainya; jika
+L3-0428|berpura-pura
+L3-0429|harga
+L3-0430|nilai
+L3-0431|berhubungan; menyentuh; kontak
+L3-0432|menerima
+L3-0433|mengikat; berbuah; simpul
+L3-0434|kata bantu untuk jam pelajaran, gerbong
+L3-0435|acara; program
+L3-0436|akhir cerita; kesudahan
+L3-0437|memecahkan; menyelesaikan (masalah)
+L3-0438|kakak adik perempuan; saudara perempuan
+L3-0439|menjelaskan; penjelasan
+L3-0440|kati (satuan berat, 600 g di Taiwan)
+L3-0441|emas
+L3-0442|ketat; erat; mendesak
+L3-0443|hanya
+L3-0444|hanya; cuma
+L3-0445|berusaha sepenuhnya; menjalankan (kewajiban)
+L3-0446|masuk; maju
+L3-0447|melewati; melalui
+L3-0448|dana; anggaran
+L3-0449|melewati; melalui; proses
+L3-0450|heran; tercengang
+L3-0451|pengalaman; mengalami
+L3-0452|polisi
+L3-0453|meskipun; walaupun
+L3-0454|melakukan; berlangsung
+L3-0455|lebih lanjut; selangkah lagi
+L3-0456|bar; kedai minum
+L3-0457|menolong; menyelamatkan
+L3-0458|mengenai; dari segi
+L3-0459|justru; meskipun; yaitu
+L3-0460|sekalipun; meskipun
+L3-0461|paman (saudara laki-laki ibu)
+L3-0462|bibi (istri paman dari pihak ibu)
+L3-0463|tinggal; bermukim
+L3-0464|mengangkat; memberi (contoh)
+L3-0465|menyelenggarakan; mengadakan
+L3-0466|mengangkat tangan
+L3-0467|mengadakan; menyelenggarakan
+L3-0468|berkumpul
+L3-0469|berjarak dari
+L3-0470|menolak
+L3-0471|jarak; berjarak
+L3-0472|naskah drama; skenario
+L3-0473|alur cerita; plot
+L3-0474|memiliki; mempunyai
+L3-0475|mutlak; pasti; sama sekali
+L3-0476|peran; tokoh
+L3-0477|tentara; pasukan
+L3-0478|tentara; anggota militer
+L3-0479|truk
+L3-0480|membuka; terbuka
+L3-0481|berbunga; mekar
+L3-0482|ceria; periang; lapang
+L3-0483|awal; permulaan; mulai
+L3-0484|meremehkan; memandang rendah
+L3-0485|kata bantu untuk pohon, tanaman
+L3-0486|kata bantu untuk mata pelajaran; bagian
+L3-0487|ilmu pengetahuan dan teknologi
+L3-0488|ilmu pengetahuan; ilmiah
+L3-0489|boleh; bisa; sungguh (penegas)
+L3-0490|dapat diandalkan; terpercaya
+L3-0491|kasihan; malang
+L3-0492|mendambakan; sangat ingin
+L3-0493|menyebalkan; keji
+L3-0494|boleh; bisa
+L3-0495|seperempat jam; mengukir
+L3-0496|gram
+L3-0497|kurikulum; mata kuliah
+L3-0498|ruang kelas
+L3-0499|teks pelajaran
+L3-0500|mengatasi
+L3-0501|mau; bersedia
+L3-0502|pasti; yakin; mengakui
+L3-0503|ruang; ruang lingkup
+L3-0504|angkatan udara
+L3-0505|jangan-jangan; khawatir
+L3-0506|mulut; kata bantu untuk anggota keluarga
+L3-0507|selera; rasa
+L3-0508|hampir; segera
+L3-0509|lebar; luas; longgar
+L3-0510|lagi pula; apalagi
+L3-0511|berlebihan; melebih-lebihkan
+L3-0512|memperluas; memperbesar
+L3-0513|diare; sakit perut
+L3-0514|sekitar (angka); ayo
+L3-0515|tidak sempat; terlambat
+L3-0516|masih sempat; keburu
+L3-0517|biru
+L3-0518|romantis
+L3-0519|suami
+L3-0520|harimau
+L3-0521|istri
+L3-0522|jujur; polos; penurut
+L3-0523|selalu; terus-terusan
+L3-0524|senang; gembira
+L3-0525|optimis
+L3-0526|kesenangan; keasyikan
+L3-0527|air mata
+L3-0528|dingin; acuh tak acuh
+L3-0529|tenaga; kekuatan
+L3-0530|li (satuan jarak ±500 m)
+L3-0531|berlatih; melatih
+L3-0532|berpacaran; jatuh cinta
+L3-0533|terang; cerah
+L3-0534|baik
+L3-0535|menghubungi; kontak
+L3-0536|sinetron; drama seri
+L3-0537|hebat; luar biasa
+L3-0538|bercerai
+L3-0539|di dalam
+L3-0540|hebat; parah; galak
+L3-0541|memahami; mengerti
+L3-0542|teori; berdebat
+L3-0543|aula; auditorium
+L3-0544|kekuatan; tenaga
+L3-0545|mengambil (gaji, barang); memimpin
+L3-0546|memimpin; pemimpin
+L3-0547|jiwa; roh
+L3-0548|bidang; ranah
+L3-0549|membuat (seseorang merasa); memerintah
+L3-0550|meninggalkan pesan; pesan
+L3-0551|berdarah; menumpahkan darah
+L3-0552|kuliah di luar negeri
+L3-0553|mahasiswa asing; pelajar luar negeri
+L3-0554|cita-cita; ideal
+L3-0555|kepentingan; keuntungan
+L3-0556|penumpang; wisatawan
+L3-0557|wisata; berwisata
+L3-0558|hijau
+L3-0559|pengacara
+L3-0560|merekam; mencatat
+L3-0561|menerima (calon siswa/pegawai)
+L3-0562|merekam suara; rekaman
+L3-0563|berkemah
+L3-0564|naga
+L3-0565|ban
+L3-0566|partikel penegas hal yang jelas (seperti kan)
+L3-0567|repot; merepotkan; masalah
+L3-0568|memarahi; memaki
+L3-0569|penuh; seluruh
+L3-0570|puas
+L3-0571|puas; memenuhi
+L3-0572|pelan-pelan
+L3-0573|silakan dinikmati (makanan)
+L3-0574|bulu; rambut
+L3-0575|kuas tulis
+L3-0576|kekurangan; cacat; penyakit
+L3-0577|perdagangan
+L3-0578|kloset; toilet
+L3-0579|dermaga; pelabuhan
+L3-0580|semut
+L3-0581|tidak; belum
+L3-0582|setiap
+L3-0583|mawar
+L3-0584|indah; baik
+L3-0585|tidak apa-apa
+L3-0586|kata bantu untuk mata kuliah
+L3-0587|memesona; menawan
+L3-0588|erat; akrab
+L3-0589|muka; sisi; kata bantu untuk cermin, bendera
+L3-0590|gratis
+L3-0591|luas (area)
+L3-0592|di hadapan
+L3-0593|mi
+L3-0594|detik
+L3-0595|menggambarkan; melukiskan
+L3-0596|kuil
+L3-0597|nasi
+L3-0598|bihun
+L3-0599|tersesat
+L3-0600|rahasia
+L3-0601|mengerti; paham; jelas
+L3-0602|kata benda; nomina
+L3-0603|Republik Tiongkok (kalender Taiwan)
+L3-0604|jelas; nyata; mencolok
+L3-0605|bintang (artis); selebriti
+L3-0606|nyawa; nasib; takdir
+L3-0607|bangsa; suku bangsa
+L3-0608|asing; tidak dikenal
+L3-0609|meraba; menyentuh; mengelus
+L3-0610|suatu; seorang (tertentu)
+L3-0611|kayu; pohon
+L3-0612|saat ini; sekarang
+L3-0613|kayu; orang lamban
+L3-0614|kalau begitu; jadi
+L3-0615|kalau begitu; begitu
+L3-0616|susu
+L3-0617|kesabaran; sabar
+L3-0618|selatan; wilayah selatan
+L3-0619|pantas saja; tidak heran
+L3-0620|jelek; tidak enak dilihat
+L3-0621|otak
+L3-0622|otak; pikiran
+L3-0623|mahir; jago
+L3-0624|yang mana saja
+L3-0625|isi; konten
+L3-0626|mampu; dapat
+L3-0627|tahun
+L3-0628|dekade; zaman; era
+L3-0629|umur; usia
+L3-0630|setiap tahun; tahun demi tahun
+L3-0631|celana jin
+L3-0632|pertanian
+L3-0633|nyonya; ibu (sapaan hormat)
+L3-0634|oh (paham); oh begitu
+L3-0635|oh (heran, mengerti)
+L3-0636|mengantre; menyusun; baris
+L3-0637|merek; papan nama; kartu
+L3-0638|mengharapkan; menantikan
+L3-0639|membina; memupuk; mendidik
+L3-0640|mencocokkan; serasi; melengkapi
+L3-0641|bekerja sama; menyesuaikan diri
+L3-0642|menyentuh; menabrak; bertemu
+L3-0643|bertemu (kebetulan); mengalami
+L3-0644|bertemu (kebetulan); menjumpai
+L3-0645|mengkritik; kritik
+L3-0646|kulit; kulit hewan
+L3-0647|ikat pinggang
+L3-0648|kulit (manusia)
+L3-0649|kata bantu untuk artikel, esai
+L3-0650|penipu
+L3-0651|ping (satuan luas ±3,3 m²)
+L3-0652|datar; rata; seri (skor)
+L3-0653|selamat; aman
+L3-0654|setara; sederajat; kesetaraan
+L3-0655|biasanya; sehari-hari
+L3-0656|dataran
+L3-0657|kualitas; mutu
+L3-0658|merusak; kerusakan
+L3-0659|umum; meluas; merata
+L3-0660|kata bantu untuk edisi, periode, angkatan
+L3-0661|bangun; mulai dari; kata bantu untuk kejadian
+L3-0662|udara; gas; marah
+L3-0663|pensil
+L3-0664|tanda tangan; menandatangani
+L3-0665|rendah hati
+L3-0666|depan; sebelum; mantan
+L3-0667|perampok
+L3-0668|menekankan
+L3-0669|merebut; merampas; berebut
+L3-0670|jembatan
+L3-0671|merundung; menindas
+L3-0672|berikutnya; kedua
+L3-0673|selama; masa; periode
+L3-0674|lepas landas
+L3-0675|partikel arah ke atas atau mulai (mis. 笑起來)
+L3-0676|mencium
+L3-0677|ramah; akrab; hangat
+L3-0678|dengan tangan sendiri
+L3-0679|dengan mata kepala sendiri
+L3-0680|sendiri; secara pribadi
+L3-0681|jelas; jernih; lunas
+L3-0682|pemuda; generasi muda
+L3-0683|remaja
+L3-0684|cerah
+L3-0685|perasaan; kasih; keadaan
+L3-0686|keadaan; situasi
+L3-0687|kekasih
+L3-0688|minta izin; cuti
+L3-0689|meminta petunjuk; bertanya
+L3-0690|memohon; meminta; permohonan
+L3-0691|merayakan
+L3-0692|miskin
+L3-0693|memohon; meminta; mencari
+L3-0694|lapangan olahraga; stadion
+L3-0695|pertandingan bola
+L3-0696|pemain (olahraga bola)
+L3-0697|suhu udara
+L3-0698|perusahaan
+L3-0699|pergi (untuk); partikel arah menjauh
+L3-0700|meninggal dunia
+L3-0701|seluruh; semua
+L3-0702|seluruh dunia; global
+L3-0703|seluruh tubuh
+L3-0704|menggantikan
+L3-0705|kekurangan; kelemahan
+L3-0706|tetapi; malah
+L3-0707|pasti; menentukan; yakin
+L3-0708|mengonfirmasi; memastikan
+L3-0709|membiarkan; menyuruh; mengalah
+L3-0710|menahan; bersabar
+L3-0711|mengenali; mengakui
+L3-0712|mengenali; kenal
+L3-0713|melempar; membuang
+L3-0714|masih; tetap
+L3-0715|masih; tetap
+L3-0716|orang lain; aku (manja); keluarga
+L3-0717|dunia manusia
+L3-0718|penduduk; populasi
+L3-0719|umat manusia
+L3-0720|orang-orang
+L3-0721|rakyat
+L3-0722|setiap orang; semua orang
+L3-0723|jumlah orang
+L3-0724|tokoh; karakter
+L3-0725|bersabar; menahan diri
+L3-0726|tugas; misi
+L3-0727|air panas
+L3-0728|matahari terbit
+L3-0729|tanggal
+L3-0730|seperti; misalnya; jika
+L3-0731|begini; begitu; demikian
+L3-0732|sebagai berikut
+L3-0733|sesuai keinginan; lancar
+L3-0734|lemah
+L3-0735|hutan
+L3-0736|patah hati; putus cinta
+L3-0737|kehilangan
+L3-0738|singa
+L3-0739|zaman; era
+L3-0740|sangat; sekali
+L3-0741|kata-kata jujur; yang sebenarnya
+L3-0742|nyata; praktis; kenyataan
+L3-0743|saat; waktu; momen
+L3-0744|kekuatan; kemampuan
+L3-0745|batu
+L3-0746|melaksanakan; menerapkan
+L3-0747|minyak bumi
+L3-0748|sungguh; benar-benar
+L3-0749|membuat; menyebabkan
+L3-0750|menggunakan; memakai
+L3-0751|karier; usaha
+L3-0752|fakta; kenyataan
+L3-0753|menyesuaikan diri; beradaptasi
+L3-0754|wali kota
+L3-0755|membunuh
+L3-0756|berjemur; menjemur
+L3-0757|melukai; menyakiti
+L3-0758|barang dagangan; komoditas
+L3-0759|bisnis; perdagangan
+L3-0760|yang lalu; atas (mis. 上週)
+L3-0761|tertipu; terkecoh
+L3-0762|Tuhan
+L3-0763|turun ke jalan; pergi berbelanja
+L3-0764|daerah pegunungan
+L3-0765|membakar; memasak; demam
+L3-0766|jangan terlalu; kurangi (mis. 少說話)
+L3-0767|ular
+L3-0768|peralatan; fasilitas
+L3-0769|desain; merancang
+L3-0770|naik; menaikkan; naik pangkat
+L3-0771|kata bantu untuk bunyi, suara
+L3-0772|melahirkan; lahir; tumbuh
+L3-0773|memproduksi; menghasilkan; melahirkan
+L3-0774|nada (bahasa)
+L3-0775|hidup; menarik (penggambaran)
+L3-0776|hidup; kehidupan
+L3-0777|nyawa; kehidupan
+L3-0778|huruf (hanzi) baru
+L3-0779|mendalam; masuk ke dalam
+L3-0780|di badan; pada diri
+L3-0781|menghemat; menghindari (repot)
+L3-0782|hemat uang
+L3-0783|tersisa; sisa
+L3-0784|tersisa; tinggal
+L3-0785|bahkan
+L3-0786|hasil; manfaat; panen
+L3-0787|radio
+L3-0788|kenal baik; akrab dengan
+L3-0789|prosedur; formalitas
+L3-0790|kata bantu untuk lagu, puisi
+L3-0791|tahan; sanggup menanggung
+L3-0792|terluka
+L3-0793|kalah
+L3-0794|sayuran
+L3-0795|nyaman
+L3-0796|menghitung; terhitung
+L3-0797|angka
+L3-0798|ganda; sepasang; dua
+L3-0799|menggosok gigi
+L3-0800|pangsit rebus
+L3-0801|tingkat; level; standar
+L3-0802|tertidur
+L3-0803|tingkat; standar
+L3-0804|pepohonan
+L3-0805|sekalian; sambil
+L3-0806|lancar
+L3-0807|pendapat; cara mengatakan
+L3-0808|menjelaskan; penjelasan
+L3-0810|memikirkan; berpikir
+L3-0811|pemikiran; ide
+L3-0812|sepertinya; tampaknya
+L3-0813|kuil; vihara
+L3-0814|sudahlah; tidak usah
+L3-0815|sembarangan; terserah; santai
+L3-0816|kapan saja; sewaktu-waktu
+L3-0817|kata bantu untuk sekolah, rumah; yang (所+V)
+L3-0818|yang disebut; apa yang dinamakan
+L3-0819|mengangkat; menggotong
+L3-0820|sikap
+L3-0821|aula; kata bantu untuk jam pelajaran
+L3-0822|berbaring
+L3-0823|berbincang; percakapan
+L3-0824|benci; menyebalkan
+L3-0825|khusus; sengaja
+L3-0826|ciri khas
+L3-0827|khusus; istimewa
+L3-0828|sawah; ladang
+L3-0829|mengisi (formulir); menimbun
+L3-0830|surga
+L3-0831|setiap hari
+L3-0832|dunia; seluruh negeri
+L3-0833|syarat; kondisi
+L3-0834|menantang; tantangan
+L3-0835|bahan cerita; tema
+L3-0836|menyebutkan; menyinggung
+L3-0837|meningkatkan; menaikkan
+L3-0838|menyediakan; memberikan
+L3-0839|memahami (dari pengalaman); merasakan
+L3-0840|tenaga fisik; stamina
+L3-0841|perhatian; pengertian
+L3-0842|berat badan
+L3-0843|menempelkan
+L3-0844|besi
+L3-0845|rel kereta api; jalur kereta
+L3-0846|kemampuan mendengar; listening
+L3-0847|kedengarannya
+L3-0848|pendengar; hadirin
+L3-0849|cukup; lumayan; sangat
+L3-0850|tembus; lancar; masuk akal
+L3-0851|melewati; lulus; disahkan
+L3-0852|memberi tahu; pemberitahuan
+L3-0853|sama; dengan
+L3-0854|bersimpati; kasihan
+L3-0855|rekan kerja
+L3-0856|menderita; sakit; penderitaan
+L3-0857|pertama (mis. 頭三天)
+L3-0858|melempar; memasukkan (surat, suara)
+L3-0859|berinvestasi; investasi
+L3-0860|tanah; kampungan
+L3-0861|kelompok; organisasi
+L3-0862|berkumpul kembali (keluarga)
+L3-0863|tanah; lahan
+L3-0864|mendorong; menolak; menunda
+L3-0865|merekomendasikan; rekomendasi
+L3-0866|memasarkan; menjual
+L3-0867|mundur; menurun (prestasi)
+L3-0868|pensiun
+L3-0869|tiba-tiba
+L3-0870|kelinci
+L3-0871|di luar; luar
+L3-0872|bahasa asing; tulisan asing
+L3-0873|bahasa asing
+L3-0874|kakek (dari pihak ibu)
+L3-0875|nenek (dari pihak ibu)
+L3-0876|menyelesaikan
+L3-0877|mainan
+L3-0878|terlambat; malam
+L3-0879|seandainya; kalau-kalau
+L3-0880|jaring; internet; jaringan
+L3-0881|sering; biasanya
+L3-0882|boneka; bayi
+L3-0883|mempertahankan; menjaga
+L3-0884|tersenyum; senyum
+L3-0885|agung; hebat; besar
+L3-0886|untuk; demi
+L3-0887|masa depan
+L3-0888|posisi; letak; tempat
+L3-0889|suhu
+L3-0890|hangat
+L3-0891|lembut; halus
+L3-0892|dokumen; berkas
+L3-0893|sastra
+L3-0894|artikel; tulisan; karangan
+L3-0895|tulisan; aksara; teks
+L3-0896|stabil; mantap
+L3-0897|menyapa; menyampaikan salam
+L3-0898|menyampaikan salam; menanyakan kabar
+L3-0899|berjabat tangan
+L3-0900|tanpa; tidak ada
+L3-0901|tidak bisa; tidak mampu
+L3-0902|bagaimanapun juga; apa pun yang terjadi
+L3-0903|tak terbatas; tiada habisnya
+L3-0904|tidak masalah; tidak peduli
+L3-0905|salah paham; kesalahpahaman
+L3-0906|harga barang
+L3-0907|barat laut
+L3-0908|masakan Barat
+L3-0909|Barat; negara-negara Barat
+L3-0910|barat daya
+L3-0911|memakai narkoba
+L3-0912|berkorban; mengorbankan
+L3-0913|menyerap; menerima (ilmu)
+L3-0914|harapan; berharap
+L3-0915|menarik; memikat
+L3-0916|menyukai; mencintai
+L3-0917|tipis; halus; teliti
+L3-0918|teliti; cermat
+L3-0919|drama; pertunjukan; film
+L3-0920|drama; seni teater
+L3-0921|sistem
+L3-0922|berikutnya; bawah; kata bantu untuk kali (gerakan)
+L3-0923|terkejut; ketakutan
+L3-0924|partikel arah ke bawah atau berlanjut
+L3-0925|benang; garis; kabel
+L3-0926|relatif; berhadapan
+L3-0927|berlawanan; sebaliknya
+L3-0928|terkait; berhubungan
+L3-0929|parfum
+L3-0930|sama; identik
+L3-0931|terperinci; detail
+L3-0932|berbunyi; berdering
+L3-0933|terpikir; menduga
+L3-0934|membayangkan; imajinasi
+L3-0935|kata bantu untuk butir, item, tugas
+L3-0936|lawakan dialog (xiangsheng)
+L3-0937|membatasi; batas
+L3-0938|kenyataan; realistis
+L3-0939|fenomena; gejala
+L3-0940|membatasi; batasan
+L3-0941|novel; cerita fiksi
+L3-0942|pencuri
+L3-0943|kelompok kecil; tim
+L3-0944|efek; hasil
+L3-0945|lelucon; menertawakan
+L3-0946|berbakti (kepada orang tua)
+L3-0947|kepala sekolah; rektor
+L3-0948|kaget; terkejut
+L3-0949|membantu; bantuan
+L3-0950|darah
+L3-0951|berterima kasih; layu
+L3-0952|pelajaran yang didapat; kesan
+L3-0953|psikologi; kejiwaan
+L3-0954|niat baik; maksud hati
+L3-0955|mengagumi; menikmati; menghargai
+L3-0956|siswa baru; mahasiswa baru
+L3-0957|percaya
+L3-0958|kepercayaan diri; keyakinan
+L3-0959|gembira; bersemangat
+L3-0960|tindakan; aksi; bergerak
+L3-0961|menggambarkan; melukiskan
+L3-0962|perilaku; tindakan
+L3-0963|bangun; sadar
+L3-0964|terbangun
+L3-0965|nama keluarga; bermarga
+L3-0966|jenis kelamin
+L3-0967|watak; kepribadian
+L3-0968|untung saja; syukurlah
+L3-0969|untung saja; syukurlah
+L3-0970|beruntung; mujur
+L3-0971|galak; ganas; parah
+L3-0972|panda
+L3-0973|memperbaiki; mengambil (mata kuliah)
+L3-0974|merevisi; mengubah
+L3-0975|memperbaiki; mereparasi
+L3-0976|kebutuhan; permintaan
+L3-0977|kebutuhan; membutuhkan
+L3-0978|pemilihan umum; memilih
+L3-0979|biaya sekolah; uang kuliah
+L3-0980|berhasil mempelajari; menguasai
+L3-0981|ilmu; pengetahuan
+L3-0982|mencari
+L3-0983|melatih; pelatihan
+L3-0984|uang jaminan; deposit
+L3-0985|bebek
+L3-0986|gigi
+L3-0987|gigi
+L3-0988|memerankan; tampil; memainkan
+L3-0989|pentas; pertunjukan; tampil
+L3-0990|domba; kambing
+L3-0991|sinar matahari; ceria
+L3-0992|memelihara; membesarkan
+L3-0993|segala macam; semuanya
+L3-0994|kembang api
+L3-0995|pandangan; wawasan; selera
+L3-0996|berpidato; ceramah
+L3-0997|air mata
+L3-0998|aktor; aktris; pemain
+L3-0999|mengundang; undangan
+L3-1000|menggigit
+L3-1001|mau; meminta; perlu
+L3-1002|kalau tidak; jika tidak
+L3-1003|kalau bukan karena
+L3-1004|penting; gawat
+L3-1005|baiklah; boleh juga
+L3-1006|halaman
+L3-1007|malam hari; di malam hari
+L3-1008|secara umum; umumnya
+L3-1009|sedikit
+L3-1010|di satu sisi
+L3-1011|lemari pakaian
+L3-1012|bergantung pada; mengandalkan
+L3-1013|berturut-turut
+L3-1014|seumur hidup
+L3-1015|sesaat; untuk sementara
+L3-1016|bersama-sama
+L3-1017|selalu; sejak dulu
+L3-1018|sama; seperti
+L3-1019|dengan; menggunakan; untuk
+L3-1020|serta; dan
+L3-1021|sejak; selama ini
+L3-1022|supaya tidak; agar tidak
+L3-1023|seni
+L3-1024|kecelakaan; tidak terduga
+L3-1025|arti; makna
+L3-1026|mendung; berawan
+L3-1027|oleh karena itu; maka
+L3-1028|sistem audio; suara
+L3-1029|menimbulkan; menyebabkan
+L3-1030|tampan; ganteng
+L3-1031|menang
+L3-1032|gizi; nutrisi
+L3-1033|film; video
+L3-1034|berani
+L3-1035|memiliki; mempunyai
+L3-1036|selamanya; selalu
+L3-1037|dengan (menggunakan)
+L3-1038|cara pemakaian
+L3-1039|perlengkapan; barang keperluan
+L3-1040|kelebihan; keunggulan
+L3-1041|humoris; lucu
+L3-1042|unggul; luar biasa
+L3-1043|wisatawan; pelancong
+L3-1044|karena; disebabkan
+L3-1045|efektif; berlaku
+L3-1046|persahabatan
+L3-1047|gembira; menyenangkan
+L3-1048|maka; lalu
+L3-1049|oh (sadar, mengerti)
+L3-1050|dan; dengan
+L3-1051|giok
+L3-1052|jagung
+L3-1053|bersiap; mempersiapkan
+L3-1054|bertemu; menghadapi
+L3-1055|belajar materi sebelum pelajaran
+L3-1056|lingkaran; bulat
+L3-1057|karyawan; staf
+L3-1058|memaafkan
+L3-1059|keinginan; harapan
+L3-1060|kira-kira; sekitar
+L3-1061|kue bulan
+L3-1062|membaca; bacaan
+L3-1063|band; orkestra
+L3-1064|awan
+L3-1065|nasib; keberuntungan
+L3-1066|ada; berada; masih hidup
+L3-1067|peduli; memedulikan
+L3-1068|terletak pada; bergantung pada
+L3-1069|sudah lama; sejak awal; pagi
+L3-1070|secepatnya; segera
+L3-1071|pagi dan malam; cepat atau lambat
+L3-1072|menyebabkan; mengakibatkan
+L3-1073|kebisingan; bising
+L3-1074|menambah; meningkat
+L3-1075|tanggung jawab
+L3-1076|tahu; mengetahui
+L3-1077|setelah; sesudah itu
+L3-1078|di antara
+L3-1079|sebelum; dulu
+L3-1080|lurus; terus terang
+L3-1081|sampai; hingga
+L3-1082|layak; patut; berharga
+L3-1083|koloni; daerah jajahan
+L3-1084|tumbuhan
+L3-1085|pekerjaan; profesi
+L3-1086|pegawai; staf
+L3-1087|menunjuk; merujuk; maksud
+L3-1088|hanya; tetapi
+L3-1089|hanya; hanya jika
+L3-1090|sistem; peraturan
+L3-1091|kebijaksanaan; kecerdasan
+L3-1092|setidaknya; paling sedikit
+L3-1093|mengenai; sampai-sampai
+L3-1094|memetik; melepas (kacamata, topi)
+L3-1095|stasiun; halte
+L3-1096|untuk sementara
+L3-1097|perang
+L3-1098|menguasai; memegang kendali
+L3-1099|hambatan; rintangan
+L3-1100|cemas; gelisah; terburu-buru
+L3-1101|menjamu; melayani (tamu)
+L3-1102|papan nama toko; ciri khas
+L3-1103|memberi uang kembalian
+L3-1104|menurut; menyinari; memotret
+L3-1105|menggoreng; meledak
+L3-1106|berharga; langka
+L3-1107|kebenaran
+L3-1108|nyata; sebenarnya
+L3-1109|sungguh; benar-benar
+L3-1110|tulus; sepenuh hati
+L3-1111|sungguh; sejati; benar-benar
+L3-1112|merapikan; membereskan
+L3-1113|rapi; teratur
+L3-1114|membuktikan; bukti; surat keterangan
+L3-1115|benar; tepat
+L3-1116|sertifikat; ijazah
+L3-1117|politik
+L3-1118|filsafat
+L3-1119|begini; seperti ini
+L3-1120|bagian tengah; wilayah tengah
+L3-1121|masakan Tionghoa; makan siang
+L3-1122|akhirnya
+L3-1123|menanam
+L3-1124|pokok; hal penting; fokus
+L3-1125|mementingkan; menghargai
+L3-1126|sekeliling; sekitar
+L3-1127|merebus; memasak
+L3-1128|proaktif; atas inisiatif sendiri
+L3-1129|ibu rumah tangga
+L3-1130|atasan; penanggung jawab
+L3-1131|direktur; kepala (bagian)
+L3-1132|tema; topik
+L3-1133|utama; terutama
+L3-1134|ide; gagasan; keputusan
+L3-1135|membantu; menolong
+L3-1136|berkat; mendoakan
+L3-1137|asisten
+L3-1138|terkenal; ternama
+L3-1139|keadaan; kondisi
+L3-1140|fokus; konsentrasi
+L3-1141|profesional; jurusan; bidang keahlian
+L3-1142|mengejar; mengupayakan
+L3-1143|tepat waktu
+L3-1144|memakai (pakaian); menyentuh
+L3-1145|sumber daya
+L3-1146|teliti; cermat; hati-hati
+L3-1147|sejak
+L3-1148|otomatis; dengan sendirinya
+L3-1149|bunuh diri
+L3-1150|percaya diri; kepercayaan diri
+L3-1151|nyaman; leluasa
+L3-1152|agama
+L3-1153|singkatnya; pendek kata
+L3-1154|akhirnya; pada akhirnya
+L3-1155|presiden
+L3-1156|singkatnya; pokoknya
+L3-1158|kelompok; kata bantu untuk set, grup
+L3-1159|kakek (dari pihak ayah)
+L3-1160|nenek (dari pihak ayah)
+L3-1161|leluhur; nenek moyang
+L3-1162|mabuk
+L3-1163|awalnya; mula-mula
+L3-1164|paling banyak; maksimal
+L3-1165|terakhir; akhirnya
+L3-1166|terbaik; optimal
+L3-1167|menghormati; terhormat
+L3-1168|membuat; berbuat; menulis
+L3-1169|bermimpi
+L3-1170|karya
+L3-1171|bersikap; berperilaku (sebagai manusia)
+L3-1172|bekerja; mengurus sesuatu
+L3-1173|penulis; pengarang

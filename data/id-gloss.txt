@@ -1,0 +1,756 @@
+L0-1001|saya; aku
+L0-1002|kamu
+L0-1003|dia
+L0-1004|kami; kita
+L0-1005|kalian
+L0-1006|mereka
+L0-1007|Anda (sopan)
+L0-1008|siapa
+L0-1009|nama lengkap
+L0-1010|orang
+L0-1011|negara
+L0-1012|Tiongkok
+L0-1013|Amerika Serikat
+L0-1014|Jepang
+L0-1015|Taiwan
+L0-1016|nama
+L0-1017|rumah; keluarga
+L0-1018|telepon
+L0-1019|waktu
+L0-1020|jam (durasi)
+L0-1021|sekarang
+L0-1022|tahun ini
+L0-1023|hari ini
+L0-1024|besok
+L0-1025|kemarin
+L0-1026|pagi
+L0-1027|pagi (sebelum siang)
+L0-1028|tengah hari
+L0-1029|sore
+L0-1030|malam
+L0-1031|satu
+L0-1032|dua
+L0-1033|tiga
+L0-1034|empat
+L0-1035|lima
+L0-1036|enam
+L0-1037|tujuh
+L0-1038|delapan
+L0-1039|sembilan
+L0-1040|sepuluh
+L0-1041|dua (dengan kata bantu bilangan)
+L0-1042|saat; waktu
+L0-1043|ratus
+L0-1044|setengah
+L0-1045|ribu
+L0-1046|ayah
+L0-1047|ibu
+L0-1048|kakak laki-laki
+L0-1049|adik laki-laki
+L0-1050|kakak perempuan
+L0-1051|adik perempuan
+L0-1052|anak kecil
+L0-1053|partikel kepemilikan (…nya)
+L0-1054|ke- (urutan)
+L0-1055|menit; membagi; poin
+L0-1056|pukul; titik; memesan
+L0-1057|kata bantu bilangan umum
+L0-1058|tahun (usia)
+L0-1059|tahun
+L0-1060|tinggal
+L0-1061|datang
+L0-1062|adalah; ya
+L0-1063|bermarga; marga
+L0-1064|merasa; berpendapat
+L0-1065|suka
+L0-1066|menelepon
+L0-1067|cantik; indah
+L0-1068|tinggi
+L0-1069|tua; lama
+L0-1070|baik; bagus
+L0-1071|sangat
+L0-1072|sungguh; benar-benar
+L0-1073|komputer
+L0-1074|guru
+L0-1075|membeli
+L0-1076|sibuk
+L0-1077|pelajar; siswa
+L0-1078|universitas
+L0-1079|sekolah
+L0-1080|bahasa Mandarin
+L0-1081|teman sekelas
+L0-1082|karakter; huruf
+L0-1083|pena; alat tulis
+L0-1084|belajar
+L0-1085|bertanya
+L0-1086|berbicara; berkata
+L0-1087|menulis
+L0-1088|mendengar
+L0-1089|benar; terhadap
+L0-1090|dapat; mampu
+L0-1091|boleh; bisa
+L0-1092|masuk kelas
+L0-1093|tahu
+L0-1094|televisi
+L0-1095|air
+L0-1096|lama (waktu)
+L0-1097|pagi; awal; selamat pagi
+L0-1098|lagi
+L0-1099|buku
+L0-1100|film
+L0-1101|dulu; sebelumnya
+L0-1102|nanti; setelah
+L0-1103|berjalan; pergi
+L0-1104|menunggu
+L0-1105|melihat; membaca; menonton
+L0-1106|langsung; maka
+L0-1107|apa
+L0-1108|teman
+L0-1109|barang
+L0-1110|partikel ajakan / dugaan (ayo; kan)
+L0-1111|partikel tanya balik (kalau…?)
+L0-1112|partikel tanya ya/tidak
+L0-1113|mencari
+L0-1114|membuat; melakukan
+L0-1115|sampai jumpa
+L0-1116|bagaimana
+L0-1117|bernama; memanggil
+L0-1118|terima kasih
+L0-1119|maaf
+L0-1120|permisi, mau tanya
+L0-1121|ini
+L0-1122|itu
+L0-1123|bus
+L0-1124|mobil; kendaraan
+L0-1125|sampai; tiba; ke
+L0-1126|pergi
+L0-1127|kembali; pulang
+L0-1128|duduk; naik (kendaraan)
+L0-1129|di sini
+L0-1130|di sana
+L0-1131|di mana
+L0-1132|menyetir mobil
+L0-1133|uang
+L0-1134|berapa
+L0-1135|memberi; untuk
+L0-1136|mahal
+L0-1137|murah
+L0-1138|besar
+L0-1139|kecil
+L0-1140|sulit
+L0-1141|mudah
+L0-1142|punya; ada
+L0-1143|ingin; berpikir; rindu
+L0-1144|berapa (jumlah kecil); beberapa
+L0-1145|dolar (lisan); potong
+L0-1146|kata bantu untuk orang (sopan)
+L0-1147|nasi; makanan
+L0-1148|makan
+L0-1149|silakan; mengundang; mentraktir
+L0-1150|juga
+L0-1151|tidak
+L0-1152|tidak (masa lalu); tidak punya
+L0-1153|semua
+L0-1154|hanya
+L0-1155|tetapi
+L0-1156|atau (dalam pertanyaan); masih
+L0-1157|partikel selesai / perubahan
+L0-1158|partikel keterangan cara (V 得 …)
+L0-1159|melewati; partikel pengalaman (pernah)
+L0-1160|tidak punya; tidak ada; belum
+L0-2001|laki-laki
+L0-2002|perempuan
+L0-2003|anak
+L0-2004|nona
+L0-2005|tuan; suami
+L0-2006|nyonya; istri
+L0-2007|anak perempuan
+L0-2008|anak laki-laki
+L0-2009|semua orang
+L0-2010|jalan
+L0-2011|ponsel
+L0-2012|tahun depan
+L0-2013|tahun lalu
+L0-2014|ulang tahun
+L0-2015|bulan
+L0-2016|hari; tanggal; matahari
+L0-2017|pekan; hari dalam pekan
+L0-2018|hari Minggu
+L0-2019|hari Minggu (lisan)
+L0-2020|akhir pekan
+L0-2021|tanggal; nomor
+L0-2022|hari; langit
+L0-2023|dari
+L0-2024|di; sedang
+L0-2025|cinta; suka
+L0-2026|bahagia; selamat
+L0-2027|terlalu
+L0-2028|taman
+L0-2029|negara
+L0-2030|menit
+L0-2031|anggota keluarga
+L0-2032|gemuk
+L0-2033|pendek (tinggi badan)
+L0-2034|kurus
+L0-2035|sepuluh ribu
+L0-2036|jam (durasi)
+L0-2037|malam; terlambat
+L0-2038|kemarin lusa
+L0-2039|lusa
+L0-2040|dua tahun lalu
+L0-2041|dua tahun lagi
+L0-2042|diri sendiri
+L0-2043|ia (benda/hewan)
+L0-2044|mereka (benda/hewan)
+L0-2045|paling
+L0-2046|takut
+L0-2047|indah; cantik
+L0-2048|seharusnya
+L0-2049|sungguh; benar-benar
+L0-2050|bekerja; pekerjaan
+L0-2051|dokter
+L0-2052|sedikit
+L0-2053|beberapa
+L0-2054|kata bantu untuk buku
+L0-2055|kata bantu untuk benda pipih (lembar)
+L0-2056|bahasa Inggris
+L0-2057|kertas
+L0-2058|pertanyaan; masalah
+L0-2059|arti; maksud
+L0-2060|restoran
+L0-2061|menggambar; lukisan
+L0-2062|membaca; bersekolah
+L0-2063|bisa (keahlian); akan
+L0-2064|mengapa
+L0-2065|selesai kelas
+L0-2066|berbicara
+L0-2067|ujian; menempuh ujian
+L0-2068|mengerti
+L0-2069|membaca (keras); bersekolah
+L0-2070|pelajaran; kelas
+L0-2071|mengajar
+L0-2072|memberi tahu
+L0-2073|salah
+L0-2074|pintu masuk
+L0-2075|kata bantu untuk benda batang (pena)
+L0-2076|sapi
+L0-2077|babi
+L0-2078|hujan
+L0-2079|udara
+L0-2080|pekerjaan rumah
+L0-2081|ruang kelas
+L0-2082|kalimat
+L0-2083|beristirahat
+L0-2084|sangat; luar biasa
+L0-2085|rumah
+L0-2086|kamar
+L0-2087|gedung; lantai
+L0-2088|pintu
+L0-2089|meja
+L0-2090|kursi
+L0-2091|tempat tidur
+L0-2092|membuka; menyalakan; menyetir
+L0-2093|rendah
+L0-2094|lumayan; bagus
+L0-2095|cuaca
+L0-2096|dingin
+L0-2097|panas
+L0-2098|turun hujan
+L0-2099|angin
+L0-2100|gunung
+L0-2101|bunga; menghabiskan (uang/waktu)
+L0-2102|ikan
+L0-2103|ayam
+L0-2104|kopi
+L0-2105|teh
+L0-2106|memakai; menggunakan
+L0-2107|memakai (pakaian)
+L0-2108|bangun tidur
+L0-2109|praktis; nyaman
+L0-2110|tidur
+L0-2111|bangun; berdiri
+L0-2112|dulu; terlebih dahulu
+L0-2113|sering
+L0-2114|setiap
+L0-2115|memukul; bermain (bola)
+L0-2116|bermain
+L0-2117|berolahraga; olahraga
+L0-2118|berjalan kaki
+L0-2119|bernyanyi
+L0-2120|melompat
+L0-2121|masih; juga
+L0-2122|menyanyi
+L0-2123|lagu
+L0-2124|menari
+L0-2125|lagi; juga
+L0-2126|bola
+L0-2127|memperkenalkan
+L0-2128|tidak apa-apa
+L0-2129|urusan; hal
+L0-2130|bagaimana; kenapa
+L0-2131|yang mana
+L0-2132|di dalam
+L0-2133|atas
+L0-2134|bawah
+L0-2135|luar
+L0-2136|di luar
+L0-2137|depan
+L0-2138|belakang
+L0-2139|kiri
+L0-2140|kanan
+L0-2141|samping
+L0-2142|dalam
+L0-2143|tengah; di antara
+L0-2144|tempat
+L0-2145|dekat; sekitar
+L0-2146|membawa
+L0-2147|mengambil; memegang
+L0-2148|stasiun; berdiri
+L0-2149|cepat
+L0-2150|lambat
+L0-2151|taksi
+L0-2152|kereta api
+L0-2153|pesawat terbang
+L0-2154|kata bantu untuk kendaraan
+L0-2155|keluar
+L0-2156|masuk
+L0-2157|luar negeri
+L0-2158|tangan
+L0-2159|kaki
+L0-2160|tubuh; kesehatan
+L0-2161|mata
+L0-2162|hidung
+L0-2163|obat
+L0-2164|lelah
+L0-2165|kepala
+L0-2166|telinga
+L0-2167|masuk angin; flu
+L0-2168|jatuh sakit
+L0-2169|lapar
+L0-2170|sakit; nyeri
+L0-2171|mulut
+L0-2172|penyakit; sakit
+L0-2173|berobat ke dokter
+L0-2174|dolar; yuan
+L0-2175|sepatu
+L0-2176|pakaian
+L0-2177|dibandingkan; daripada
+L0-2178|mau; perlu
+L0-2179|panjang
+L0-2180|baru
+L0-2181|sama
+L0-2182|bertemu; melihat
+L0-2183|melihat (tampak)
+L0-2184|mendengar (terdengar)
+L0-2185|toko
+L0-2186|pendek
+L0-2187|kenyang
+L0-2188|lama; usang
+L0-2189|seperti; mirip
+L0-2190|semuanya; total
+L0-2191|cukup
+L0-2192|sumpit
+L0-2193|agak; sedikit
+L0-2194|kata bantu untuk pakaian / urusan
+L0-2195|gelas; cangkir (kata bantu)
+L0-2196|gelas; cangkir
+L0-2197|sayur; masakan
+L0-2198|daging
+L0-2199|minuman keras; arak
+L0-2200|minum
+L0-2201|sedikit
+L0-2202|banyak
+L0-2203|jajanan
+L0-2204|susu sapi
+L0-2205|telur
+L0-2206|pangsit (jiaozi)
+L0-2207|mi
+L0-2208|sup
+L0-2209|bakpao
+L0-2210|kue
+L0-2211|roti
+L0-2212|buah
+L0-2213|pisang
+L0-2214|makanan
+L0-2215|minuman
+L0-2216|jus buah
+L0-2217|manis
+L0-2218|menu
+L0-2219|cokelat
+L0-2220|mangkuk
+L0-2221|es; dingin
+L0-2222|bersama
+L0-2223|karena
+L0-2224|dan
+L0-2225|jadi; oleh karena itu
+L0-2226|dengan; mengikuti
+L0-2227|pasti
+L0-2228|mungkin
+L0-2229|sisi; pinggir
+L0-2230|jangan; lain
+L0-2231|segera
+L0-2232|kemudian
+L0-2233|harus
+L0-2234|partikel keadaan berlangsung (sambil)
+L1-0001|nol
+L1-0002|kakek (pihak ayah)
+L1-0003|nenek (pihak ayah)
+L1-0004|keluarga; rumah tangga
+L1-0005|orang lain
+L1-0006|orang dewasa
+L1-0007|orang tua; lansia
+L1-0008|muda
+L1-0009|anak laki-laki; siswa laki-laki
+L1-0010|anak perempuan; siswi
+L1-0011|nomor
+L1-0012|sedang (melakukan)
+L1-0013|partikel penegas (ya)
+L1-0014|alamat
+L1-0015|kota
+L1-0016|nama; ternama
+L1-0017|kota
+L1-0018|jalan raya
+L1-0019|surel; email
+L1-0020|pekan; hari Minggu
+L1-0021|dahulu kala
+L1-0022|baru saja
+L1-0023|sebentar
+L1-0024|menikah
+L1-0025|musim semi
+L1-0026|musim panas
+L1-0027|musim gugur
+L1-0028|musim dingin
+L1-0029|tertawa; tersenyum
+L1-0030|menangis
+L1-0031|senang
+L1-0032|gugup; tegang
+L1-0033|lucu; menggemaskan
+L1-0034|marah
+L1-0035|sedih
+L1-0036|pintar
+L1-0037|percaya
+L1-0038|pengalaman
+L1-0039|melelahkan; kerja keras
+L1-0040|bersedia
+L1-0041|kebiasaan; terbiasa
+L1-0042|tentu saja
+L1-0043|lebih
+L1-0044|rumah sakit
+L1-0045|perusahaan
+L1-0046|kantor
+L1-0047|buruh; pekerja
+L1-0048|perawat
+L1-0049|sopir
+L1-0050|bos; pemilik usaha
+L1-0051|berangkat kerja
+L1-0052|pulang kerja
+L1-0053|kemampuan
+L1-0054|berusaha keras; rajin
+L1-0055|menyiapkan; persiapan
+L1-0056|berencana
+L1-0057|rencana
+L1-0058|kesempatan
+L1-0059|jika
+L1-0060|sekolah dasar
+L1-0061|SMA
+L1-0062|bersekolah
+L1-0063|awal tahun ajaran
+L1-0064|kelas (rombongan)
+L1-0065|tingkat kelas
+L1-0066|tugas; PR
+L1-0067|nilai; prestasi
+L1-0068|bahasa
+L1-0069|bahasa Mandarin
+L1-0070|papan tulis
+L1-0071|buku pelajaran
+L1-0072|kamus
+L1-0073|memperhatikan
+L1-0074|belajar; membaca buku
+L1-0075|menjawab; jawaban
+L1-0076|menjawab
+L1-0077|kalimat (kata bantu)
+L1-0078|gambar
+L1-0079|bagian
+L1-0080|pendapat; ide
+L1-0081|belajar
+L1-0082|berlatih; latihan
+L1-0083|ikut serta
+L1-0084|budaya
+L1-0085|menganggap; berpendapat
+L1-0086|jelas
+L1-0087|memutuskan; keputusan
+L1-0088|ingat
+L1-0089|lupa
+L1-0090|hebat; keren
+L1-0091|boleh; oke; berjalan
+L1-0092|baris; bidang usaha
+L1-0093|berbicara; menerangkan
+L1-0094|menambah; tambah
+L1-0095|menghitung; terhitung
+L1-0096|menyerahkan; berteman
+L1-0097|meminjam; meminjamkan
+L1-0098|mengembalikan
+L1-0099|cara; jalan keluar
+L1-0100|metode; cara
+L1-0101|berguna
+L1-0102|kemajuan; maju
+L1-0103|perpustakaan
+L1-0104|toilet
+L1-0105|asrama
+L1-0106|rumah; kamar
+L1-0107|kata bantu untuk ruangan
+L1-0108|gedung
+L1-0109|lantai atas
+L1-0110|lantai bawah
+L1-0111|tangga
+L1-0112|lift
+L1-0113|dapur
+L1-0114|ruang tamu
+L1-0115|jendela
+L1-0116|perabot
+L1-0117|sofa
+L1-0118|kotak
+L1-0119|menutup; mematikan
+L1-0120|lampu
+L1-0121|AC; pendingin udara
+L1-0122|kulkas
+L1-0123|kata bantu untuk mesin
+L1-0124|listrik
+L1-0125|bersih
+L1-0126|sewa rumah
+L1-0127|menyewa
+L1-0128|dunia
+L1-0129|api
+L1-0130|salju
+L1-0131|turun salju
+L1-0132|tanah; bumi
+L1-0133|sungai
+L1-0134|danau
+L1-0135|kuda
+L1-0136|burung
+L1-0137|kucing
+L1-0138|anjing
+L1-0139|laut
+L1-0140|rumput
+L1-0141|pohon
+L1-0142|kata bantu untuk hewan
+L1-0143|kepala; ketua
+L1-0144|matahari
+L1-0145|mencuci
+L1-0146|mandi
+L1-0147|ada waktu luang
+L1-0148|menemukan; menyadari
+L1-0149|kata bantu untuk makan (kali)
+L1-0150|pindah; mengangkat
+L1-0151|menggantung; menutup telepon
+L1-0152|melepas (pakaian)
+L1-0153|merayakan Tahun Baru Imlek
+L1-0154|tahun baru
+L1-0155|berenang
+L1-0156|berlari
+L1-0157|menendang
+L1-0158|sepak bola
+L1-0159|bola basket
+L1-0160|tenis
+L1-0161|bisbol
+L1-0162|pertandingan
+L1-0163|mulai
+L1-0164|menunggang; naik (sepeda/motor)
+L1-0165|sepeda
+L1-0166|menggunakan internet
+L1-0167|internet
+L1-0168|situs web
+L1-0169|koran
+L1-0170|kali (frekuensi)
+L1-0171|bioskop
+L1-0172|kata bantu untuk film / mesin
+L1-0173|kata bantu untuk pertunjukan
+L1-0174|musik
+L1-0175|tiket
+L1-0176|kegiatan; bergerak
+L1-0177|cerita
+L1-0178|mengobrol
+L1-0179|kadang-kadang
+L1-0180|biasanya
+L1-0181|selalu
+L1-0182|sudah
+L1-0183|kemudian (cerita masa lalu)
+L1-0184|setiap; masing-masing
+L1-0185|berubah
+L1-0186|baru (saja); hanya
+L1-0187|tamu
+L1-0188|sungkan; sopan
+L1-0189|sama-sama
+L1-0190|permisi; maaf; malu
+L1-0191|halo (telepon)
+L1-0192|hei
+L1-0193|merepotkan; tolong
+L1-0194|hadiah
+L1-0195|selamat datang
+L1-0196|mengirim (pos)
+L1-0197|menerima; menjemput
+L1-0198|kantor pos
+L1-0199|bank
+L1-0200|rusak; jahat
+L1-0201|membantu
+L1-0202|bantuan; membantu
+L1-0203|anak-anak
+L1-0204|surat; percaya
+L1-0205|amplop
+L1-0206|kenal
+L1-0207|akhir-akhir ini
+L1-0208|kabarnya; mendengar
+L1-0209|bertemu
+L1-0210|urusan; hal
+L1-0211|membantu
+L1-0212|dompet
+L1-0213|menarik
+L1-0214|ah; oh
+L1-0215|bagaimana ini?
+L1-0216|stasiun; halte
+L1-0217|mobil
+L1-0218|bandara
+L1-0219|jalan raya
+L1-0220|persimpangan
+L1-0221|perempatan
+L1-0222|seberang
+L1-0223|bepergian; wisata
+L1-0224|hotel; restoran
+L1-0225|penginapan
+L1-0226|kantong
+L1-0227|berkunjung (melihat-lihat)
+L1-0228|peta
+L1-0229|kamera
+L1-0230|memotret
+L1-0231|foto
+L1-0232|pemandangan
+L1-0233|selatan
+L1-0234|barat
+L1-0235|utara
+L1-0236|timur
+L1-0237|tengah; di antara
+L1-0238|berjarak dari
+L1-0239|meninggalkan
+L1-0240|melewati; proses
+L1-0241|ke arah
+L1-0242|mengantar; memberi
+L1-0243|meletakkan; melepaskan
+L1-0244|dekat
+L1-0245|jauh
+L1-0246|ke arah; menghadap
+L1-0247|berbelok; berpindah
+L1-0248|jatuh; hilang
+L1-0249|terus-menerus; lurus
+L1-0250|terakhir; akhirnya
+L1-0251|pasien
+L1-0252|rambut
+L1-0253|jari
+L1-0254|perut
+L1-0255|wajah
+L1-0256|hati
+L1-0257|sehat; kesehatan
+L1-0258|haus
+L1-0259|nyaman; enak badan
+L1-0260|kacamata
+L1-0261|menjual
+L1-0262|membayar
+L1-0263|berharap; harapan
+L1-0264|toko buku
+L1-0265|toko
+L1-0266|pasar
+L1-0267|supermarket
+L1-0268|kartu kredit
+L1-0269|penting
+L1-0270|warna
+L1-0271|kuning
+L1-0272|putih
+L1-0273|jam tangan
+L1-0274|kaus kaki
+L1-0275|pasang (kata bantu)
+L1-0276|rok
+L1-0277|celana
+L1-0278|mantel
+L1-0279|topi
+L1-0280|tas tangan
+L1-0281|jaket
+L1-0282|hati-hati
+L1-0283|lebih; relatif
+L1-0284|kurang lebih; hampir
+L1-0285|memakai (aksesori)
+L1-0286|mencoba
+L1-0287|ringan
+L1-0288|berat
+L1-0289|rupa; tampaknya
+L1-0290|istimewa; khususnya
+L1-0291|sederhana
+L1-0292|yang lain
+L1-0293|suara
+L1-0294|sepertinya
+L1-0295|aneh
+L1-0296|roti lapis
+L1-0297|hamburger
+L1-0298|apel
+L1-0299|semangka
+L1-0300|bir
+L1-0301|teh hitam
+L1-0302|kudapan; dim sum
+L1-0303|es krim
+L1-0304|sayuran hijau
+L1-0305|gula; permen
+L1-0306|garpu
+L1-0307|pisau
+L1-0308|sendok sup
+L1-0309|piring
+L1-0310|potong; lembar (kata bantu)
+L1-0311|botol
+L1-0312|kata bantu untuk benda batang
+L1-0313|porsi; eksemplar
+L1-0314|kata bantu untuk hidangan
+L1-0315|setengah
+L1-0316|rasa
+L1-0317|asam
+L1-0318|pahit
+L1-0319|asin
+L1-0320|pedas
+L1-0321|harum
+L1-0322|kata bantu untuk benda panjang
+L1-0323|jenis; macam
+L1-0324|membungkus; bungkus
+L1-0325|seluruh
+L1-0326|semua
+L1-0327|membutuhkan
+L1-0328|memanggang
+L1-0329|merayakan; melewati (hari)
+L1-0330|tetapi
+L1-0331|atau
+L1-0332|kalau
+L1-0333|partikel objek (把)
+L1-0334|oleh (kalimat pasif)
+L1-0335|membiarkan; menyuruh
+L1-0336|meskipun
+L1-0337|begitu
+L1-0338|begini
+L1-0339|semula; sebenarnya
+L1-0340|partikel seruan (lah)
+L1-0341|partikel seruan (ya)
+L1-0342|mengira
+L1-0343|ada yang; sebagian
+L1-0344|menggantikan; untuk
+L1-0345|sebentar; sekali
+L1-0346|tetapi; hanya
+L1-0347|partikel keterangan (-dengan …)
+L2-0178|polusi; mencemari
+L2-0292|peron
+L3-0326|masih harus; lagi pula
+L3-0335|sudah; cukup
+L3-0809|kalau dipikir-pikir
+L3-1157|jalan-jalan sebentar
+L4-1238|kancing
+L4-1646|menghitung tagihan
+L4-1941|merokok
+L5-0954|berat; sukar
+L5-1523|keajaiban
+L5-1935|anak tangga
+L5-2106|polusi
+L5-2155|cerah; mencolok
+L5-2373|menyadari

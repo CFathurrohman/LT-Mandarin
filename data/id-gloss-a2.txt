@@ -1,0 +1,485 @@
+L2-0001|lahir
+L2-0002|berbeda; tidak sama
+L2-0003|alamat (tempat tinggal)
+L2-0004|bahasa ibu
+L2-0005|tabel; jam tangan; hubungan sepupu (pihak ibu)
+L2-0006|jam (satuan waktu); jam dinding
+L2-0007|jam dinding
+L2-0008|faks
+L2-0009|siang hari
+L2-0010|tengah malam
+L2-0011|malam hari
+L2-0012|hari; tanggal; kehidupan sehari-hari
+L2-0013|malam
+L2-0014|musim semi
+L2-0015|jam; waktu; ketika
+L2-0016|tidak lama kemudian; segera
+L2-0017|tadi; baru saja
+L2-0018|sarapan; (lebih) awal sedikit
+L2-0019|kebetulan; pas; tepat
+L2-0020|usia; umur
+L2-0021|laki-laki; pria
+L2-0022|perempuan; wanita
+L2-0023|ayah
+L2-0024|ibu
+L2-0025|orang tua; ayah dan ibu
+L2-0026|kakek (pihak ibu)
+L2-0027|nenek (pihak ibu)
+L2-0028|paman (kakak laki-laki ayah); bapak
+L2-0029|paman (kakak laki-laki ayah); bapak
+L2-0030|bibi (istri kakak ayah); ibu
+L2-0031|paman (adik laki-laki ayah); om
+L2-0032|bibi (saudari ayah)
+L2-0033|cucu perempuan
+L2-0034|cucu laki-laki
+L2-0035|hubungan; relasi
+L2-0036|takut
+L2-0037|senang; gembira
+L2-0038|khawatir; cemas
+L2-0039|sedih; patah hati
+L2-0040|cantik; indah
+L2-0041|tampan; keren
+L2-0042|bodoh; canggung
+L2-0043|serius; sungguh-sungguh; tekun
+L2-0044|berani
+L2-0045|cemas; tergesa-gesa; mendesak
+L2-0046|sopan santun; tata krama
+L2-0047|malu; pemalu
+L2-0048|peduli; memperhatikan
+L2-0049|suasana hati; mood
+L2-0050|bahagia; kebahagiaan
+L2-0051|kurang; buruk; selisih
+L2-0052|saudara laki-laki; kakak-adik
+L2-0053|bibi (saudari ibu); tante
+L2-0054|di sisi; di dekat
+L2-0055|tinggi badan
+L2-0056|tumbuh besar; menjadi dewasa
+L2-0057|manajer
+L2-0058|mengajar
+L2-0059|rapat; mengadakan rapat
+L2-0060|lembur
+L2-0061|berbahaya; bahaya
+L2-0062|aman; keamanan
+L2-0063|berhasil; sukses
+L2-0064|melaporkan; laporan
+L2-0065|data; bahan; informasi
+L2-0066|mengelola; mengurus
+L2-0067|cara; metode
+L2-0068|pendapat; pandangan
+L2-0069|mengurus; menangani; mengadakan
+L2-0070|kerja paruh waktu; kerja sambilan
+L2-0071|memilih
+L2-0072|serius; parah
+L2-0073|resmi; formal
+L2-0074|memeriksa; mencari (informasi)
+L2-0075|ujian; mengikuti ujian; menguji
+L2-0076|misalnya; contohnya
+L2-0077|contoh
+L2-0078|soal; judul; topik
+L2-0079|kata bantu untuk soal (ujian)
+L2-0080|jawaban
+L2-0081|belajar; bersekolah
+L2-0082|sejarah
+L2-0083|matematika
+L2-0084|kaligrafi
+L2-0085|bahasa Inggris
+L2-0086|karangan; mengarang
+L2-0087|aksara Han; karakter Mandarin
+L2-0088|kata; kosakata
+L2-0089|tata bahasa
+L2-0090|ditambah; menambahkan
+L2-0091|mengurangi; dikurangi
+L2-0092|dikali; naik (kendaraan)
+L2-0093|dibagi; selain; menghapus
+L2-0094|sekolah dasar
+L2-0095|sekolah menengah
+L2-0096|akademi; fakultas; institut
+L2-0097|mahasiswa
+L2-0098|profesor
+L2-0099|libur; berlibur
+L2-0100|libur musim semi
+L2-0101|libur musim panas
+L2-0102|libur musim dingin
+L2-0103|libur; cuti
+L2-0104|lulus
+L2-0105|semester
+L2-0106|melayani; pelayanan
+L2-0107|teman sekamar
+L2-0108|lapangan olahraga
+L2-0109|kampus; lingkungan sekolah
+L2-0110|kursi; tempat duduk
+L2-0111|meja belajar
+L2-0112|tas sekolah
+L2-0113|rak buku
+L2-0114|buku catatan
+L2-0115|penggaris; satuan panjang (kaki Tionghoa)
+L2-0116|berdiskusi; membahas
+L2-0117|setuju
+L2-0118|memahami; mengerti
+L2-0119|membosankan; bosan
+L2-0120|menarik; lucu
+L2-0121|menarik; seru
+L2-0122|sebab; alasan
+L2-0123|kata bantu untuk kali (dari awal sampai akhir)
+L2-0124|mengubah; memperbaiki; mengoreksi
+L2-0125|lupa
+L2-0126|tingkat; taraf
+L2-0127|cepat-cepat; segera
+L2-0128|di atas; lebih dari; tersebut di atas
+L2-0129|di bawah; kurang dari; berikut ini
+L2-0130|pendapat; saran; keberatan
+L2-0131|rajin belajar; tekun
+L2-0132|meneliti; penelitian
+L2-0133|pendidikan; mendidik
+L2-0134|memilih; pilihan
+L2-0135|menyarankan; saran
+L2-0136|pengetahuan
+L2-0137|kata bantu untuk gunung, gedung, jembatan
+L2-0138|kamar tidur
+L2-0139|kamar tidur
+L2-0140|kamar mandi
+L2-0141|halaman (rumah)
+L2-0142|ruang belajar
+L2-0143|mesin cuci
+L2-0144|meja makan
+L2-0145|membuka; menyalakan
+L2-0146|kotak; peti; koper; kata bantu untuk kotak
+L2-0147|kata bantu untuk lantai atau lapisan
+L2-0148|lemari
+L2-0149|pintu utama; gerbang
+L2-0150|tetangga
+L2-0151|ramai; meriah
+L2-0152|berisik; bertengkar
+L2-0153|berantakan; kacau
+L2-0154|pemilik rumah sewaan
+L2-0155|rumah; bangunan
+L2-0156|pindah rumah
+L2-0157|air matang; air mendidih
+L2-0158|desa; pedesaan
+L2-0159|payung
+L2-0160|menghabiskan (uang, waktu)
+L2-0161|kata bantu untuk bunga, awan
+L2-0162|nyamuk
+L2-0163|alam; alami; wajar
+L2-0164|bulan (di langit)
+L2-0165|bintang
+L2-0166|lingkungan
+L2-0167|hari cerah
+L2-0168|hangat
+L2-0169|sejuk
+L2-0170|dingin; sejuk
+L2-0171|kering
+L2-0172|basah; lembap
+L2-0173|derajat (suhu); kata bantu untuk derajat
+L2-0174|topan
+L2-0175|musim
+L2-0176|pelestarian lingkungan; ramah lingkungan
+L2-0177|sampah
+L2-0178|mencemari; polusi
+L2-0179|dasar; bawah; akhir (bulan, tahun)
+L2-0180|di bawah
+L2-0181|dalam; di dalam
+L2-0182|dalam; tua (warna)
+L2-0183|dangkal; muda (warna)
+L2-0184|terjadi
+L2-0185|merawat; menjaga
+L2-0186|kehidupan; hidup
+L2-0187|buku harian
+L2-0188|mengalir
+L2-0189|berkeringat
+L2-0190|mimpi
+L2-0191|bantal
+L2-0192|jam weker
+L2-0193|sandal; sandal jepit
+L2-0194|handuk
+L2-0195|sikat; menyikat
+L2-0196|sabun
+L2-0197|pasta gigi
+L2-0198|tisu toilet
+L2-0199|keranjang
+L2-0200|hari libur
+L2-0201|berakhir; selesai
+L2-0202|selesai; habis
+L2-0203|jalan-jalan; berjalan santai
+L2-0204|jogging; lari santai
+L2-0205|piknik
+L2-0206|mendaki; memanjat; merangkak
+L2-0207|menepuk; memotret
+L2-0208|menangkap; meraih; menggaruk
+L2-0209|tempat duduk; kursi
+L2-0210|berita
+L2-0211|olahraga; pendidikan jasmani
+L2-0212|sering
+L2-0213|majalah
+L2-0214|seni rupa
+L2-0215|pelukis
+L2-0216|minat; hobi
+L2-0217|menerima; mengumpulkan; menyimpan
+L2-0218|berbicara; membicarakan
+L2-0219|mengobrol
+L2-0220|terlambat
+L2-0221|alat musik
+L2-0222|gitar
+L2-0223|menakutkan; mengerikan
+L2-0224|santai; ringan; mudah
+L2-0225|keadaan; situasi
+L2-0226|kabar; berita
+L2-0227|kelihatannya; tampaknya
+L2-0228|tarian
+L2-0229|berenang
+L2-0230|kolam renang
+L2-0231|permainan; bermain
+L2-0232|kedai teh
+L2-0233|tiket masuk
+L2-0234|menemani
+L2-0235|memanfaatkan; menggunakan
+L2-0236|manfaat; keuntungan
+L2-0237|kerugian; dampak buruk
+L2-0238|tujuan
+L2-0239|meminta; menuntut; permintaan
+L2-0240|bekerja sama; kerja sama
+L2-0241|tuan rumah; pemilik
+L2-0242|mentraktir; menjamu tamu
+L2-0243|membuat janji; mengajak; kira-kira
+L2-0244|janji temu; kencan
+L2-0245|pesta
+L2-0246|mengucapkan selamat; mendoakan
+L2-0247|meninggalkan; tinggal; menyisakan
+L2-0248|kata bantu untuk surat
+L2-0249|kotak surat
+L2-0250|perangko
+L2-0251|membalas surat; surat balasan
+L2-0252|surat; pos; email
+L2-0253|membuat; mengerjakan; mengutak-atik
+L2-0254|tenang; tidak khawatir
+L2-0255|mencuri
+L2-0256|penuh
+L2-0257|kehilangan; membuang
+L2-0258|menukar; mengganti
+L2-0259|bersama-sama
+L2-0260|pada saat yang sama; sekaligus
+L2-0261|melindungi
+L2-0262|keluar rumah; bepergian
+L2-0263|zaman modern; modern
+L2-0264|tradisional; tradisi
+L2-0265|malam tahun baru Imlek
+L2-0266|Tahun Baru Imlek
+L2-0267|hari raya; festival
+L2-0268|membawa; mendatangkan
+L2-0269|di antara; di tengah
+L2-0270|hukum
+L2-0271|segi; aspek; bidang
+L2-0272|bercanda
+L2-0273|sayang sekali
+L2-0274|nyonya tua; nenek
+L2-0275|terkenal
+L2-0276|bebas; kebebasan
+L2-0277|masyarakat
+L2-0278|perbedaan waktu; jet lag
+L2-0279|pusat kota; daerah perkotaan
+L2-0280|pemandian air panas
+L2-0281|jalan raya
+L2-0282|kecepatan
+L2-0283|di mana-mana
+L2-0284|tempat; lokasi
+L2-0285|bus
+L2-0286|semangat!; mengisi bensin
+L2-0287|sepeda motor
+L2-0288|kapal; perahu
+L2-0289|kereta bawah tanah
+L2-0290|MRT
+L2-0291|tempat parkir
+L2-0292|peron
+L2-0293|naik (kendaraan); memasang
+L2-0294|terbang
+L2-0295|turun (dari)
+L2-0296|naik (ke); masuk (kelas, kerja)
+L2-0297|ini (jamak); hal-hal ini
+L2-0298|itu (jamak); hal-hal itu
+L2-0299|timur; dunia Timur
+L2-0300|Afrika
+L2-0301|Amerika (benua)
+L2-0302|Eropa
+L2-0303|Asia
+L2-0304|benua; Tiongkok daratan
+L2-0305|bergerak; menggerakkan
+L2-0306|pelengkap verba: mampu (dalam 得起/不起)
+L2-0307|berhenti; parkir
+L2-0308|pusat; tengah
+L2-0309|visa
+L2-0310|barang bawaan; bagasi
+L2-0311|ransel
+L2-0312|gembok; kunci; mengunci
+L2-0313|pintu masuk
+L2-0314|pintu keluar; ekspor
+L2-0315|minyak; bensin
+L2-0316|kunci (anak kunci)
+L2-0317|arah
+L2-0318|lalu lintas; transportasi
+L2-0319|standar; baku; tepat
+L2-0320|memotret; berfoto
+L2-0321|kaki; tungkai
+L2-0322|punggung
+L2-0323|leher
+L2-0324|keringat
+L2-0325|raut muka; warna wajah
+L2-0326|ambulans
+L2-0327|batuk
+L2-0328|demam
+L2-0329|sakit kepala
+L2-0330|sakit; nyeri; menyayangi
+L2-0331|asuransi
+L2-0332|mendaftar (di rumah sakit); surat tercatat
+L2-0333|sikat gigi
+L2-0334|apotek
+L2-0335|menyelamatkan nyawa; tolong!
+L2-0336|pengaruh; memengaruhi
+L2-0337|perasaan; merasa
+L2-0338|semangat; tenaga; jiwa
+L2-0339|normal; wajar
+L2-0340|kaya; punya uang
+L2-0341|bisnis; usaha dagang
+L2-0342|pedagang; pebisnis
+L2-0343|nyonya pemilik toko; istri bos
+L2-0344|pelayan toko; pramuniaga
+L2-0345|memesan; memesan tempat; berlangganan
+L2-0346|memesan tempat; reservasi
+L2-0347|mendapat; memperoleh
+L2-0348|kesulitan; sulit
+L2-0349|toserba; department store
+L2-0350|pasar malam
+L2-0351|berjalan-jalan; melihat-lihat
+L2-0352|jalan-jalan belanja; cuci mata
+L2-0353|antre
+L2-0354|penuh; habis terjual
+L2-0355|membayar dengan kartu
+L2-0356|menjinjing; menyebutkan; mengajukan
+L2-0357|populer; sedang tren
+L2-0358|biru
+L2-0359|hijau
+L2-0360|merah
+L2-0361|hitam
+L2-0362|sweter
+L2-0363|jas hujan
+L2-0364|pakaian dalam
+L2-0365|atasan; baju luar
+L2-0366|sepatu kulit
+L2-0367|sarung tangan
+L2-0368|saku; kantong
+L2-0369|tip (uang)
+L2-0370|memberi diskon
+L2-0371|uang receh; uang kembalian
+L2-0372|uang saku
+L2-0373|menyimpan; menabung
+L2-0374|kata bantu untuk sepersepuluh yuan (sen)
+L2-0375|kelas atas; mewah; tingkat lanjut
+L2-0376|biasa; umum; pada umumnya
+L2-0377|cocok; sesuai; pas
+L2-0378|cocok untuk; sesuai dengan
+L2-0379|bulat; bundar
+L2-0380|habis; licin tandas
+L2-0381|mati; meninggal
+L2-0382|kotor
+L2-0383|rusak; sobek; pecah
+L2-0384|kata bantu untuk kantong
+L2-0385|kata bantu untuk set atau stel
+L2-0386|salad
+L2-0387|steik
+L2-0388|makanan laut
+L2-0389|ham
+L2-0390|hot dog
+L2-0391|bakpau tawar; mantou
+L2-0392|beras; meter
+L2-0393|tahu
+L2-0394|jeruk mandarin; jeruk keprok
+L2-0395|anggur (buah)
+L2-0396|mangga
+L2-0397|teh oolong
+L2-0398|susu kedelai
+L2-0399|cola
+L2-0400|teh susu
+L2-0401|minuman bersoda
+L2-0402|es batu
+L2-0403|makanan penutup; kue manis
+L2-0404|biskuit; kue kering
+L2-0405|garam
+L2-0406|rasa; bau
+L2-0407|mencium (bau)
+L2-0408|bau busuk; berbau
+L2-0409|kata bantu untuk anggota keluarga, suapan, sumur
+L2-0410|kata bantu untuk kaleng atau stoples
+L2-0411|kata bantu untuk benda kecil bulat
+L2-0412|apa pun; mana pun
+L2-0413|banyak
+L2-0414|segar; baru
+L2-0415|matang; masak; akrab; kenal baik
+L2-0416|menumis
+L2-0417|menggoreng (minyak banyak)
+L2-0418|mencicipi; mencoba
+L2-0419|mengisi; memasukkan; memasang
+L2-0420|tidak perlu
+L2-0421|bukan hanya; tidak hanya
+L2-0422|tidak perlu; tidak harus
+L2-0423|gawat; luar biasa; sangat
+L2-0424|tidak peduli; bagaimanapun
+L2-0425|terpaksa; mau tidak mau
+L2-0426|atau
+L2-0427|mungkin; kemungkinan
+L2-0428|lagi pula; dan juga
+L2-0429|ternyata; semula; asalnya
+L2-0430|mungkin; barangkali
+L2-0431|harus; wajib
+L2-0432|betapa; alangkah
+L2-0433|begini; seperti ini
+L2-0434|begitu; seperti itu
+L2-0435|dan lain-lain; dsb.
+L2-0436|yang lain
+L2-0437|selain; kecuali
+L2-0438|selalu; tidak pernah (dengan 不/沒)
+L2-0439|kira-kira; mungkin
+L2-0440|untunglah; lumayan
+L2-0441|sangat; sekali
+L2-0442|lalu; selanjutnya
+L2-0443|akhirnya; hasilnya
+L2-0444|segera; langsung
+L2-0445|tidak menyangka
+L2-0446|sebenarnya
+L2-0447|di antaranya
+L2-0448|sepenuhnya; sama sekali; lengkap
+L2-0449|cukup; agak; setara
+L2-0450|semua; segala sesuatu
+L2-0451|sudah
+L2-0452|terutama
+L2-0453|makin... makin... (越…越…)
+L2-0454|seluruh; utuh; tepat (jam)
+L2-0455|sedang; tepat
+L2-0456|asalkan; selama
+L2-0457|sebaiknya; paling baik
+L2-0458|sama; demikian pula
+L2-0459|kosong; hampa; langit
+L2-0460|waktu luang; kosong
+L2-0461|bahkan (連…都/也…); menghubungkan
+L2-0462|kali lipat
+L2-0463|termasuk; mencakup
+L2-0464|langkah; kata bantu untuk langkah
+L2-0465|saat itu; waktu itu
+L2-0466|sampai; ketika (nanti)
+L2-0467|kesal; jengkel; mengganggu
+L2-0468|kebetulan; pas; tepat
+L2-0469|atau; mungkin
+L2-0470|wah! (seruan kagum)
+L2-0471|memerlukan; butuh
+L2-0472|harus; perlu
+L2-0473|langsung; terus terang
+L2-0474|selalu; pada akhirnya; total
+L2-0475|menyeduh; merendam; gelembung
+L2-0476|lagi pula; dan
+L2-0477|contoh; perumpamaan
+L2-0478|misalnya; sebagai contoh
+L2-0479|meneruskan; menyebarkan; mengoper
+L2-0480|lain; yang lain
+L2-0481|selain itu; lagi pula; yang lain
+L2-0482|kira-kira; sekitar; kiri dan kanan
+L2-0483|ketika; menjadi; bertindak sebagai
+L2-0484|kata bantu untuk jenis; jenis; golongan
+L2-0485|kata bantu untuk macam atau jenis
